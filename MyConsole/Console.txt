@@ -1,0 +1,12 @@
+100 milion * 10
+Time spend: RunTime 183,0437663s. p1 wins: 58493199. p2 wins: 28807578. Ties: 12699223
+Time spend: RunTime 182,5114328s. p1 wins: 58496688. p2 wins: 28797403. Ties: 12705909
+Time spend: RunTime 180,1995676s. p1 wins: 58489630. p2 wins: 28804981. Ties: 12705389
+Time spend: RunTime 181,7103864s. p1 wins: 58488512. p2 wins: 28811840. Ties: 12699648
+Time spend: RunTime 181,485983s. p1 wins: 58486064. p2 wins: 28812178. Ties: 12701758
+Time spend: RunTime 182,2958606s. p1 wins: 58492079. p2 wins: 28810079. Ties: 12697842
+Time spend: RunTime 184,0279237s. p1 wins: 58492223. p2 wins: 28815809. Ties: 12691968
+Time spend: RunTime 182,5329006s. p1 wins: 58497334. p2 wins: 28808170. Ties: 12694496
+Time spend: RunTime 182,5166302s. p1 wins: 58492271. p2 wins: 28811721. Ties: 12696008
+Time spend: RunTime 183,4293406s. p1 wins: 58498886. p2 wins: 28803921. Ties: 12697193
+Total run time: RunTime 1823,8114292s
