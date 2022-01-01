@@ -1,4 +1,4 @@
-namespace CS_Random
+namespace CS_Math
 {
     class MyRandom
     {

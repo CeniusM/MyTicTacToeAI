@@ -1,0 +1,5 @@
+Rextified linear Unit
+
+This is ised for getting all numbers to be 0 or higher
+or the same as
+replace all negativ numbers with 0
