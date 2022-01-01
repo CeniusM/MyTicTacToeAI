@@ -88,5 +88,19 @@ namespace CS_TicTacToe
             if (playerTurn == 1) playerTurn = 2;
             else playerTurn = 1;
         }
+
+        public static int Get1DField(int x, int y)
+        {
+            int field = x;
+            if (y != 0)
+                field += y * 3;
+
+            return field;
+        }
+
+        public static int[] Get2DField(int pos) // returns an x and y value
+        {
+            return new int[1];
+        }
     }
 }
