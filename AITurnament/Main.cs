@@ -17,7 +17,7 @@ namespace CS_MyAI
         }
         public void Start()
         {
-            Turnament trunament = new Turnament();
+            Turnamentv1 trunament = new Turnamentv1(9, 9, 2);
 
             trunament.Start();
         }
