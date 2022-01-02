@@ -31,6 +31,22 @@ namespace TTT_Turnament
             myForm.KeyPress += stop;
         }
 
+        public Turnamentv2b(int playerAmout, int roundsPerPlayer, int gameAmount, Form1 myForm, TicTacToeAIv2b tttAI)
+        {
+            this.playerAmout = playerAmout;
+            // this.roundsPerPlayer = roundsPerPlayer; // no use right now
+            this.gameAmount = gameAmount;
+            winnerOgEachGame = new List<TicTacToeAIv2b>();
+            Players = new List<TicTacToeAIv2b>();
+            for (int i = 0; i < playerAmout; i++)
+            {
+                Players.Add(tttAI.GiveBirth());
+            }
+            stats = new List<TurnamentStats>();
+            this.myForm = myForm;
+            myForm.KeyPress += stop;
+        }
+
         private void stop(object? sender, KeyPressEventArgs e)
         {
             stopTurny = true;
@@ -195,17 +211,10 @@ namespace TTT_Turnament
                 ResetFitnessValues();
             }
 
-            // for (int i = 0; i < Players.Count; i++) // mutate the players and kill some
-            // {
-            //     if (Players[i].fitnessScore < 0)
-            //     {
-            //         Players.RemoveAt(i);
-            //     }
-            //     else if (Players[i].fitnessScore > 0)
-            //     {
-            //         Players.Add(Players[i].GiveBirth());
-            //     }
-            // }
+            for (int i = 0; i < Players.Count(); i++)
+            {
+                Players[i] = Players[i].GiveBirth();
+            }
         }
         private void ResetFitnessValues()
         {

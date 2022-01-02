@@ -9,7 +9,8 @@ namespace CS_TicTacToeAI
         public static void SaveAI(TicTacToeAIv2b AI)
         {
             string Data = "";
-            Data += "Weights";
+            Data += "Weights\n";
+            Data += "w1\n";
             for (int i = 0; i < AI.w1.GetLength(0); i++)
             {
                 for (int j = 0; j < AI.w1.GetLength(1); j++)
@@ -18,6 +19,7 @@ namespace CS_TicTacToeAI
                 }
                 Data += "\n";
             }
+            Data += "w2\n";
             for (int i = 0; i < AI.w2.GetLength(0); i++)
             {
                 for (int j = 0; j < AI.w2.GetLength(1); j++)
@@ -26,6 +28,7 @@ namespace CS_TicTacToeAI
                 }
                 Data += "\n";
             }
+            Data += "w3\n";
             for (int i = 0; i < AI.w3.GetLength(0); i++)
             {
                 for (int j = 0; j < AI.w3.GetLength(1); j++)
@@ -34,6 +37,7 @@ namespace CS_TicTacToeAI
                 }
                 Data += "\n";
             }
+            Data += "w4\n";
             for (int i = 0; i < AI.w4.GetLength(0); i++)
             {
                 for (int j = 0; j < AI.w4.GetLength(1); j++)
@@ -43,16 +47,20 @@ namespace CS_TicTacToeAI
                 Data += "\n";
             }
             Data += "mutability \n";
-            Data += AI.mutability;
+            Data += AI.mutability + "\n";
 
-            Data += "fitnessScore";
-            Data += AI.fitnessScore;
+            Data += "fitnessScore \n";
+            Data += AI.fitnessScore + "\n";
 
             MyConsole.WriteLine(Data, path);
         }
-        public static void GetAI()
+        public static TicTacToeAIv2b GetAIv2b(string path)
         {
+            // split the the string and convert it to the ai
 
+            // after this, test it by saving it again and compare if its the exact same
+
+            return new TicTacToeAIv2b();
         }
         private static void WriteLine(string text)
         {

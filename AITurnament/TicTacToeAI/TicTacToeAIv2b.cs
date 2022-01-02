@@ -31,7 +31,7 @@ namespace CS_TicTacToeAI
         public float[,] w4; // h_nodes3 to output
         //---
 
-        public int mutability = 20; // how many times the ai wants to mutate, this in of it self could be mutated
+        public int mutability = 30; // how many times the ai wants to mutate, this in of it self could be mutated
 
         public TicTacToeAIv2b()
         {
@@ -140,7 +140,7 @@ namespace CS_TicTacToeAI
             w2 = MutateWeight(w2, mutability);
             w2 = MutateWeight(w3, mutability);
 
-            if (rnd.Next(0, 2) == 1)
+            if (rnd.Next(0, 4) > 1)
                 mutability += 1;
             else
                 mutability -= 1;
@@ -154,6 +154,19 @@ namespace CS_TicTacToeAI
         }
 
         private float[,] MutateWeight(float[,] weight, int mutability)
+        {
+            Random rnd = new Random();
+            for (int i = 0; i < mutability; i++)
+            {
+                float change = 0;
+                change = (float)rnd.NextDouble() / 4;
+                if (rnd.Next(0, 0) == 1)
+                    change *= -1;
+                weight[rnd.Next(0, weight.GetLength(0)), rnd.Next(0, weight.GetLength(1))] = 0;
+            }
+            return weight; // i had written new float[1,1] lol. i jinxed my self
+        }
+        public float[,] Mutate(float[,] weight, int mutability) // maby for some other time
         {
             Random rnd = new Random();
             for (int i = 0; i < mutability; i++)
