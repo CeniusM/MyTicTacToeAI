@@ -17,7 +17,7 @@ namespace CS_MyAI
         }
         public void Start()
         {
-            Turnamentv2b trunament = new Turnamentv2b(350, 100, 200, _Form);
+            Turnamentv2b trunament = new Turnamentv2b(400, 100, 200, _Form);
 
             trunament.Start();
 

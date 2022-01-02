@@ -8,7 +8,7 @@ namespace TTT_Turnament
     class Turnamentv2b
     {
         public int playerAmout; // players playing at any given time
-        public int roundsPerPlayer; // how many rounds in a game
+        // public int roundsPerPlayer; // how many rounds in a game//nots used
         public int gameAmount; // games per turnament, and inbetween each game you need to mutate and kill the weak
         public List<TicTacToeAIv2b> winnerOgEachGame; // 0 - (gameAmount-1)
         public List<TicTacToeAIv2b> Players;
@@ -148,13 +148,13 @@ namespace TTT_Turnament
                 }
             }
 
-            int randomAIs = 10;
-            while (randomAIs > 0)
-            {
-                Players.RemoveAt(rnd.Next(0,Players.Count()-1));
-                killed++;
-                randomAIs--;
-            }
+            // int randomAIs = 10;
+            // while (randomAIs > 0)
+            // {
+            //     Players.RemoveAt(rnd.Next(0,Players.Count()-1));
+            //     killed++;
+            //     randomAIs--;
+            // }
 
             float minFitness = 100000;
             for (int i = 0; i < killed; i++) // lets the top AIs give birth

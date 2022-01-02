@@ -19,8 +19,8 @@ namespace CS_TicTacToeAI
 
         private int i_Nodes = 9;
         private int h_Nodes1 = 9;
-        private int h_Nodes2 = 9;
-        private int o_Nodes = 9;
+        // private int h_Nodes2 = 9; // not used, maby in v3
+        // private int o_Nodes = 9;
 
         /* ---
         each w1-3 has a col(the first cord) to store wich neron it goes from and to(data in the rows)*/

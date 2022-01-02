@@ -8,7 +8,7 @@ namespace TTT_Turnament
     class Turnamentv2
     {
         public int playerAmout; // players playing at any given time
-        public int roundsPerPlayer; // how many rounds in a game
+        // public int roundsPerPlayer; // how many rounds in a game// not used
         public int gameAmount; // games per turnament, and inbetween each game you need to mutate and kill the weak
         public List<TicTacToeAIv2> winnerOgEachGame; // 0 - (gameAmount-1)
         public List<TicTacToeAIv2> Players;
