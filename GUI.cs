@@ -28,6 +28,13 @@ namespace MyGame
         {
             _Bitmap = new Bitmap(_Bitmap.Width, _Bitmap.Height);
         }
+        public void Resetv2()
+        {
+            _Brush.Color = Color.White;
+            graphicsObj.FillRectangle(_Brush, 0, 0, _Bitmap.Width, _Bitmap.Height);
+            // _Bitmap = new Bitmap(_Bitmap.Width, _Bitmap.Height, graphicsObj);
+            // graphicsObj = Graphics.FromImage(_Bitmap);
+        }
 
         public void DrawLine(int x1, int y1, int x2, int y2, Color color, int width)
         {

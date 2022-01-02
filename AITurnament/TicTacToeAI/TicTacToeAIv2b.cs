@@ -1,11 +1,19 @@
+/*
+Things to add onto this ai
+
+we need Logistic curves for each nerun (not the weights) when it has been given a value
+
+we need to make the input 1 or -1 and make the ai what player it is.
+so if the ai is player 1, the x is 1 as input, and the o is -1. and if its player 2, the o is 1 and the x is -1
+
+
+*/
 using CS_Math;
 
 namespace CS_TicTacToeAI
 {
-    class TicTacToeAIv2 
-    // reason this dosent work is becous of the fackt that the inputs is 1 or 2, depending on
-    // so it dosent know anything about what it should do with 1 or 2s. its dosent even knpw what player it is
-
+    class TicTacToeAIv2b // this implements values to be form (-1) - 1 indstead of 1-2
+                         // and logistic curves---- not done
     {
         public float fitnessScore = 0;
 
@@ -23,21 +31,21 @@ namespace CS_TicTacToeAI
 
         public int mutability = 10; // how many times the ai wants to mutate, this in of it self could be mutated
 
-        public TicTacToeAIv2()
+        public TicTacToeAIv2b()
         {
             w1 = MyRandom.RandomInputs2D(i_Nodes, h_Nodes1); // creates the grid for all the weights between the input nodes to the hidden nodes1
             w2 = MyRandom.RandomInputs2D(i_Nodes, h_Nodes1);
             w3 = MyRandom.RandomInputs2D(i_Nodes, h_Nodes1);
         }
 
-        public TicTacToeAIv2(float[,] w1, float[,] w2, float[,] w3) // for inheriten
+        public TicTacToeAIv2b(float[,] w1, float[,] w2, float[,] w3) // for inheriten
         {
             this.w1 = w1;
             this.w2 = w2;
             this.w3 = w3;
         }
 
-        public TicTacToeAIv2(float[,] w1, float[,] w2, float[,] w3, int mutability) // for inheriten
+        public TicTacToeAIv2b(float[,] w1, float[,] w2, float[,] w3, int mutability) // for inheriten
         {
             this.w1 = w1;
             this.w2 = w2;
@@ -45,7 +53,7 @@ namespace CS_TicTacToeAI
             this.mutability = mutability;
         }
 
-        public int[] Getmove(int[,] input) // an array of the board. 1*9 insted of 3x3
+        public int[] Getmove(int[,] input, int playerNum) // an array of the board. 1*9 insted of 3x3 and gets what player it is to make the nums form -1 to 1
         {
             // turns the input to float
 
@@ -55,14 +63,19 @@ namespace CS_TicTacToeAI
             {
                 for (int j = 0; j < 3; j++)
                 {
-                    newInput[(i * 3) + j] = input[i, j];
+                    if (input[i, j] == playerNum)
+                        newInput[(i * 3) + j] = 1;
+                    else if (input[i, j] == 0)
+                        newInput[(i * 3) + j] = 0;
+                    else
+                        newInput[(i * 3) + j] = -1;
                 }
             }
 
             return Getmove(newInput);
         }
 
-        public int[] Getmove(int[] input) // an array of the board. 1*9 insted of 3x3
+        private int[] Getmove(int[] input) // an array of the board. 1*9 insted of 3x3
         {
             // turns the input to float
             float[] fInput = MyMath.GetFloatArr(input);
@@ -109,7 +122,7 @@ namespace CS_TicTacToeAI
             return output;
         }
 
-        public TicTacToeAIv2 GiveBirth()
+        public TicTacToeAIv2b GiveBirth()
         {
             Random rnd = new Random();
 
@@ -129,7 +142,7 @@ namespace CS_TicTacToeAI
             if (mutability > 50)
                 mutability = 50;
 
-            return new TicTacToeAIv2(w1, w2, w3, mutability);
+            return new TicTacToeAIv2b(w1, w2, w3, mutability);
         }
 
         private float[,] MutateWeight(float[,] weight, int mutability)

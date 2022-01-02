@@ -5,25 +5,25 @@ using winForm;
 
 namespace TTT_Turnament
 {
-    class Turnamentv2
+    class Turnamentv2b
     {
         public int playerAmout; // players playing at any given time
         public int roundsPerPlayer; // how many rounds in a game
         public int gameAmount; // games per turnament, and inbetween each game you need to mutate and kill the weak
-        public List<TicTacToeAIv2> winnerOgEachGame; // 0 - (gameAmount-1)
-        public List<TicTacToeAIv2> Players;
+        public List<TicTacToeAIv2b> winnerOgEachGame; // 0 - (gameAmount-1)
+        public List<TicTacToeAIv2b> Players;
         public List<TurnamentStats> stats;
         public Form1 myForm;
-        public Turnamentv2(int playerAmout, int roundsPerPlayer, int gameAmount, Form1 myForm)
+        public Turnamentv2b(int playerAmout, int roundsPerPlayer, int gameAmount, Form1 myForm)
         {
             this.playerAmout = playerAmout;
             // this.roundsPerPlayer = roundsPerPlayer; // no use right now
             this.gameAmount = gameAmount;
-            winnerOgEachGame = new List<TicTacToeAIv2>();
-            Players = new List<TicTacToeAIv2>();
+            winnerOgEachGame = new List<TicTacToeAIv2b>();
+            Players = new List<TicTacToeAIv2b>();
             for (int i = 0; i < playerAmout; i++)
             {
-                Players.Add(new TicTacToeAIv2());
+                Players.Add(new TicTacToeAIv2b());
             }
             stats = new List<TurnamentStats>();
             this.myForm = myForm;
@@ -103,18 +103,18 @@ namespace TTT_Turnament
             stats.Add(thisGameStats);
         }
 
-        private void PlayRound(TicTacToeAIv2 AI1, TicTacToeAIv2 AI2, TurnamentStats roundStats) // Wil play a ttt game and determan fitness
+        private void PlayRound(TicTacToeAIv2b AI1, TicTacToeAIv2b AI2, TurnamentStats roundStats) // Wil play a ttt game and determan fitness
         {
             TicTacToe ttt = new TicTacToe();
             while (ttt.gameRunning)
             {
                 if (ttt.playerTurn == 1)
                 {
-                    ttt.MakeMove(AI1.Getmove(ttt.Board));
+                    ttt.MakeMove(AI1.Getmove(ttt.Board, 1));
                 }
                 else
                 {
-                    ttt.MakeMove(AI2.Getmove(ttt.Board));
+                    ttt.MakeMove(AI2.Getmove(ttt.Board, 2));
                 }
             }
             if (ttt.winner == 1)
@@ -164,7 +164,7 @@ namespace TTT_Turnament
                 {
                     if (rnd.Next(0,2) == 1)
                     {
-                        Players.Add(new TicTacToeAIv2());
+                        Players.Add(new TicTacToeAIv2b());
                         killedAAI = true;
                         break;
                     }

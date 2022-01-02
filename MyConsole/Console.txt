@@ -1,15 +1,403 @@
-100 milion * 10
-Time spend: RunTime 183,0437663s. p1 wins: 58493199. p2 wins: 28807578. Ties: 12699223
-Time spend: RunTime 182,5114328s. p1 wins: 58496688. p2 wins: 28797403. Ties: 12705909
-Time spend: RunTime 180,1995676s. p1 wins: 58489630. p2 wins: 28804981. Ties: 12705389
-Time spend: RunTime 181,7103864s. p1 wins: 58488512. p2 wins: 28811840. Ties: 12699648
-Time spend: RunTime 181,485983s. p1 wins: 58486064. p2 wins: 28812178. Ties: 12701758
-Time spend: RunTime 182,2958606s. p1 wins: 58492079. p2 wins: 28810079. Ties: 12697842
-Time spend: RunTime 184,0279237s. p1 wins: 58492223. p2 wins: 28815809. Ties: 12691968
-Time spend: RunTime 182,5329006s. p1 wins: 58497334. p2 wins: 28808170. Ties: 12694496
-Time spend: RunTime 182,5166302s. p1 wins: 58492271. p2 wins: 28811721. Ties: 12696008
-Time spend: RunTime 183,4293406s. p1 wins: 58498886. p2 wins: 28803921. Ties: 12697193
-Total run time: RunTime 1823,8114292s
+p1Winns72869. p2Winns32846. ties16435. 
 
+p1Winns73144. p2Winns32616. ties16390. 
 
-Amount of game winners: 100
+p1Winns73476. p2Winns32684. ties15990. 
+
+p1Winns73294. p2Winns33017. ties15839. 
+
+p1Winns73436. p2Winns32932. ties15782. 
+
+p1Winns73588. p2Winns32891. ties15671. 
+
+p1Winns73562. p2Winns32664. ties15924. 
+
+p1Winns73353. p2Winns33057. ties15740. 
+
+p1Winns73358. p2Winns32939. ties15853. 
+
+p1Winns73313. p2Winns33158. ties15679. 
+
+p1Winns73328. p2Winns33388. ties15434. 
+
+p1Winns73744. p2Winns33428. ties14978. 
+
+p1Winns73789. p2Winns33379. ties14982. 
+
+p1Winns73467. p2Winns33650. ties15033. 
+
+p1Winns73437. p2Winns33713. ties15000. 
+
+p1Winns73637. p2Winns33875. ties14638. 
+
+p1Winns73336. p2Winns34129. ties14685. 
+
+p1Winns73510. p2Winns33944. ties14696. 
+
+p1Winns73427. p2Winns34004. ties14719. 
+
+p1Winns73824. p2Winns33959. ties14367. 
+
+p1Winns74027. p2Winns33748. ties14375. 
+
+p1Winns74313. p2Winns33573. ties14264. 
+
+p1Winns73929. p2Winns33849. ties14372. 
+
+p1Winns74063. p2Winns33689. ties14398. 
+
+p1Winns73977. p2Winns33810. ties14363. 
+
+p1Winns74171. p2Winns33699. ties14280. 
+
+p1Winns73835. p2Winns33664. ties14651. 
+
+p1Winns73511. p2Winns33741. ties14898. 
+
+p1Winns73452. p2Winns33394. ties15304. 
+
+p1Winns73690. p2Winns33070. ties15390. 
+
+p1Winns73791. p2Winns33234. ties15125. 
+
+p1Winns74140. p2Winns32924. ties15086. 
+
+p1Winns74069. p2Winns33187. ties14894. 
+
+p1Winns73960. p2Winns33362. ties14828. 
+
+p1Winns73883. p2Winns33589. ties14678. 
+
+p1Winns73733. p2Winns33631. ties14786. 
+
+p1Winns73860. p2Winns33591. ties14699. 
+
+p1Winns74043. p2Winns33679. ties14428. 
+
+p1Winns73883. p2Winns33505. ties14762. 
+
+p1Winns73826. p2Winns33345. ties14979. 
+
+p1Winns73572. p2Winns33379. ties15199. 
+
+p1Winns73783. p2Winns33285. ties15082. 
+
+p1Winns73950. p2Winns33055. ties15145. 
+
+p1Winns73445. p2Winns33442. ties15263. 
+
+p1Winns73442. p2Winns33376. ties15332. 
+
+p1Winns73633. p2Winns33274. ties15243. 
+
+p1Winns73499. p2Winns33461. ties15190. 
+
+p1Winns73891. p2Winns33093. ties15166. 
+
+p1Winns73479. p2Winns33356. ties15315. 
+
+p1Winns73876. p2Winns33202. ties15072. 
+
+p1Winns74395. p2Winns33074. ties14681. 
+
+p1Winns74494. p2Winns33120. ties14536. 
+
+p1Winns74559. p2Winns33154. ties14437. 
+
+p1Winns74265. p2Winns33282. ties14603. 
+
+p1Winns74397. p2Winns32905. ties14848. 
+
+p1Winns74114. p2Winns33162. ties14874. 
+
+p1Winns74074. p2Winns33019. ties15057. 
+
+p1Winns74224. p2Winns32888. ties15038. 
+
+p1Winns74307. p2Winns32753. ties15090. 
+
+p1Winns74068. p2Winns33086. ties14996. 
+
+p1Winns74151. p2Winns32995. ties15004. 
+
+p1Winns73688. p2Winns33040. ties15422. 
+
+p1Winns73202. p2Winns33690. ties15258. 
+
+p1Winns72894. p2Winns34160. ties15096. 
+
+p1Winns72932. p2Winns34305. ties14913. 
+
+p1Winns73390. p2Winns34083. ties14677. 
+
+p1Winns74135. p2Winns33417. ties14598. 
+
+p1Winns74299. p2Winns33575. ties14276. 
+
+p1Winns74157. p2Winns33510. ties14483. 
+
+p1Winns74242. p2Winns33590. ties14318. 
+
+p1Winns74594. p2Winns33019. ties14537. 
+
+p1Winns74597. p2Winns33078. ties14475. 
+
+p1Winns74576. p2Winns32788. ties14786. 
+
+p1Winns74801. p2Winns32613. ties14736. 
+
+p1Winns74440. p2Winns33145. ties14565. 
+
+p1Winns74555. p2Winns32873. ties14722. 
+
+p1Winns74349. p2Winns32772. ties15029. 
+
+p1Winns74165. p2Winns33071. ties14914. 
+
+p1Winns73712. p2Winns33615. ties14823. 
+
+p1Winns73725. p2Winns33674. ties14751. 
+
+p1Winns73240. p2Winns34129. ties14781. 
+
+p1Winns73705. p2Winns34026. ties14419. 
+
+p1Winns73752. p2Winns33915. ties14483. 
+
+p1Winns73969. p2Winns33790. ties14391. 
+
+p1Winns74119. p2Winns33698. ties14333. 
+
+p1Winns73992. p2Winns33679. ties14479. 
+
+p1Winns73436. p2Winns33864. ties14850. 
+
+p1Winns73587. p2Winns33757. ties14806. 
+
+p1Winns73615. p2Winns33547. ties14988. 
+
+p1Winns73499. p2Winns33633. ties15018. 
+
+p1Winns73516. p2Winns33714. ties14920. 
+
+p1Winns73619. p2Winns33415. ties15116. 
+
+p1Winns73833. p2Winns33051. ties15266. 
+
+p1Winns73510. p2Winns33441. ties15199. 
+
+p1Winns73484. p2Winns33891. ties14775. 
+
+p1Winns73439. p2Winns33476. ties15235. 
+
+p1Winns72921. p2Winns33765. ties15464. 
+
+p1Winns72811. p2Winns33809. ties15530. 
+
+p1Winns72817. p2Winns33643. ties15690. 
+
+p1Winns73174. p2Winns33484. ties15492. 
+
+p1Winns73713. p2Winns33115. ties15322. 
+
+p1Winns73259. p2Winns33368. ties15523. 
+
+p1Winns73505. p2Winns33124. ties15521. 
+
+p1Winns73441. p2Winns32973. ties15736. 
+
+p1Winns73489. p2Winns32761. ties15900. 
+
+p1Winns73414. p2Winns32450. ties16286. 
+
+p1Winns73795. p2Winns31963. ties16392. 
+
+p1Winns73559. p2Winns31852. ties16739. 
+
+p1Winns73614. p2Winns31728. ties16808. 
+
+p1Winns73929. p2Winns31475. ties16746. 
+
+p1Winns73848. p2Winns31486. ties16816. 
+
+p1Winns73996. p2Winns31516. ties16638. 
+
+p1Winns74132. p2Winns31526. ties16492. 
+
+p1Winns73718. p2Winns31733. ties16699. 
+
+p1Winns73861. p2Winns31658. ties16631. 
+
+p1Winns74087. p2Winns31551. ties16512. 
+
+p1Winns73933. p2Winns31423. ties16794. 
+
+p1Winns74317. p2Winns31115. ties16718. 
+
+p1Winns73883. p2Winns31396. ties16871. 
+
+p1Winns74183. p2Winns31704. ties16263. 
+
+p1Winns73613. p2Winns32173. ties16364. 
+
+p1Winns73863. p2Winns31965. ties16322. 
+
+p1Winns73550. p2Winns32300. ties16300. 
+
+p1Winns73995. p2Winns31947. ties16208. 
+
+p1Winns73887. p2Winns32217. ties16046. 
+
+p1Winns74038. p2Winns32123. ties15989. 
+
+p1Winns74031. p2Winns32304. ties15815. 
+
+p1Winns73890. p2Winns32610. ties15650. 
+
+p1Winns73453. p2Winns32990. ties15707. 
+
+p1Winns73196. p2Winns33309. ties15645. 
+
+p1Winns73464. p2Winns33041. ties15645. 
+
+p1Winns73578. p2Winns32904. ties15668. 
+
+p1Winns73515. p2Winns32920. ties15715. 
+
+p1Winns73806. p2Winns32957. ties15387. 
+
+p1Winns73422. p2Winns33050. ties15678. 
+
+p1Winns73059. p2Winns33281. ties15810. 
+
+p1Winns72881. p2Winns33457. ties15812. 
+
+p1Winns73231. p2Winns33056. ties15863. 
+
+p1Winns73432. p2Winns32999. ties15719. 
+
+p1Winns73839. p2Winns32763. ties15548. 
+
+p1Winns73766. p2Winns32949. ties15435. 
+
+p1Winns73489. p2Winns33181. ties15480. 
+
+p1Winns73311. p2Winns33071. ties15768. 
+
+p1Winns73359. p2Winns32991. ties15800. 
+
+p1Winns73756. p2Winns32719. ties15675. 
+
+p1Winns74008. p2Winns32841. ties15301. 
+
+p1Winns74409. p2Winns32478. ties15263. 
+
+p1Winns74421. p2Winns32312. ties15417. 
+
+p1Winns74217. p2Winns32537. ties15396. 
+
+p1Winns73974. p2Winns32776. ties15400. 
+
+p1Winns73943. p2Winns32735. ties15472. 
+
+p1Winns73925. p2Winns33069. ties15156. 
+
+p1Winns73738. p2Winns33089. ties15323. 
+
+p1Winns73862. p2Winns33007. ties15281. 
+
+p1Winns74237. p2Winns32623. ties15290. 
+
+p1Winns73723. p2Winns32869. ties15558. 
+
+p1Winns74008. p2Winns32502. ties15640. 
+
+p1Winns74119. p2Winns32446. ties15585. 
+
+p1Winns74258. p2Winns32305. ties15587. 
+
+p1Winns74301. p2Winns32146. ties15703. 
+
+p1Winns74113. p2Winns32219. ties15818. 
+
+p1Winns74035. p2Winns32181. ties15934. 
+
+p1Winns73521. p2Winns32646. ties15983. 
+
+p1Winns73226. p2Winns32681. ties16243. 
+
+p1Winns73348. p2Winns32443. ties16359. 
+
+p1Winns73064. p2Winns32602. ties16484. 
+
+p1Winns73445. p2Winns31932. ties16773. 
+
+p1Winns73285. p2Winns32102. ties16763. 
+
+p1Winns73565. p2Winns32115. ties16470. 
+
+p1Winns73581. p2Winns32074. ties16495. 
+
+p1Winns73654. p2Winns31992. ties16504. 
+
+p1Winns73559. p2Winns32292. ties16299. 
+
+p1Winns73270. p2Winns32926. ties15954. 
+
+p1Winns73167. p2Winns32727. ties16256. 
+
+p1Winns73292. p2Winns32271. ties16587. 
+
+p1Winns73617. p2Winns32265. ties16268. 
+
+p1Winns73525. p2Winns32554. ties16071. 
+
+p1Winns73604. p2Winns32749. ties15797. 
+
+p1Winns74331. p2Winns32364. ties15455. 
+
+p1Winns74398. p2Winns32259. ties15493. 
+
+p1Winns74520. p2Winns32238. ties15392. 
+
+p1Winns74320. p2Winns32463. ties15367. 
+
+p1Winns74448. p2Winns32447. ties15255. 
+
+p1Winns74392. p2Winns32602. ties15156. 
+
+p1Winns74575. p2Winns32229. ties15346. 
+
+p1Winns74699. p2Winns32183. ties15268. 
+
+p1Winns74840. p2Winns32129. ties15181. 
+
+p1Winns74620. p2Winns32490. ties15040. 
+
+p1Winns74438. p2Winns32600. ties15112. 
+
+p1Winns74397. p2Winns32741. ties15012. 
+
+p1Winns74537. p2Winns32774. ties14839. 
+
+p1Winns74418. p2Winns32679. ties15053. 
+
+p1Winns74704. p2Winns32173. ties15273. 
+
+p1Winns74673. p2Winns32258. ties15219. 
+
+p1Winns74388. p2Winns32611. ties15151. 
+
+p1Winns74785. p2Winns32307. ties15058. 
+
+p1Winns74605. p2Winns32499. ties15046. 
+
+p1Winns74511. p2Winns32623. ties15016. 
+
+p1Winns74953. p2Winns32231. ties14966. 
+
+p1Winns74698. p2Winns32441. ties15011. 
+
+the whole turny. p1Winns6585704. p2Winns14766521. ties3077775. 
+firstGame. p1Winns72869. p2Winns32846. ties16435. 
+lastGame. p1Winns74698. p2Winns32441. ties15011.
