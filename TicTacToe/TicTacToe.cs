@@ -14,7 +14,10 @@ namespace CS_TicTacToe
             gameRunning = true;
             winner = 0;
         }
-
+        public void MakeMove(int[] input)
+        {
+            MakeMove(input[0], input[1]);
+        }
         public void MakeMove(int i, int j)
         {
             if (!gameRunning) return;
@@ -98,9 +101,35 @@ namespace CS_TicTacToe
             return field;
         }
 
-        public static int[] Get2DField(int pos) // returns an x and y value
+        public static int[] Get2DField(int num) // returns an reverse y and normla x value
         {
-            return new int[1];
+            int xCoord = 0;
+            int yCoord = 0;
+
+            while (num > 2)
+            {
+                num -= 3;
+                yCoord++;
+            }
+            xCoord = num;
+
+            int[] output = { yCoord, xCoord };
+
+            return output;
         }
     }
 }
+/*
+function getCoords(num) {
+  let xCoord = 0;
+  let yCoord = 0;
+  while (num > 2) {
+    console.log(num);
+    num -= 3;
+    yCoord++;
+  }
+  xCoord = num;
+  console.log(board);
+  return [yCoord, xCoord];
+}
+*/

@@ -11,3 +11,5 @@ Time spend: RunTime 182,5166302s. p1 wins: 58492271. p2 wins: 28811721. Ties: 12
 Time spend: RunTime 183,4293406s. p1 wins: 58498886. p2 wins: 28803921. Ties: 12697193
 Total run time: RunTime 1823,8114292s
 
+
+Amount of game winners: 100

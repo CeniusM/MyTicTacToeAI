@@ -17,11 +17,11 @@ namespace CS_MyAI
         }
         public void Start()
         {
-            Turnamentv2 trunament = new Turnamentv2();
+            // Turnamentv1 trunament = new Turnamentv1(9, 9, 2);
 
-            trunament.Start();
+            // trunament.Start();
 
-            // Test();
+            Test();
         }
 
         private void Test()
@@ -32,6 +32,13 @@ namespace CS_MyAI
             int SampleSize = 10;
 
             string totalTime = "";
+            NewMethod(Winners, ref SampleSize, ref totalTime);
+            MyConsole.WriteLine("Total run time: " + totalTime);
+
+        }
+
+        private static void NewMethod(List<TicTacToeAIv2> Winners, ref int SampleSize, ref string totalTime)
+        {
             totalTime += MyStopwatch.Measure(() =>
             {
 
@@ -89,8 +96,6 @@ namespace CS_MyAI
                     SampleSize--;
                 }
             }, 1);
-            MyConsole.WriteLine("Total run time: " + totalTime);
-
         }
     }
 }

@@ -42,33 +42,105 @@ namespace CS_TicTacToeAI
             this.mutability = mutability;
         }
 
+        public int[] Getmove(int[,] input) // an array of the board. 1*9 insted of 3x3
+        {
+            // turns the input to float
+
+            int[] newInput = new int[9];
+
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    newInput[(i * 3) + j] = input[i, j];
+                }
+            }
+
+            return Getmove(newInput);
+        }
+
         public int[] Getmove(int[] input) // an array of the board. 1*9 insted of 3x3
         {
             // turns the input to float
             float[] fInput = MyMath.GetFloatArr(input);
 
+            //first layer of nerourns
             float[] h_Nodes1Values = GetLayer(fInput, w1);
 
+            //second layer of nerourns
             float[] h_Nodes2Values = GetLayer(h_Nodes1Values, w2);
 
+            //third aka last layer of nerourns
             float[] o_Nodes = GetLayer(h_Nodes2Values, w3);
+
+            // makes it so only the outputs where you can get a output is there, tho the ai needs to learn this it self in the futrure by gett PUNISHED
+            for (int i = 0; i < input.GetLength(0); i++)
+            {
+                if (input[i] != 0)
+                    o_Nodes[i] = -100;
+            }
 
             int feild = MyMath.GetHeighsValue(o_Nodes);
 
             return CS_TicTacToe.TicTacToe.Get2DField(feild); // returns the 2d representation of a peice in ttt
         }
 
+        /// <summary>
         // returns a float arr after getting the input values and using the weights
-        public float[] GetLayer(float[] input, float[,] weights)
+        /// <summary>
+        public float[] GetLayer(float[] input, float[,] weights) // get layer also need to make alll the negativ numbers to 0
         {
-            return new float[9];
+            float[] output = new float[input.GetLength(0)];
+
+            //code
+            for (int i = 0; i < output.GetLength(0); i++)
+            {
+                for (int j = 0; j < weights.GetLength(1); j++)
+                {
+                    output[i] += input[j] * weights[i, j];
+                }
+            }
+
+            ReLU.maximum(output, 0);
+
+            return output;
         }
 
         public TicTacToeAIv2 GiveBirth()
         {
+            Random rnd = new Random();
+
             // change the neruon weights a bid and the mutability
 
-            return new TicTacToeAIv2(w1, w2, w3);
+            w1 = MutateWeight(w1, mutability);
+            w2 = MutateWeight(w2, mutability);
+            w2 = MutateWeight(w3, mutability);
+
+            if (rnd.Next(0, 2) == 1)
+                mutability += 1;
+            else
+                mutability -= 1;
+
+            if (mutability < 0)
+                mutability = 1;
+            if (mutability > 20)
+                mutability = 20;
+
+            return new TicTacToeAIv2(w1, w2, w3, mutability);
+        }
+
+        private float[,] MutateWeight(float[,] weight, int mutability)
+        {
+            Random rnd = new Random();
+            for (int i = 0; i < mutability; i++)
+            {
+                float change = 0;
+                change = (float)rnd.NextDouble() / 4;
+                if (rnd.Next(0, 2) == 1)
+                    change *= -1;
+                weight[rnd.Next(0, weight.GetLength(0)), rnd.Next(0, weight.GetLength(1))] = 0;
+            }
+            return weight; // i had written new float[1,1] lol. i jinxed my self
         }
     }
 }

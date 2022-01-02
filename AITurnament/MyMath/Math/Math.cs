@@ -17,7 +17,18 @@ namespace CS_Math
         /// </summary>
         public static int GetHeighsValue(int[] input)
         {
-            return 0;
+            int[] valueAndIndex = { input[0], 0 };
+
+            for (int i = 0; i < input.GetLength(0); i++)
+            {
+                if (input[i] > valueAndIndex[i])
+                {
+                    valueAndIndex[0] = input[i];
+                    valueAndIndex[1] = i;
+                }
+            }
+
+            return valueAndIndex[1];
         }
 
         /// <summary>
@@ -25,7 +36,18 @@ namespace CS_Math
         /// </summary>
         public static int GetHeighsValue(float[] input)
         {
-            return 0;
+            float[] valueAndIndex = { input[0], 0 };
+
+            for (int i = 0; i < input.GetLength(0); i++)
+            {
+                if (input[i] > valueAndIndex[0])
+                {
+                    valueAndIndex[0] = input[i];
+                    valueAndIndex[1] = i;
+                }
+            }
+
+            return (int)valueAndIndex[1];
         }
     }
 }
