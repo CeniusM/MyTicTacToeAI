@@ -1,0 +1,203 @@
+Game at 1/100. p1Winns6338. p2Winns2332. ties1230. 
+
+Game at 2/100. p1Winns5803. p2Winns2819. ties1278. 
+
+Game at 3/100. p1Winns5819. p2Winns2721. ties1360. 
+
+Game at 4/100. p1Winns5844. p2Winns2672. ties1384. 
+
+Game at 5/100. p1Winns5906. p2Winns2795. ties1199. 
+
+Game at 6/100. p1Winns5815. p2Winns2869. ties1216. 
+
+Game at 7/100. p1Winns5587. p2Winns3068. ties1245. 
+
+Game at 8/100. p1Winns5685. p2Winns2916. ties1299. 
+
+Game at 9/100. p1Winns5890. p2Winns2710. ties1300. 
+
+Game at 10/100. p1Winns6035. p2Winns2649. ties1216. 
+
+Game at 11/100. p1Winns5680. p2Winns2988. ties1232. 
+
+Game at 12/100. p1Winns5705. p2Winns3043. ties1152. 
+
+Game at 13/100. p1Winns5575. p2Winns3203. ties1122. 
+
+Game at 14/100. p1Winns5696. p2Winns3138. ties1066. 
+
+Game at 15/100. p1Winns5626. p2Winns3050. ties1224. 
+
+Game at 16/100. p1Winns5836. p2Winns2870. ties1194. 
+
+Game at 17/100. p1Winns5789. p2Winns3031. ties1080. 
+
+Game at 18/100. p1Winns5721. p2Winns2966. ties1213. 
+
+Game at 19/100. p1Winns5546. p2Winns3158. ties1196. 
+
+Game at 20/100. p1Winns5431. p2Winns3280. ties1189. 
+
+Game at 21/100. p1Winns5472. p2Winns3203. ties1225. 
+
+Game at 22/100. p1Winns5640. p2Winns3129. ties1131. 
+
+Game at 23/100. p1Winns5822. p2Winns2915. ties1163. 
+
+Game at 24/100. p1Winns5803. p2Winns3093. ties1004. 
+
+Game at 25/100. p1Winns5964. p2Winns2936. ties1000. 
+
+Game at 26/100. p1Winns5921. p2Winns2910. ties1069. 
+
+Game at 27/100. p1Winns5946. p2Winns3074. ties880. 
+
+Game at 28/100. p1Winns5750. p2Winns3173. ties977. 
+
+Game at 29/100. p1Winns5653. p2Winns3234. ties1013. 
+
+Game at 30/100. p1Winns5637. p2Winns3184. ties1079. 
+
+Game at 31/100. p1Winns5582. p2Winns3247. ties1071. 
+
+Game at 32/100. p1Winns5828. p2Winns3029. ties1043. 
+
+Game at 33/100. p1Winns5704. p2Winns3200. ties996. 
+
+Game at 34/100. p1Winns5376. p2Winns3414. ties1110. 
+
+Game at 35/100. p1Winns5454. p2Winns3296. ties1150. 
+
+Game at 36/100. p1Winns5505. p2Winns3327. ties1068. 
+
+Game at 37/100. p1Winns5484. p2Winns3135. ties1281. 
+
+Game at 38/100. p1Winns5376. p2Winns3357. ties1167. 
+
+Game at 39/100. p1Winns5503. p2Winns3332. ties1065. 
+
+Game at 40/100. p1Winns5662. p2Winns3249. ties989. 
+
+Game at 41/100. p1Winns5459. p2Winns3223. ties1218. 
+
+Game at 42/100. p1Winns5505. p2Winns3377. ties1018. 
+
+Game at 43/100. p1Winns5404. p2Winns3454. ties1042. 
+
+Game at 44/100. p1Winns5559. p2Winns3330. ties1011. 
+
+Game at 45/100. p1Winns5424. p2Winns3444. ties1032. 
+
+Game at 46/100. p1Winns5280. p2Winns3384. ties1236. 
+
+Game at 47/100. p1Winns5433. p2Winns3329. ties1138. 
+
+Game at 48/100. p1Winns5495. p2Winns3214. ties1191. 
+
+Game at 49/100. p1Winns5518. p2Winns3283. ties1099. 
+
+Game at 50/100. p1Winns5433. p2Winns3369. ties1098. 
+
+Game at 51/100. p1Winns5271. p2Winns3574. ties1055. 
+
+Game at 52/100. p1Winns5383. p2Winns3477. ties1040. 
+
+Game at 53/100. p1Winns5607. p2Winns3325. ties968. 
+
+Game at 54/100. p1Winns5794. p2Winns3134. ties972. 
+
+Game at 55/100. p1Winns5443. p2Winns3337. ties1120. 
+
+Game at 56/100. p1Winns5379. p2Winns3309. ties1212. 
+
+Game at 57/100. p1Winns5461. p2Winns3277. ties1162. 
+
+Game at 58/100. p1Winns5652. p2Winns3223. ties1025. 
+
+Game at 59/100. p1Winns5409. p2Winns3369. ties1122. 
+
+Game at 60/100. p1Winns5298. p2Winns3519. ties1083. 
+
+Game at 61/100. p1Winns5578. p2Winns3210. ties1112. 
+
+Game at 62/100. p1Winns5441. p2Winns3366. ties1093. 
+
+Game at 63/100. p1Winns5515. p2Winns3233. ties1152. 
+
+Game at 64/100. p1Winns5282. p2Winns3403. ties1215. 
+
+Game at 65/100. p1Winns5384. p2Winns3428. ties1088. 
+
+Game at 66/100. p1Winns5361. p2Winns3447. ties1092. 
+
+Game at 67/100. p1Winns5578. p2Winns3255. ties1067. 
+
+Game at 68/100. p1Winns5535. p2Winns3290. ties1075. 
+
+Game at 69/100. p1Winns5544. p2Winns3347. ties1009. 
+
+Game at 70/100. p1Winns5680. p2Winns3259. ties961. 
+
+Game at 71/100. p1Winns5430. p2Winns3482. ties988. 
+
+Game at 72/100. p1Winns5365. p2Winns3577. ties958. 
+
+Game at 73/100. p1Winns5303. p2Winns3532. ties1065. 
+
+Game at 74/100. p1Winns5383. p2Winns3521. ties996. 
+
+Game at 75/100. p1Winns5412. p2Winns3465. ties1023. 
+
+Game at 76/100. p1Winns5310. p2Winns3551. ties1039. 
+
+Game at 77/100. p1Winns5434. p2Winns3294. ties1172. 
+
+Game at 78/100. p1Winns5423. p2Winns3341. ties1136. 
+
+Game at 79/100. p1Winns5330. p2Winns3390. ties1180. 
+
+Game at 80/100. p1Winns5269. p2Winns3367. ties1264. 
+
+Game at 81/100. p1Winns5343. p2Winns3342. ties1215. 
+
+Game at 82/100. p1Winns4967. p2Winns3492. ties1441. 
+
+Game at 83/100. p1Winns5152. p2Winns3364. ties1384. 
+
+Game at 84/100. p1Winns5383. p2Winns3347. ties1170. 
+
+Game at 85/100. p1Winns5418. p2Winns3312. ties1170. 
+
+Game at 86/100. p1Winns5353. p2Winns3275. ties1272. 
+
+Game at 87/100. p1Winns5422. p2Winns3392. ties1086. 
+
+Game at 88/100. p1Winns5420. p2Winns3420. ties1060. 
+
+Game at 89/100. p1Winns5325. p2Winns3575. ties1000. 
+
+Game at 90/100. p1Winns5115. p2Winns3650. ties1135. 
+
+Game at 91/100. p1Winns5387. p2Winns3320. ties1193. 
+
+Game at 92/100. p1Winns5431. p2Winns3400. ties1069. 
+
+Game at 93/100. p1Winns5268. p2Winns3509. ties1123. 
+
+Game at 94/100. p1Winns5473. p2Winns3395. ties1032. 
+
+Game at 95/100. p1Winns5265. p2Winns3484. ties1151. 
+
+Game at 96/100. p1Winns5428. p2Winns3335. ties1137. 
+
+Game at 97/100. p1Winns5409. p2Winns3161. ties1330. 
+
+Game at 98/100. p1Winns5485. p2Winns3130. ties1285. 
+
+Game at 99/100. p1Winns5223. p2Winns3506. ties1171. 
+
+Game at 100/100. p1Winns5551. p2Winns3350. ties999. 
+
+the whole turny. p1Winns324183. p2Winns552991. ties112826. 
+firstGame. p1Winns6338. p2Winns2332. ties1230. 
+lastGame. p1Winns5551. p2Winns3350. ties999.

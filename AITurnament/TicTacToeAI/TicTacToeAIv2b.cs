@@ -20,36 +20,41 @@ namespace CS_TicTacToeAI
         private int i_Nodes = 9;
         private int h_Nodes1 = 9;
         // private int h_Nodes2 = 9; // not used, maby in v3
+        // private int h_Nodes3 = 9; // not used, maby in v3
         // private int o_Nodes = 9;
 
         /* ---
         each w1-3 has a col(the first cord) to store wich neron it goes from and to(data in the rows)*/
         public float[,] w1; // input to h_nodes
         public float[,] w2; // h_nodes to h_nodes2
-        public float[,] w3; // h_nodes2 to output
+        public float[,] w3; // h_nodes2 to h_nodes3
+        public float[,] w4; // h_nodes3 to output
         //---
 
-        public int mutability = 10; // how many times the ai wants to mutate, this in of it self could be mutated
+        public int mutability = 20; // how many times the ai wants to mutate, this in of it self could be mutated
 
         public TicTacToeAIv2b()
         {
             w1 = MyRandom.RandomInputs2D(i_Nodes, h_Nodes1); // creates the grid for all the weights between the input nodes to the hidden nodes1
             w2 = MyRandom.RandomInputs2D(i_Nodes, h_Nodes1);
             w3 = MyRandom.RandomInputs2D(i_Nodes, h_Nodes1);
+            w4 = MyRandom.RandomInputs2D(i_Nodes, h_Nodes1);
         }
 
-        public TicTacToeAIv2b(float[,] w1, float[,] w2, float[,] w3) // for inheriten
+        public TicTacToeAIv2b(float[,] w1, float[,] w2, float[,] w3, float[,] w4) // for inheriten
         {
             this.w1 = w1;
             this.w2 = w2;
             this.w3 = w3;
+            this.w4 = w4;
         }
 
-        public TicTacToeAIv2b(float[,] w1, float[,] w2, float[,] w3, int mutability) // for inheriten
+        public TicTacToeAIv2b(float[,] w1, float[,] w2, float[,] w3, float[,] w4, int mutability) // for inheriten
         {
             this.w1 = w1;
             this.w2 = w2;
             this.w3 = w3;
+            this.w4 = w4;
             this.mutability = mutability;
         }
 
@@ -86,8 +91,11 @@ namespace CS_TicTacToeAI
             //second layer of nerourns
             float[] h_Nodes2Values = GetLayer(h_Nodes1Values, w2);
 
-            //third aka last layer of nerourns
-            float[] o_Nodes = GetLayer(h_Nodes2Values, w3);
+            //third layer of nerourns
+            float[] h_Nodes3Values = GetLayer(h_Nodes2Values, w3);
+
+            //thorth aka last layer of nerourns
+            float[] o_Nodes = GetLayer(h_Nodes2Values, w4);
 
             // makes it so only the outputs where you can get a output is there, tho the ai needs to learn this it self in the futrure by gett PUNISHED
             for (int i = 0; i < input.GetLength(0); i++)
@@ -142,7 +150,7 @@ namespace CS_TicTacToeAI
             if (mutability > 50)
                 mutability = 50;
 
-            return new TicTacToeAIv2b(w1, w2, w3, mutability);
+            return new TicTacToeAIv2b(w1, w2, w3, w4, mutability);
         }
 
         private float[,] MutateWeight(float[,] weight, int mutability)

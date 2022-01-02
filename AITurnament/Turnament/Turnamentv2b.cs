@@ -14,6 +14,7 @@ namespace TTT_Turnament
         public List<TicTacToeAIv2b> Players;
         public List<TurnamentStats> stats;
         public Form1 myForm;
+        private bool stopTurny = false;
         public Turnamentv2b(int playerAmout, int roundsPerPlayer, int gameAmount, Form1 myForm)
         {
             this.playerAmout = playerAmout;
@@ -27,6 +28,12 @@ namespace TTT_Turnament
             }
             stats = new List<TurnamentStats>();
             this.myForm = myForm;
+            myForm.KeyPress += stop;
+        }
+
+        private void stop(object? sender, KeyPressEventArgs e)
+        {
+            stopTurny = true;
         }
 
         public void Start()
@@ -34,6 +41,8 @@ namespace TTT_Turnament
 
 
             PlayTurnament();
+
+            SaveingSystem.SaveAI(winnerOgEachGame[winnerOgEachGame.Count - 1]);
 
             PlayTTTVSAI.TTTgame tTTgame = new PlayTTTVSAI.TTTgame(myForm, winnerOgEachGame[winnerOgEachGame.Count - 1]);
 
@@ -44,7 +53,9 @@ namespace TTT_Turnament
         {
             for (int i = 0; i < gameAmount; i++)
             {
-                PlayGame();
+                PlayGame(i);
+                if (stopTurny)
+                    break;
             }
 
             // string data = string.Empty;
@@ -64,15 +75,15 @@ namespace TTT_Turnament
             }
             dataStr += "the whole turny. p1Winns" + stat.player1wins + ". p2Winns" + stat.player2wins + ". ties" + stat.ties + ". \n";
             dataStr += "firstGame. p1Winns" + stats[0].player1wins + ". p2Winns" + stats[0].player2wins + ". ties" + stats[0].ties + ". \n";
-            dataStr += "lastGame. p1Winns" + stats[gameAmount - 1].player1wins + ". p2Winns" + stats[gameAmount - 1].player2wins + ". ties" + stats[gameAmount - 1].ties + ".";
+            dataStr += "lastGame. p1Winns" + stats[stats.Count - 1].player1wins + ". p2Winns" + stats[stats.Count - 1].player2wins + ". ties" + stats[stats.Count - 1].ties + ".";
 
             MyConsole.WriteLine(dataStr);
         }
 
-        private void PlayGame() // make all the AIs play each other and kill the loosers, and make some of the winners mutate
+        private void PlayGame(int gameNum) // make all the AIs play each other and kill the loosers, and make some of the winners mutate
         {
             // stats.Add(new TurnamentStats());
-            TurnamentStats thisGameStats = new TurnamentStats();
+            TurnamentStats s = new TurnamentStats();
 
             for (int i = 0; i < Players.Count(); i++) // player the game
             {
@@ -80,7 +91,7 @@ namespace TTT_Turnament
                 {
                     if (i != j)
                     {
-                        PlayRound(Players[i], Players[j], thisGameStats);
+                        PlayRound(Players[i], Players[j], s);
                     }
                 }
             }
@@ -96,14 +107,14 @@ namespace TTT_Turnament
 
             NewGenareation();
 
-            string data = string.Empty;
-            data += "p1Winns" + thisGameStats.player1wins + ". p2Winns" + thisGameStats.player2wins + ". ties" + thisGameStats.ties + ". \n";
+            string data = "";
+            data += "Game at " + (gameNum + 1) + "/" + gameAmount + ". p1Winns" + s.player1wins + ". p2Winns" + s.player2wins + ". ties" + s.ties + ". \n";
             MyConsole.WriteLine(data);
 
-            stats.Add(thisGameStats);
+            stats.Add(s);
         }
 
-        private void PlayRound(TicTacToeAIv2b AI1, TicTacToeAIv2b AI2, TurnamentStats roundStats) // Wil play a ttt game and determan fitness
+        private void PlayRound(TicTacToeAIv2b AI1, TicTacToeAIv2b AI2, TurnamentStats s) // Wil play a ttt game and determan fitness
         {
             TicTacToe ttt = new TicTacToe();
             while (ttt.gameRunning)
@@ -120,16 +131,16 @@ namespace TTT_Turnament
             if (ttt.winner == 1)
             {
                 AI1.fitnessScore += 1f;
-                AI2.fitnessScore -= 0.1f;
-                roundStats.player1wins++;
+                AI2.fitnessScore -= 1f;
+                s.player1wins++;
             }
             else if (ttt.winner == 2)
             {
                 AI2.fitnessScore += 1f;
-                AI1.fitnessScore -= 0.1f;
-                roundStats.player2wins++;
+                AI1.fitnessScore -= 1f;
+                s.player2wins++;
             }
-            else roundStats.ties++;
+            else s.ties++;
 
             //test
             // NewGenareation();
@@ -156,13 +167,13 @@ namespace TTT_Turnament
             //     randomAIs--;
             // }
 
-            float minFitness = 100000;
+            float minFitness = playerAmout * playerAmout - playerAmout;
             for (int i = 0; i < killed; i++) // lets the top AIs give birth
             {
                 bool killedAAI = false;
                 for (int j = 0; j < Players.Count; j++)
                 {
-                    if (rnd.Next(0,2) == 1)
+                    if (rnd.Next(0, 2) == 1)
                     {
                         Players.Add(new TicTacToeAIv2b());
                         killedAAI = true;
