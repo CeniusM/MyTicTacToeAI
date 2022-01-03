@@ -32,12 +32,12 @@ namespace CS_TicTacToeAI
         public float[,] w2; // h_nodes to h_nodes2
         //---
 
-        public int mutability = 30; // how many times the ai wants to mutate, this in of it self could be mutated
+        public int mutability = 10; // how many times the ai wants to mutate, this in of it self could be mutated
 
         public TicTacToeAIv2c()
         {
-            w1 = MyRandom.RandomInputs2D(i_Nodes, h_Nodes1); // creates the grid for all the weights between the input nodes to the hidden nodes1
-            w2 = MyRandom.RandomInputs2D(i_Nodes, h_Nodes1);
+            w1 = RandomInputs2Dv2c(i_Nodes, h_Nodes1, mutability); // creates the grid for all the weights between the input nodes to the hidden nodes1
+            w2 = RandomInputs2Dv2c(i_Nodes, h_Nodes1, mutability);
         }
 
         public TicTacToeAIv2c(float[,] w1, float[,] w2) // for inheriten
@@ -98,7 +98,7 @@ namespace CS_TicTacToeAI
             for (int i = 0; i < input.GetLength(0); i++)
             {
                 if (input[i] != 0)
-                    o_Nodes[i] = -100;
+                    o_Nodes[i] = -10000000000;
             }
 
             int feild = MyMath.GetHeighsValue(o_Nodes);
@@ -143,8 +143,8 @@ namespace CS_TicTacToeAI
 
             if (mutability < 0)
                 mutability = 1;
-            if (mutability > 50)
-                mutability = 50;
+            if (mutability > 20)
+                mutability = 20;
 
             return new TicTacToeAIv2c(w1, w2, mutability, fitnessScore);
         }
@@ -155,11 +155,14 @@ namespace CS_TicTacToeAI
             for (int i = 0; i < mutability; i++)
             {
                 float change = 0;
-                change = (float)rnd.NextDouble() / 4;
+                change = (float)rnd.NextDouble();
                 if (rnd.Next(0, 2) == 1)
                     change *= -1;
-                weight[rnd.Next(0, weight.GetLength(0)), rnd.Next(0, weight.GetLength(1))] = change;
+                weight[rnd.Next(0, weight.GetLength(0)), rnd.Next(0, weight.GetLength(1))] += change;
             }
+
+            // implement logistic curve
+
             return weight; // i had written new float[1,1] lol. i jinxed my self
         }
         public void Mutate() // maby for some other time to mutate the ai it self
@@ -169,6 +172,22 @@ namespace CS_TicTacToeAI
         public TicTacToeAIv2c Clone()
         {
             return new TicTacToeAIv2c(w1, w2, mutability, fitnessScore);
+        }
+
+        private static float[,] RandomInputs2Dv2c(int batchSize, int inputNodes, int mutability)
+        {
+            Random rnd = new Random();
+
+            float[,] radnomSet = new float[batchSize, inputNodes];
+            for (int i = 0; i < mutability; i++)
+            {
+                float change = 0;
+                change = (float)rnd.NextDouble();
+                if (rnd.Next(0, 2) == 1)
+                    change *= -1;
+                radnomSet[rnd.Next(0, radnomSet.GetLength(0)), rnd.Next(0, radnomSet.GetLength(1))] += change;
+            }
+            return radnomSet;
         }
     }
 }

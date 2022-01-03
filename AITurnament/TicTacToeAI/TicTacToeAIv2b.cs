@@ -173,13 +173,13 @@ namespace CS_TicTacToeAI
                 change = (float)rnd.NextDouble() / 4;
                 if (rnd.Next(0, 2) == 1)
                     change *= -1;
-                weight[rnd.Next(0, weight.GetLength(0)), rnd.Next(0, weight.GetLength(1))] = change;
+                weight[rnd.Next(0, weight.GetLength(0)), rnd.Next(0, weight.GetLength(1))] += change;
             }
             return weight; // i had written new float[1,1] lol. i jinxed my self
         }
         public void Mutate() // maby for some other time to mutate the ai it self
         {
-            
+
         }
         public TicTacToeAIv2b Clone()
         {

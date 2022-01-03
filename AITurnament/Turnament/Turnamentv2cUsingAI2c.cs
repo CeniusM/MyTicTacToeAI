@@ -3,6 +3,22 @@ using CS_TicTacToeAI;
 using CS_MyConsole;
 using winForm;
 
+
+
+// dosent work. idk why, maby in the loops at 227
+// or in the ai it self
+//... probely the ai
+
+
+
+
+
+
+
+
+
+
+
 namespace TTT_Turnament
 {
     class Turnamentv2cUsingAI2c
@@ -211,17 +227,17 @@ namespace TTT_Turnament
                 bool newAI = false;
                 for (int j = 0; j < Players.Count; j++)
                 {
-                    if (rnd.Next(0, 2) == 1)
+                    // if (rnd.Next(0, 2) == 1)
+                    // {
+                    //     Players.Add(new TicTacToeAIv2c());
+                    //     newAI = true;
+                    //     break;
+                    // }
+                    if (Players[j].fitnessScore > minFitness)
                     {
-                        Players.Add(new TicTacToeAIv2c());
-                        newAI = true;
-                        break;
-                    }
-                    else if (Players[j].fitnessScore > minFitness)
-                    {
-                        Players.Add(Players[j].GiveBirth());
-                        newAI = true;
-                        break;
+                    Players.Add(Players[j].GiveBirth()); // if you only have them give birth it should go faster, but. there is a lower diversety
+                    newAI = true;
+                    break;
                     }
                 }
                 if (!newAI)

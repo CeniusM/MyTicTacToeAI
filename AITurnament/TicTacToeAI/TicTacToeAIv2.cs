@@ -141,7 +141,7 @@ namespace CS_TicTacToeAI
                 change = (float)rnd.NextDouble() / 4;
                 if (rnd.Next(0, 0) == 1)
                     change *= -1;
-                weight[rnd.Next(0, weight.GetLength(0)), rnd.Next(0, weight.GetLength(1))] = 0;
+                weight[rnd.Next(0, weight.GetLength(0)), rnd.Next(0, weight.GetLength(1))] *= change;
             }
             return weight; // i had written new float[1,1] lol. i jinxed my self
         }

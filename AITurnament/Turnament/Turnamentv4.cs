@@ -1,4 +1,2 @@
-
-// this is for later. this will implement multi threading. fx like 4 threads
-// and have a thread just for typing in the stats. use event for the thread to write stats when ever a game is done
-// optimize for speed
+// make the ai learn not to put pieces where there allredy is one, fx by skipping it if it does so, or something difrent
+// and just tidy up the whole thing

@@ -23,7 +23,7 @@ namespace CS_MyAI
 
             // continuing
             // string savePath = @"C:\GitHub\TicTacToeAI\AITurnament\SaveSystem\AISaves\Save1.txt";
-            Turnamentv2c trunament = new Turnamentv2c(200, 100, 5000, _Form); // , SaveingSystem.GetAIv2b(savePath)
+            Turnamentv2cUsingAI2c trunament = new Turnamentv2cUsingAI2c(200, 100, 5000, _Form); // , SaveingSystem.GetAIv2b(savePath)
 
             trunament.Start();
 
