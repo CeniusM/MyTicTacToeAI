@@ -5,7 +5,7 @@ using winForm;
 
 namespace TTT_Turnament
 {
-    class Turnamentv2b
+    class Turnamentv2c
     {
         public int playerAmout; // players playing at any given time
         // public int roundsPerPlayer; // how many rounds in a game//nots used
@@ -15,7 +15,7 @@ namespace TTT_Turnament
         public List<TurnamentStats> stats;
         public Form1 myForm;
         private bool stopTurny = false;
-        public Turnamentv2b(int playerAmout, int roundsPerPlayer, int gameAmount, Form1 myForm)
+        public Turnamentv2c(int playerAmout, int roundsPerPlayer, int gameAmount, Form1 myForm)
         {
             this.playerAmout = playerAmout;
             // this.roundsPerPlayer = roundsPerPlayer; // no use right now
@@ -31,7 +31,7 @@ namespace TTT_Turnament
             myForm.KeyPress += stop;
         }
 
-        public Turnamentv2b(int playerAmout, int roundsPerPlayer, int gameAmount, Form1 myForm, TicTacToeAIv2b tttAI)
+        public Turnamentv2c(int playerAmout, int roundsPerPlayer, int gameAmount, Form1 myForm, TicTacToeAIv2b tttAI)
         {
             this.playerAmout = playerAmout;
             // this.roundsPerPlayer = roundsPerPlayer; // no use right now
@@ -49,7 +49,8 @@ namespace TTT_Turnament
 
         private void stop(object? sender, KeyPressEventArgs e)
         {
-            stopTurny = true;
+            if (e.KeyChar == 'q')
+                stopTurny = true;
         }
 
         public void Start()
@@ -101,7 +102,7 @@ namespace TTT_Turnament
             // stats.Add(new TurnamentStats());
             TurnamentStats s = new TurnamentStats();
 
-            for (int i = 0; i < Players.Count(); i++) // player the game
+            for (int i = 0; i < Players.Count(); i++) // playe the game
             {
                 for (int j = 0; j < Players.Count(); j++)
                 {
@@ -117,9 +118,12 @@ namespace TTT_Turnament
             for (int i = 0; i < Players.Count; i++) // finds the winner
             {
                 if (Players[i].fitnessScore > value)
+                {
                     indexOfwinner = i;
+                    value = Players[i].fitnessScore;
+                }
             }
-            winnerOgEachGame.Add(Players[indexOfwinner]);
+            winnerOgEachGame.Add(Players[indexOfwinner].Clone());
 
             NewGenareation();
 
@@ -171,6 +175,7 @@ namespace TTT_Turnament
                 if (Players[i].fitnessScore < 0)
                 {
                     Players.RemoveAt(i);
+                    i--;
                     killed++;
                 }
             }
@@ -207,9 +212,8 @@ namespace TTT_Turnament
                     i--;
                     minFitness -= 1f;
                 }
-
-                ResetFitnessValues();
             }
+            ResetFitnessValues();
 
             for (int i = 0; i < Players.Count(); i++)
             {

@@ -58,6 +58,16 @@ namespace CS_TicTacToeAI
             this.mutability = mutability;
         }
 
+        public TicTacToeAIv2b(float[,] w1, float[,] w2, float[,] w3, float[,] w4, int mutability, float fitnessScore) // for inheriten
+        {
+            this.w1 = w1;
+            this.w2 = w2;
+            this.w3 = w3;
+            this.w4 = w4;
+            this.mutability = mutability;
+            this.fitnessScore = fitnessScore;
+        }
+
         public int[] Getmove(int[,] input, int playerNum) // an array of the board. 1*9 insted of 3x3 and gets what player it is to make the nums form -1 to 1
         {
             // turns the input to float
@@ -138,7 +148,8 @@ namespace CS_TicTacToeAI
 
             w1 = MutateWeight(w1, mutability);
             w2 = MutateWeight(w2, mutability);
-            w2 = MutateWeight(w3, mutability);
+            w3 = MutateWeight(w3, mutability);
+            w4 = MutateWeight(w4, mutability);
 
             if (rnd.Next(0, 4) > 1)
                 mutability += 1;
@@ -150,7 +161,7 @@ namespace CS_TicTacToeAI
             if (mutability > 50)
                 mutability = 50;
 
-            return new TicTacToeAIv2b(w1, w2, w3, w4, mutability);
+            return new TicTacToeAIv2b(w1, w2, w3, w4, mutability, fitnessScore);
         }
 
         private float[,] MutateWeight(float[,] weight, int mutability)
@@ -178,6 +189,10 @@ namespace CS_TicTacToeAI
                 weight[rnd.Next(0, weight.GetLength(0)), rnd.Next(0, weight.GetLength(1))] = 0;
             }
             return weight; // i had written new float[1,1] lol. i jinxed my self
+        }
+        public TicTacToeAIv2b Clone()
+        {
+            return new TicTacToeAIv2b(w1, w2, w3, w4, mutability, fitnessScore);
         }
     }
 }
