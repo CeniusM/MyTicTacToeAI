@@ -1,3 +1,6 @@
+// this just changes how the neruons are made
+
+
 /*
 Things to add onto this ai
 
@@ -12,7 +15,7 @@ using CS_Math;
 
 namespace CS_TicTacToeAI
 {
-    class TicTacToeAIv2b // this implements values to be form (-1) - 1 indstead of 1-2
+    class TicTacToeAIv2c // this implements values to be form (-1) - 1 indstead of 1-2
                          // and logistic curves---- not done
     {
         public float fitnessScore = 0;
@@ -27,43 +30,33 @@ namespace CS_TicTacToeAI
         each w1-3 has a col(the first cord) to store wich neron it goes from and to(data in the rows)*/
         public float[,] w1; // input to h_nodes
         public float[,] w2; // h_nodes to h_nodes2
-        public float[,] w3; // h_nodes2 to h_nodes3
-        public float[,] w4; // h_nodes3 to output
         //---
 
         public int mutability = 30; // how many times the ai wants to mutate, this in of it self could be mutated
 
-        public TicTacToeAIv2b()
+        public TicTacToeAIv2c()
         {
             w1 = MyRandom.RandomInputs2D(i_Nodes, h_Nodes1); // creates the grid for all the weights between the input nodes to the hidden nodes1
             w2 = MyRandom.RandomInputs2D(i_Nodes, h_Nodes1);
-            w3 = MyRandom.RandomInputs2D(i_Nodes, h_Nodes1);
-            w4 = MyRandom.RandomInputs2D(i_Nodes, h_Nodes1);
         }
 
-        public TicTacToeAIv2b(float[,] w1, float[,] w2, float[,] w3, float[,] w4) // for inheriten
+        public TicTacToeAIv2c(float[,] w1, float[,] w2) // for inheriten
         {
             this.w1 = w1;
             this.w2 = w2;
-            this.w3 = w3;
-            this.w4 = w4;
         }
 
-        public TicTacToeAIv2b(float[,] w1, float[,] w2, float[,] w3, float[,] w4, int mutability) // for inheriten
+        public TicTacToeAIv2c(float[,] w1, float[,] w2, int mutability) // for inheriten
         {
             this.w1 = w1;
             this.w2 = w2;
-            this.w3 = w3;
-            this.w4 = w4;
             this.mutability = mutability;
         }
 
-        public TicTacToeAIv2b(float[,] w1, float[,] w2, float[,] w3, float[,] w4, int mutability, float fitnessScore) // for inheriten
+        public TicTacToeAIv2c(float[,] w1, float[,] w2, int mutability, float fitnessScore) // for inheriten
         {
             this.w1 = w1;
             this.w2 = w2;
-            this.w3 = w3;
-            this.w4 = w4;
             this.mutability = mutability;
             this.fitnessScore = fitnessScore;
         }
@@ -98,14 +91,8 @@ namespace CS_TicTacToeAI
             //first layer of nerourns
             float[] h_Nodes1Values = GetLayer(fInput, w1);
 
-            //second layer of nerourns
-            float[] h_Nodes2Values = GetLayer(h_Nodes1Values, w2);
-
-            //third layer of nerourns
-            float[] h_Nodes3Values = GetLayer(h_Nodes2Values, w3);
-
             //thorth aka last layer of nerourns
-            float[] o_Nodes = GetLayer(h_Nodes2Values, w4);
+            float[] o_Nodes = GetLayer(h_Nodes1Values, w2);
 
             // makes it so only the outputs where you can get a output is there, tho the ai needs to learn this it self in the futrure by gett PUNISHED
             for (int i = 0; i < input.GetLength(0); i++)
@@ -140,7 +127,7 @@ namespace CS_TicTacToeAI
             return output;
         }
 
-        public TicTacToeAIv2b GiveBirth()
+        public TicTacToeAIv2c GiveBirth()
         {
             Random rnd = new Random();
 
@@ -148,8 +135,6 @@ namespace CS_TicTacToeAI
 
             w1 = MutateWeight(w1, mutability);
             w2 = MutateWeight(w2, mutability);
-            w3 = MutateWeight(w3, mutability);
-            w4 = MutateWeight(w4, mutability);
 
             if (rnd.Next(0, 4) > 1)
                 mutability += 1;
@@ -161,7 +146,7 @@ namespace CS_TicTacToeAI
             if (mutability > 50)
                 mutability = 50;
 
-            return new TicTacToeAIv2b(w1, w2, w3, w4, mutability, fitnessScore);
+            return new TicTacToeAIv2c(w1, w2, mutability, fitnessScore);
         }
 
         private float[,] MutateWeight(float[,] weight, int mutability)
@@ -179,11 +164,11 @@ namespace CS_TicTacToeAI
         }
         public void Mutate() // maby for some other time to mutate the ai it self
         {
-            
+
         }
-        public TicTacToeAIv2b Clone()
+        public TicTacToeAIv2c Clone()
         {
-            return new TicTacToeAIv2b(w1, w2, w3, w4, mutability, fitnessScore);
+            return new TicTacToeAIv2c(w1, w2, mutability, fitnessScore);
         }
     }
 }

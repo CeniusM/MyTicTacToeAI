@@ -9,29 +9,29 @@ namespace PlayTTTVSAI
         private Form1 _Form;
         private TicTacToe _TicTacToe;
         private MyGame.GUI _GUI;
-        private TicTacToeAIv2 _AI;
-        private TicTacToeAIv2b _AIb;
+        private TicTacToeAIv2b _AI;
+        private TicTacToeAIv2c _AIc;
         private int PlayerWhosPlayer1 = 1;
         private bool Running = true;
-        public TTTgame(Form1 _Form, TicTacToeAIv2 AI)
-        {
-            this._Form = _Form;
-            _TicTacToe = new TicTacToe();
-            _Form.MouseClick += MyMouseClick;
-            _GUI = new MyGame.GUI(_Form);
-            _AI = AI;
-            _AIb = new TicTacToeAIv2b();
-
-            _Form.FormClosing += Stop;
-        }
         public TTTgame(Form1 _Form, TicTacToeAIv2b AI)
         {
             this._Form = _Form;
             _TicTacToe = new TicTacToe();
             _Form.MouseClick += MyMouseClick;
             _GUI = new MyGame.GUI(_Form);
-            _AI = new TicTacToeAIv2();
-            _AIb = AI;
+            _AI = AI;
+            _AIc = new TicTacToeAIv2c();
+
+            _Form.FormClosing += Stop;
+        }
+        public TTTgame(Form1 _Form, TicTacToeAIv2c AI)
+        {
+            this._Form = _Form;
+            _TicTacToe = new TicTacToe();
+            _Form.MouseClick += MyMouseClick;
+            _GUI = new MyGame.GUI(_Form);
+            _AI = new TicTacToeAIv2b();
+            _AIc = AI;
 
             _Form.FormClosing += Stop;
         }
@@ -81,7 +81,7 @@ namespace PlayTTTVSAI
             {
                 if (_TicTacToe.playerTurn == PlayerWhosPlayer1)
                 {
-                    _TicTacToe.MakeMove(_AIb.Getmove(_TicTacToe.Board, PlayerWhosPlayer1));
+                    _TicTacToe.MakeMove(_AIc.Getmove(_TicTacToe.Board, PlayerWhosPlayer1));
                 }
                 for (int i = 0; i < 3; i++)
                 {

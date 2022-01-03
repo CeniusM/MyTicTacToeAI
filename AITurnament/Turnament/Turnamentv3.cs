@@ -1,3 +1,3 @@
-// this is for later. this will implement multi threading. fx like 4 threads
-// and have a thread just for typing in the stats. use event for the thread to write stats when ever a game is done
-// optimize for speed
+// have a set of ai's that only plays as player 1, and another set of ai's that only plays player 2
+// make hot fixes and make it all faster
+// make it work plz ;,)

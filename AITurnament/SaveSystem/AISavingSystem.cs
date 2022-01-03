@@ -54,6 +54,37 @@ namespace CS_TicTacToeAI
 
             MyConsole.WriteLine(Data, path);
         }
+        public static void SaveAI(TicTacToeAIv2c AI)
+        {
+            string Data = "";
+            Data += "Weights\n";
+            Data += "w1\n";
+            for (int i = 0; i < AI.w1.GetLength(0); i++)
+            {
+                for (int j = 0; j < AI.w1.GetLength(1); j++)
+                {
+                    Data += AI.w1[i, j] + ",";
+                }
+                Data += "\n";
+            }
+            Data += "w2\n";
+            for (int i = 0; i < AI.w2.GetLength(0); i++)
+            {
+                for (int j = 0; j < AI.w2.GetLength(1); j++)
+                {
+                    Data += AI.w2[i, j] + ",";
+                }
+                Data += "\n";
+            }
+            Data += "mutability \n";
+            Data += AI.mutability + "\n";
+
+            Data += "fitnessScore \n";
+            Data += AI.fitnessScore + "\n";
+
+            MyConsole.WriteLine(Data, path);
+        }
+
         public static TicTacToeAIv2b GetAIv2b(string path)
         {
             // split the the string and convert it to the ai

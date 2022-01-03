@@ -5,27 +5,27 @@ using winForm;
 
 namespace TTT_Turnament
 {
-    class Turnamentv2c
+    class Turnamentv2cUsingAI2c
     {
         public int playerAmout; // players playing at any given time
         // public int roundsPerPlayer; // how many rounds in a game//nots used
         public int gameAmount; // games per turnament, and inbetween each game you need to mutate and kill the weak
-        public List<TicTacToeAIv2b> winnerOgEachGame; // 0 - (gameAmount-1)
-        public List<TicTacToeAIv2b> Players;
+        public List<TicTacToeAIv2c> winnerOgEachGame; // 0 - (gameAmount-1)
+        public List<TicTacToeAIv2c> Players;
         public List<TurnamentStats> stats;
         public Form1 myForm;
         private bool stopTurny = false;
         private bool stopAll = false;
-        public Turnamentv2c(int playerAmout, int roundsPerPlayer, int gameAmount, Form1 myForm)
+        public Turnamentv2cUsingAI2c(int playerAmout, int roundsPerPlayer, int gameAmount, Form1 myForm)
         {
             this.playerAmout = playerAmout;
             // this.roundsPerPlayer = roundsPerPlayer; // no use right now
             this.gameAmount = gameAmount;
-            winnerOgEachGame = new List<TicTacToeAIv2b>();
-            Players = new List<TicTacToeAIv2b>();
+            winnerOgEachGame = new List<TicTacToeAIv2c>();
+            Players = new List<TicTacToeAIv2c>();
             for (int i = 0; i < playerAmout; i++)
             {
-                Players.Add(new TicTacToeAIv2b());
+                Players.Add(new TicTacToeAIv2c());
             }
             stats = new List<TurnamentStats>();
             this.myForm = myForm;
@@ -33,13 +33,13 @@ namespace TTT_Turnament
             myForm.FormClosing += forceStop;
         }
 
-        public Turnamentv2c(int playerAmout, int roundsPerPlayer, int gameAmount, Form1 myForm, TicTacToeAIv2b tttAI)
+        public Turnamentv2cUsingAI2c(int playerAmout, int roundsPerPlayer, int gameAmount, Form1 myForm, TicTacToeAIv2c tttAI)
         {
             this.playerAmout = playerAmout;
             // this.roundsPerPlayer = roundsPerPlayer; // no use right now
             this.gameAmount = gameAmount;
-            winnerOgEachGame = new List<TicTacToeAIv2b>();
-            Players = new List<TicTacToeAIv2b>();
+            winnerOgEachGame = new List<TicTacToeAIv2c>();
+            Players = new List<TicTacToeAIv2c>();
             for (int i = 0; i < playerAmout; i++)
             {
                 Players.Add(tttAI.GiveBirth());
@@ -70,8 +70,6 @@ namespace TTT_Turnament
 
         public void Start()
         {
-
-
             PlayTurnament();
 
             SaveingSystem.SaveAI(winnerOgEachGame[winnerOgEachGame.Count - 1]);
@@ -153,7 +151,7 @@ namespace TTT_Turnament
             stats.Add(s);
         }
 
-        private void PlayRound(TicTacToeAIv2b AI1, TicTacToeAIv2b AI2, TurnamentStats s) // Wil play a ttt game and determan fitness
+        private void PlayRound(TicTacToeAIv2c AI1, TicTacToeAIv2c AI2, TurnamentStats s) // Wil play a ttt game and determan fitness
         {
             TicTacToe ttt = new TicTacToe();
             while (ttt.gameRunning)
@@ -215,7 +213,7 @@ namespace TTT_Turnament
                 {
                     if (rnd.Next(0, 2) == 1)
                     {
-                        Players.Add(new TicTacToeAIv2b());
+                        Players.Add(new TicTacToeAIv2c());
                         newAI = true;
                         break;
                     }
