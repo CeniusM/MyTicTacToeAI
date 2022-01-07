@@ -7,7 +7,7 @@ int main()
     return 0;
 }
 
-int add(int x, int y) // willh this caosue memoryleak
+int add(int x, int y) // will this cause memoryleak
 {
     return x + y;
 }

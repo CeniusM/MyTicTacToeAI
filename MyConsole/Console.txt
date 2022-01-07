@@ -1,0 +1,435 @@
+Game at 1/5000. p1Winns25434. p2Winns7969. ties6397. 
+
+Game at 2/5000. p1Winns30337. p2Winns7045. ties2418. 
+
+Game at 3/5000. p1Winns27288. p2Winns10988. ties1524. 
+
+Game at 4/5000. p1Winns37926. p2Winns1638. ties236. 
+
+Game at 5/5000. p1Winns24871. p2Winns14691. ties238. 
+
+Game at 6/5000. p1Winns14635. p2Winns10159. ties15006. 
+
+Game at 7/5000. p1Winns34320. p2Winns5354. ties126. 
+
+Game at 8/5000. p1Winns269. p2Winns39531. ties0. 
+
+Game at 9/5000. p1Winns30700. p2Winns9100. ties0. 
+
+Game at 10/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 11/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 12/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 13/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 14/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 15/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 16/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 17/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 18/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 19/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 20/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 21/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 22/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 23/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 24/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 25/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 26/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 27/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 1/5000. p1Winns25509. p2Winns8637. ties5654. 
+
+Game at 2/5000. p1Winns11736. p2Winns7744. ties20320. 
+
+Game at 3/5000. p1Winns35950. p2Winns3431. ties419. 
+
+Game at 4/5000. p1Winns37873. p2Winns1887. ties40. 
+
+Game at 5/5000. p1Winns38630. p2Winns788. ties382. 
+
+Game at 6/5000. p1Winns38822. p2Winns783. ties195. 
+
+Game at 7/5000. p1Winns38641. p2Winns1159. ties0. 
+
+Game at 8/5000. p1Winns39402. p2Winns199. ties199. 
+
+Game at 9/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 10/5000. p1Winns39800. p2Winns0. ties0. 
+
+the whole turny. p1Winns24628. p2Winns346163. ties27209. 
+firstGame. p1Winns25509. p2Winns8637. ties5654. 
+lastGame. p1Winns39800. p2Winns0. ties0.
+Game at 1/5000. p1Winns25420. p2Winns8417. ties5963. 
+
+Game at 2/5000. p1Winns19150. p2Winns18087. ties2563. 
+
+Game at 3/5000. p1Winns28238. p2Winns9915. ties1647. 
+
+Game at 4/5000. p1Winns20408. p2Winns2114. ties17278. 
+
+Game at 5/5000. p1Winns32249. p2Winns7500. ties51. 
+
+Game at 6/5000. p1Winns36558. p2Winns3097. ties145. 
+
+Game at 7/5000. p1Winns15634. p2Winns2850. ties21316. 
+
+Game at 8/5000. p1Winns29357. p2Winns10245. ties198. 
+
+Game at 9/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 10/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 11/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 12/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 13/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 14/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 15/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 16/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 17/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 18/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 19/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 20/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 21/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 22/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 23/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 24/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 25/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 26/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 27/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 28/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 29/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 30/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 31/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 1/5000. p1Winns26230. p2Winns8204. ties5366. 
+
+Game at 2/5000. p1Winns13475. p2Winns22453. ties3872. 
+
+Game at 3/5000. p1Winns16376. p2Winns4627. ties18797. 
+
+Game at 4/5000. p1Winns34480. p2Winns4154. ties1166. 
+
+Game at 5/5000. p1Winns34787. p2Winns4066. ties947. 
+
+Game at 6/5000. p1Winns3641. p2Winns4065. ties32094. 
+
+Game at 7/5000. p1Winns38251. p2Winns1155. ties394. 
+
+Game at 8/5000. p1Winns39408. p2Winns196. ties196. 
+
+Game at 9/5000. p1Winns792. p2Winns197. ties38811. 
+
+Game at 10/5000. p1Winns199. p2Winns39601. ties0. 
+
+Game at 11/5000. p1Winns39601. p2Winns199. ties0. 
+
+Game at 12/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 13/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 14/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 15/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 16/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 17/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 18/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 19/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 20/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 21/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 22/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 23/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 24/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 25/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 26/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 27/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 28/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 29/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 30/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 31/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 32/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 33/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 34/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 35/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 36/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 37/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 38/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 39/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 40/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 41/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 42/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 43/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 44/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 45/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 46/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 47/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 48/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 49/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 50/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 51/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 52/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 53/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 54/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 55/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 56/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 57/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 58/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 59/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 60/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 61/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 62/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 63/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 64/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 65/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 66/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 67/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 68/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 69/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 70/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 71/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 72/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 73/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 74/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 75/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 76/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 77/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 78/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 79/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 80/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 81/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 82/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 83/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 84/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 85/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 86/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 87/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 88/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 89/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 90/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 91/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 92/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 93/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 94/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 95/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 96/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 97/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 98/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 99/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 100/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 101/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 102/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 103/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 104/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 1/5000. p1Winns25146. p2Winns8712. ties5942. 
+
+Game at 2/5000. p1Winns12362. p2Winns9162. ties18276. 
+
+Game at 3/5000. p1Winns33372. p2Winns2070. ties4358. 
+
+Game at 4/5000. p1Winns37461. p2Winns1921. ties418. 
+
+Game at 5/5000. p1Winns2532. p2Winns969. ties36299. 
+
+Game at 6/5000. p1Winns39404. p2Winns200. ties196. 
+
+Game at 7/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 8/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 9/5000. p1Winns39012. p2Winns4. ties784. 
+
+Game at 10/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 11/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 12/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 13/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 14/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 15/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 16/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 17/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 18/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 19/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 20/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 21/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 22/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 23/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 24/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 25/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 26/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 27/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 28/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 29/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 30/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 31/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 32/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 33/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 34/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 35/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 36/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 37/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 38/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 39/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 40/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 41/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 42/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 43/5000. p1Winns39800. p2Winns0. ties0. 
+
+Game at 44/5000. p1Winns39800. p2Winns0. ties0. 
+

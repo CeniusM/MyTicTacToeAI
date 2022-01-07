@@ -1,4 +1,4 @@
-using CS_TicTacToe;
+using MyTicTacToe;
 using CS_TicTacToeAI;
 
 namespace TTT_Turnament

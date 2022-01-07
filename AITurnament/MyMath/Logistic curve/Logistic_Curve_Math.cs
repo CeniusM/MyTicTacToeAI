@@ -2,15 +2,20 @@ namespace CS_Math
 {
     class Logistic_Curve_Math
     {
-        public static void SmushCruve(float[,] weight, float min, float max) // idfk
+        const double E = 2.7182818284590451;
+        public static float GetLogisticCurve(float X)
         {
-            for (int i = 0; i < weight.GetLength(0); i++)
-            {
-                for (int j = 0; j < weight.GetLength(1); j++)
-                {
-                    weight[i,j] = max/(max+weight[i,j]);
-                }
-            }
+            float L = 2;
+            float K = 1;
+
+            float power = (float)Math.Pow(E, -K * (X));
+
+            L /= (1 + power);
+            L--;
+
+            Console.WriteLine(L - 1);
+            return (L - 1);
         }
+
     }
 }

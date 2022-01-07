@@ -1,0 +1,1 @@
+// make it into a single ai that learns both sides
