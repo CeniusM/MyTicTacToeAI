@@ -1,0 +1,7 @@
+namespace TTTAlgoritme
+{
+    class TicTacToeAlgoritme
+    {
+        
+    }
+}

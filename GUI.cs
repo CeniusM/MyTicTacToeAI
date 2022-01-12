@@ -65,11 +65,16 @@ namespace MyGame
             graphicsObj.DrawLine(_Pen, x1 + size / 2, y1 - size / 2, x1 - size / 2, y1 + size / 2);
         }
 
-        public void DrawBallOntoBitmap(Point one, int radius, Color color)
+        public void DrawBall(Point one, int radius, Color color)
         {
             _Brush.Color = color;
             graphicsObj.FillEllipse(_Brush, one.X, one.Y, radius, radius);
         }
 
+        public void DrawBall(int x, int y, int radius, Color color)
+        {
+            _Brush.Color = color;
+            graphicsObj.FillEllipse(_Brush, x, y, radius, radius);
+        }
     }
 }
