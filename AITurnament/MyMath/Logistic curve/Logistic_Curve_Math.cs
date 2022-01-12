@@ -12,8 +12,7 @@ namespace CS_Math
 
             L /= (1 + power);
             L--;
-
-            Console.WriteLine(L - 1);
+            
             return (L - 1);
         }
 

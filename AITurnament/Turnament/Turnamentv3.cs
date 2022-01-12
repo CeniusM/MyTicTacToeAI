@@ -57,6 +57,7 @@ namespace TTT_Turnament
 
         public void Start()
         {
+            isRunning = true;
             for (int i = 0; i < _generationAmount; i++)
             {
                 if (!isRunning)
@@ -66,26 +67,28 @@ namespace TTT_Turnament
                 else
                 {
                     PlayGame();
-                    PrintGameStats();
                 }
             }
         }
 
         public void PlayGame()
         {
+            TurnamentStats turnyStats = new TurnamentStats(); // just used for the game
             for (int i = 0; i < _playerAmount; i++)
             {
                 for (int j = 0; j < _playerAmount; j++)
                 {
-                    if (i != j) continue;
-                    PlayRound(_players[i], _players[j]);
+                    if (i == j) continue;
+                    PlayRound(_players[i], _players[j], turnyStats);
                 }
             }
 
-            GenerationGenaratorv1.NewGenerationvA(_players);
+            PrintGameStats(turnyStats);
+
+            GenerationGenaratorv1.NewGenerationvA(_players, _winners);
         }
 
-        public void PlayRound(TicTacToeAIv3 AI1, TicTacToeAIv3 AI2)
+        public void PlayRound(TicTacToeAIv3 AI1, TicTacToeAIv3 AI2, TurnamentStats turnyStats)
         {
             TicTacToe game = new TicTacToe();
             while (game.running)
@@ -102,21 +105,26 @@ namespace TTT_Turnament
             if (game.winner == 1)
             {
                 AI1.fitnessScore += 2;
+                turnyStats.player1wins++;
             }
             else if (game.winner == 2)
             {
                 AI2.fitnessScore += 2;
+                turnyStats.player2wins++;
             }
             else
             {
                 AI1.fitnessScore++;
                 AI2.fitnessScore++;
+                turnyStats.ties++;
             }
         }
 
-        public void PrintGameStats()
+        public void PrintGameStats(TurnamentStats s)
         {
-
+            string data = "";
+            data += "Game at " + (_winners.Count + 1) + "/" + _generationAmount + ". p1Winns" + s.player1wins + ". p2Winns" + s.player2wins + ". ties" + s.ties + ". \n";
+            MyConsole.WriteLine(data);
         }
     }
 }

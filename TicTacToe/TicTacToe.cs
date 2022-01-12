@@ -20,14 +20,15 @@ namespace MyTicTacToe
                     running = false;
                     return true;
                 }
+                else if (moveAmout == 9)
+                {
+                    playerTurn = 0;
+                    running = false;
+                    return true;
+                }
                 else
                 {
                     SwitchPlayer();
-                }
-                if (moveAmout == 9)
-                {
-                    playerTurn = 0;
-                    return true;
                 }
             }
             return false;
