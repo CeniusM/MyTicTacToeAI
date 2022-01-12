@@ -78,7 +78,7 @@ namespace CS_TicTacToeAI
         private int GetOutput(float[] input) // returns an index for the output arr. chooses a random if the heights calues are the same
         {
             List<int> _outputIndex = new List<int>();
-            float highestValue = -100;
+            float highestValue = -10;
             for (int i = 0; i < 9; i++)
             {
                 if (input[i] != 0) continue; // checks if the move is even valid

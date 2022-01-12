@@ -2,7 +2,7 @@ namespace CS_Math
 {
     class Logistic_Curve_Math
     {
-        const double E = 2.7182818284590451;
+        const double E = 2.7182818284590451; // make float
         public static float GetLogisticCurve(float X)
         {
             float L = 2;

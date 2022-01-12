@@ -7,6 +7,17 @@ using CS_TicTacToeAI;
 using CS_MyConsole;
 using winForm;
 
+
+
+
+/*
+
+graph all of the ties in like exel or something
+
+*/
+
+
+
 namespace TTT_Turnament
 {
     class Turnamentv3

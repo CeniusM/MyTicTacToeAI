@@ -17,7 +17,7 @@ namespace CS_MyAI
         }
         public void Start()
         {
-            Turnamentv3 myTurnament = new Turnamentv3(200, 200, _Form);
+            Turnamentv3 myTurnament = new Turnamentv3(250, 5000, _Form);
 
             myTurnament.Start();
 
