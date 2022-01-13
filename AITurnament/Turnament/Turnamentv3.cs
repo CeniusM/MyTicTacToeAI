@@ -82,7 +82,7 @@ namespace TTT_Turnament
             }
         }
 
-        public void PlayGame()
+        private void PlayGame()
         {
             TurnamentStats turnyStats = new TurnamentStats(); // just used for the game
             for (int i = 0; i < _playerAmount; i++)
@@ -99,7 +99,7 @@ namespace TTT_Turnament
             GenerationGenaratorv1.NewGenerationvA(_players, _winners);
         }
 
-        public void PlayRound(TicTacToeAIv3 AI1, TicTacToeAIv3 AI2, TurnamentStats turnyStats)
+        private void PlayRound(TicTacToeAIv3 AI1, TicTacToeAIv3 AI2, TurnamentStats turnyStats)
         {
             TicTacToe game = new TicTacToe();
             while (game.running)
@@ -131,7 +131,7 @@ namespace TTT_Turnament
             }
         }
 
-        public void PrintGameStats(TurnamentStats s)
+        private void PrintGameStats(TurnamentStats s)
         {
             string data = "";
             data += "Game at " + (_winners.Count + 1) + "/" + _generationAmount + ". p1Winns" + s.player1wins + ". p2Winns" + s.player2wins + ". ties" + s.ties + ". \n";

@@ -67,7 +67,7 @@ namespace CS_TicTacToeAI
             {
                 for (int j = 0; j < 9; j++)
                 {
-                    newNeruons[i] += input[j] * w[i,j];
+                    newNeruons[i] += input[j] * w[i, j];
                 }
                 newNeruons[i] = CS_Math.Logistic_Curve_Math.GetLogisticCurve(newNeruons[i]);
             }
@@ -106,12 +106,16 @@ namespace CS_TicTacToeAI
             if (_rnd.Next(0, 2) == 1)
                 mutability++;
             else
+            {
                 mutability--;
+                if (mutability < 0)
+                    mutability = 1;
+            }
 
             return new TicTacToeAIv3(w1, w2, w3, mutability);
         }
 
-        internal TicTacToeAIv3 GetClone()
+        public TicTacToeAIv3 GetClone()
         {
             return new TicTacToeAIv3(_w1, _w2, _w3, _mutability);
         }

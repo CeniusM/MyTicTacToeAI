@@ -17,9 +17,15 @@ namespace CS_MyAI
         }
         public void Start()
         {
-            Turnamentv3 myTurnament = new Turnamentv3(250, 5000, _Form);
+            // Turnamentv3 myTurnament = new Turnamentv3(400, 10000, _Form);
 
-            myTurnament.Start();
+            // myTurnament.Start();
+
+            Turnamentv3Threading threadingTurny= new Turnamentv3Threading(1000, 10000, _Form, 5);
+            // Turnamentv3Threading threadingTurny= new Turnamentv3Threading(2000, 20000, _Form, 10); // på min stationær over en dag
+
+            threadingTurny.Start();
+
 
 
             // PlayTTT.TTTgame tTTgame = new PlayTTT.TTTgame(_Form);
