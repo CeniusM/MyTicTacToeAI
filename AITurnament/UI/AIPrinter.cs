@@ -7,18 +7,49 @@ namespace CS_MyAI
     {
         private winForm.Form1 _Form;
         private MyGame.GUI _GUI;
+        private List<TicTacToeAIv3> AI_To_Print;
+        private bool IsRunning = false;
         public AIPrinter(winForm.Form1 _Form)
         {
             this._Form = _Form;
             _GUI = new MyGame.GUI(_Form);
+            AI_To_Print = new List<TicTacToeAIv3>();
         }
-        public void PrintStanderdNetwork(float[] _input, float[,] _w1, float[] _hidden_layer1, float[,] _w2, float[] _hidden_layer2, float[,] _w3, float[] _output)
+
+        public void AddAI(TicTacToeAIv3 ai)
         {
-            
+            AI_To_Print.Add(ai);
+            if (!IsRunning)
+            {
+                Start();
+                BackEnd();
+            }
         }
-        private void PrintLayer()
+
+        public void Start()
         {
-            
+            IsRunning = true;
+        }
+
+        public void Stop()
+        {
+            IsRunning = false;
+        }
+
+        private void BackEnd()
+        {
+            while (IsRunning)
+            {
+                if (AI_To_Print.Count != 0)
+                    PrintAI();
+                else
+                    IsRunning = false;
+            }
+        }
+
+        private void PrintAI()
+        {
+
         }
     }
 }

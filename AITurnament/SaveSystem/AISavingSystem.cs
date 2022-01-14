@@ -5,7 +5,7 @@ namespace CS_TicTacToeAI
 {
     class SaveingSystem // save one to begin with
     {
-        public static string path = @"C:\GitHub\TicTacToeAI\AITurnament\SaveSystem\AISaves\Save1.txt";
+        public static string path = @"C:\GitHub\MyTicTacToeAI\AITurnament\SaveSystem\AISaves\Save1.txt";
         public static void SaveAI(TicTacToeAIv3 AI) // make it so it just takes the weights and mutatebility and not the ai class
         {
             string Data = "";
@@ -43,7 +43,7 @@ namespace CS_TicTacToeAI
             Data += "fitnessScore \n";
             Data += AI.fitnessScore + "\n";
 
-            MyConsole.WriteLine(Data, path);
+            WriteLine(Data);
         }
         private static void WriteLine(string text)
         {

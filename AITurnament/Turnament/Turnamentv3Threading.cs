@@ -108,7 +108,7 @@ namespace TTT_Turnament
 
         public void Start()
         {
-            
+
 
             isRunning = true;
             for (int i = 0; i < _generationAmount; i++)
@@ -125,19 +125,13 @@ namespace TTT_Turnament
             }
 
             SaveingSystem.SaveAI(_winners[_winners.Count - 1]);
+            _Form.Close();
         }
 
         public void StartGames()
         {
             TurnamentStats turnyStats = new TurnamentStats(); // just used for the game
 
-            for (int i = 0; i < _threadAmount; i++)
-            {
-                for (int j = 0; j < _allPlayers.Count / _threadAmount; j++)
-                {
-                    _players[i][j] = _allPlayers[(i * (_allPlayers.Count / _threadAmount) + j)];
-                }
-            }
 
             List<Gamev3> games = new List<Gamev3>();
             for (int i = 0; i < _threadAmount; i++)
@@ -171,7 +165,31 @@ namespace TTT_Turnament
 
             PrintGameStats(turnyStats);
 
+            // // gets one winner per thread
+            // for (int i = 0; i < _threadAmount; i++)
+            // {
+            //     GenerationGenaratorv1.NewGenerationvA(_players[i], _winners);
+            // }
+            // _allPlayers = new List<TicTacToeAIv3>();
+            // for (int i = 0; i < _players.Count; i++)
+            // {
+            //     for (int j = 0; j < _players[i].Count; j++)
+            //     {
+            //         _allPlayers.Add(_players[i][j]);
+            //     }
+            // }
+
+            //------------! never have bot on...
+
+            // gets one winner out of all threads
             GenerationGenaratorv1.NewGenerationvA(_allPlayers, _winners);
+            for (int i = 0; i < _threadAmount; i++)
+            {
+                for (int j = 0; j < _allPlayers.Count / _threadAmount; j++)
+                {
+                    _players[i][j] = _allPlayers[(i * (_allPlayers.Count / _threadAmount) + j)];
+                }
+            }
         }
 
 
@@ -239,7 +257,7 @@ namespace TTT_Turnament
             }
             else if (game.winner == 2)
             {
-                AI2.fitnessScore += 5;
+                AI2.fitnessScore += 4;
                 turnyStats.player2wins++;
             }
             else

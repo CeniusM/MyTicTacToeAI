@@ -125,14 +125,19 @@ namespace CS_TicTacToeAI
             float changeValue = 0;
             for (int i = 0; i < _mutability; i++)
             {
-                changeValue = _rnd.NextSingle();
+                changeValue = _rnd.NextSingle() / 5;
                 if (_rnd.Next(0, 2) == 1)
                     changeValue *= -1;
 
-                w[_rnd.Next(0, w.GetLength(0)), _rnd.Next(0, w.GetLength(1))] += changeValue;
+                int v1 = _rnd.Next(0, w.GetLength(0));
+                int v2 = _rnd.Next(0, w.GetLength(1));
+
+                w[v1, v2] += changeValue; // make it so the weights dosent get riduculas
+                if (w[v1, v2] > 10f || w[v1, v2] < -10f)
+                    w[v1,v2] *= 0.98f;
             }
 
-            // make it so the weights dosent get riduculas
+            
 
             return w;
         }
