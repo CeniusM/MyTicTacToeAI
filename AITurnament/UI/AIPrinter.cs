@@ -16,5 +16,9 @@ namespace CS_MyAI
         {
             
         }
+        private void PrintLayer()
+        {
+            
+        }
     }
 }

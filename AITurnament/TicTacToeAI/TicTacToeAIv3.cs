@@ -9,16 +9,16 @@ namespace CS_TicTacToeAI
     class TicTacToeAIv3
     {
         public int fitnessScore = 0;
-        private int _mutability;
+        public int _mutability { get; private set; }
         private Random _rnd = new Random();
-        private float[] _input = new float[9];
-        private float[,] _w1;
-        private float[] _hidden_layer1 = new float[9];
-        private float[,] _w2;
-        private float[] _hidden_layer2 = new float[9];
+        public float[] _input { get; private set; } = new float[9];
+        public float[,] _w1 { get; private set; }
+        public float[] _hidden_layer1 { get; private set; } = new float[9];
+        public float[,] _w2 { get; private set; }
+        public float[] _hidden_layer2 { get; private set; } = new float[9];
 
-        private float[,] _w3;
-        private float[] _output = new float[9];
+        public float[,] _w3 { get; private set; }
+        public float[] _output { get; private set; } = new float[9];
         public TicTacToeAIv3()
         {
             _mutability = _rnd.Next(4, 15);
@@ -131,6 +131,8 @@ namespace CS_TicTacToeAI
 
                 w[_rnd.Next(0, w.GetLength(0)), _rnd.Next(0, w.GetLength(1))] += changeValue;
             }
+
+            // make it so the weights dosent get riduculas
 
             return w;
         }

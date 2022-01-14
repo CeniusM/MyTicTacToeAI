@@ -90,6 +90,12 @@ namespace TTT_Turnament
             _threadAmount = threads;
 
             _Form.KeyPress += MyKeyPress;
+            _Form.FormClosing += StopRunning;
+        }
+
+        private void StopRunning(object? sender, FormClosingEventArgs e)
+        {
+            isRunning = false;
         }
 
         private void MyKeyPress(object? sender, KeyPressEventArgs e)
@@ -102,6 +108,8 @@ namespace TTT_Turnament
 
         public void Start()
         {
+            
+
             isRunning = true;
             for (int i = 0; i < _generationAmount; i++)
             {
@@ -112,8 +120,11 @@ namespace TTT_Turnament
                 else
                 {
                     StartGames();
+                    // _AIPrinter.PrintStanderdNetwork(_winners[_winners.Count - 1]); // make it its own class and thread where it can queue prints
                 }
             }
+
+            SaveingSystem.SaveAI(_winners[_winners.Count - 1]);
         }
 
         public void StartGames()
@@ -223,18 +234,18 @@ namespace TTT_Turnament
             }
             if (game.winner == 1)
             {
-                AI1.fitnessScore += 2;
+                AI1.fitnessScore += 3;
                 turnyStats.player1wins++;
             }
             else if (game.winner == 2)
             {
-                AI2.fitnessScore += 2;
+                AI2.fitnessScore += 5;
                 turnyStats.player2wins++;
             }
             else
             {
-                AI1.fitnessScore++;
-                AI2.fitnessScore++;
+                AI1.fitnessScore += 2;
+                AI2.fitnessScore += 2;
                 turnyStats.ties++;
             }
         }

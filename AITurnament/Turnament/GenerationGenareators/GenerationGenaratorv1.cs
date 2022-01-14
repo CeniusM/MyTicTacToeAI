@@ -25,5 +25,10 @@ namespace TTT_Turnament
                 players[i] = winner.GiveBirth();
             }
         }
+
+        public static void NewGenerationvB(List<TicTacToeAIv3> players, List<TicTacToeAIv3> _winners)
+        {
+            
+        }
     }
 }
