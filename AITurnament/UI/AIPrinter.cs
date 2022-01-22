@@ -36,7 +36,7 @@ namespace CS_MyAI
             IsRunning = false;
         }
 
-        private void BackEnd()
+        private void BackEnd() // also disblay stats like genaration out of total genarations, games played and so on
         {
             while (IsRunning)
             {

@@ -21,7 +21,7 @@ namespace CS_TicTacToeAI
         public float[] _output { get; private set; } = new float[9];
         public TicTacToeAIv3()
         {
-            _mutability = _rnd.Next(4, 15);
+            _mutability = _rnd.Next(5, 30);
             _w1 = NewWeights(9, 9); // needs mutability
             _w2 = NewWeights(9, 9);
             _w3 = NewWeights(9, 9);
@@ -99,9 +99,22 @@ namespace CS_TicTacToeAI
         public TicTacToeAIv3 GiveBirth()
         {
             float[,] w1 = MutateWeight(_w1);
+            if (_rnd.Next(0, 5) == 1)
+                w1 = NewWeights(w1.GetLength(0), w1.GetLength(1));
+
             float[,] w2 = MutateWeight(_w2);
+            if (_rnd.Next(0, 5) == 1)
+                w2 = NewWeights(w2.GetLength(0), w2.GetLength(1));
+
             float[,] w3 = MutateWeight(_w3);
-            int mutability = _mutability;
+            if (_rnd.Next(0, 5) == 1)
+                w3 = NewWeights(w3.GetLength(0), w3.GetLength(1));
+
+            int mutability;
+            if (_rnd.Next(0, 10) == 1)
+                mutability = _mutability;
+            else
+                mutability = _rnd.Next(5, 30);
 
             if (_rnd.Next(0, 2) == 1)
                 mutability++;
@@ -134,10 +147,10 @@ namespace CS_TicTacToeAI
 
                 w[v1, v2] += changeValue; // make it so the weights dosent get riduculas
                 if (w[v1, v2] > 10f || w[v1, v2] < -10f)
-                    w[v1,v2] *= 0.98f;
+                    w[v1, v2] *= 0.98f;
             }
 
-            
+
 
             return w;
         }

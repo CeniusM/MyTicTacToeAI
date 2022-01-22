@@ -22,7 +22,7 @@ namespace CS_MyAI
             // myTurnament.Start();
 
             // Turnamentv3Threading threadingTurny = new Turnamentv3Threading(100, 10000, _Form, 1);
-            Turnamentv3Threading threadingTurny= new Turnamentv3Threading(500, 10000, _Form, 5);
+            Turnamentv3Threading threadingTurny= new Turnamentv3Threading(1000, 10000, _Form, 5);
             // Turnamentv3Threading threadingTurny= new Turnamentv3Threading(2000, 20000, _Form, 10); // på min stationær over en dag
 
             threadingTurny.Start();

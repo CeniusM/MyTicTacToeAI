@@ -6,6 +6,7 @@ namespace TTT_Turnament
     {
         public static void NewGenerationvA(List<TicTacToeAIv3> players, List<TicTacToeAIv3> _winners)
         {
+            Random rnd = new Random();
             int winnerIndex = 0; // winner
             int value = players[0].fitnessScore;
             for (int i = 0; i < players.Count; i++)
@@ -22,13 +23,16 @@ namespace TTT_Turnament
 
             for (int i = 0; i < players.Count; i++)
             {
-                players[i] = winner.GiveBirth();
+                if (rnd.Next(0, 10) == 1)
+                    players[i] = players[i].GiveBirth();
+                else
+                    players[i] = winner.GiveBirth();
             }
         }
 
         public static void NewGenerationvB(List<TicTacToeAIv3> players, List<TicTacToeAIv3> _winners)
         {
-            
+
         }
     }
 }

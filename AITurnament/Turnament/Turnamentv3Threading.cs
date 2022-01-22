@@ -125,7 +125,6 @@ namespace TTT_Turnament
             }
 
             SaveingSystem.SaveAI(_winners[_winners.Count - 1]);
-            _Form.Close();
         }
 
         public void StartGames()
@@ -252,18 +251,18 @@ namespace TTT_Turnament
             }
             if (game.winner == 1)
             {
-                AI1.fitnessScore += 3;
+                AI1.fitnessScore += 4;
                 turnyStats.player1wins++;
             }
             else if (game.winner == 2)
             {
-                AI2.fitnessScore += 4;
+                AI2.fitnessScore += 5;
                 turnyStats.player2wins++;
             }
             else
             {
                 AI1.fitnessScore += 2;
-                AI2.fitnessScore += 2;
+                AI2.fitnessScore += 4;
                 turnyStats.ties++;
             }
         }
