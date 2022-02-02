@@ -23,27 +23,27 @@
 
 //             if (533 < e.X) // right colum
 //             {
-//                 x = 2;
+//                 x += 2;
 //             }
 //             else if (e.X < 233)
 //             {
-//                 x = 0;
+//                 x += 0;
 //             }
-//             else x = 1;
+//             else x += 1;
 
 
 
 //             if (533 < e.Y) // butom colum
 //             {
-//                 y = 2;
+//                 y += 6;
 //             }
 //             else if (e.Y < 233)
 //             {
-//                 y = 0;
+//                 y += 0;
 //             }
-//             else y = 1;
+//             else y += 3;
 
-//             _TicTacToe.MakeMove(x, y);
+//             _TicTacToe.MakeMove(x + y);
 //         }
 
 //         public void Start()
@@ -54,10 +54,10 @@
 //                 {
 //                     for (int j = 0; j < 3; j++)
 //                     {
-//                         PrintAPI(i, j, _TicTacToe.Board[i, j]);
+//                         PrintAPI(i, j, _TicTacToe.board[i + (j * 3)]);
 //                     }
 //                 }
-//                 if (!_TicTacToe.gameRunning)
+//                 if (!_TicTacToe.running)
 //                 {
 //                     Color color = Color.White;
 
@@ -76,17 +76,17 @@
 
 //                     _GUI.DrawLine(1, 1, 700, 700, color, 2);
 
-//                     if (!_TicTacToe.gameRunning)
+//                     if (!_TicTacToe.running)
 //                     {
 //                         _GUI.Print();
-//                         Thread.Sleep(10000);
+//                         Thread.Sleep(2000);
 //                         _TicTacToe = new TicTacToe();
-//                         _GUI.Reset();
+//                         _GUI.Resetv2();
 //                         _GUI.Print();
-                                                
+
 //                     }
 //                 }
-//                 if (_TicTacToe.gameRunning)
+//                 if (_TicTacToe.running)
 //                     _GUI.Print();
 //                 Thread.Sleep(100);
 //             }

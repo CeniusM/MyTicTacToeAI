@@ -1,4 +1,4 @@
-using MyTicTacToe;
+using TicTacToe;
 using winForm;
 
 namespace PlayTTT
@@ -6,12 +6,12 @@ namespace PlayTTT
     class TTTgame
     {
         private Form1 _Form;
-        private TicTacToe _TicTacToe;
+        private TTTGame _TicTacToe;
         private MyGame.GUI _GUI;
         public TTTgame(Form1 _Form)
         {
             this._Form = _Form;
-            _TicTacToe = new TicTacToe();
+            _TicTacToe = new TTTGame();
             _Form.MouseClick += MyMouseClick;
             _GUI = new MyGame.GUI(_Form);
         }
@@ -23,27 +23,27 @@ namespace PlayTTT
 
             if (533 < e.X) // right colum
             {
-                x += 2;
+                x = 2;
             }
             else if (e.X < 233)
             {
-                x += 0;
+                x = 0;
             }
-            else x += 1;
+            else x = 1;
 
 
 
             if (533 < e.Y) // butom colum
             {
-                y += 6;
+                y = 2;
             }
             else if (e.Y < 233)
             {
-                y += 0;
+                y = 0;
             }
-            else y += 3;
+            else y = 1;
 
-            _TicTacToe.MakeMove(x + y);
+            _TicTacToe.MakeMove((x + (y * 3)));
         }
 
         public void Start()
@@ -54,10 +54,10 @@ namespace PlayTTT
                 {
                     for (int j = 0; j < 3; j++)
                     {
-                        PrintAPI(i, j, _TicTacToe.board[i + (j * 3)]);
+                        PrintAPI(i, j, _TicTacToe.board[(i + (j * 3))]);
                     }
                 }
-                if (!_TicTacToe.running)
+                if (_TicTacToe.isGameOver)
                 {
                     Color color = Color.White;
 
@@ -76,17 +76,17 @@ namespace PlayTTT
 
                     _GUI.DrawLine(1, 1, 700, 700, color, 2);
 
-                    if (!_TicTacToe.running)
+                    if (_TicTacToe.isGameOver)
                     {
                         _GUI.Print();
-                        Thread.Sleep(2000);
-                        _TicTacToe = new TicTacToe();
-                        _GUI.Resetv2();
+                        Thread.Sleep(10000);
+                        _TicTacToe = new TTTGame();
+                        _GUI.Reset();
                         _GUI.Print();
 
                     }
                 }
-                if (_TicTacToe.running)
+                if (!_TicTacToe.isGameOver)
                     _GUI.Print();
                 Thread.Sleep(100);
             }

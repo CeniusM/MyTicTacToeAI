@@ -47,7 +47,7 @@ static class Program
 
 
 
-            // start again later
+        // start again later
         Application.Run(myForm);
 
 
@@ -60,16 +60,18 @@ static class Program
     }
     private static void GameThread(Form1 myForm)
     {
-        // PlayTTT.TTTgame game = new PlayTTT.TTTgame(myForm);
+        PlayTTT.TTTgame game = new PlayTTT.TTTgame(myForm);
 
-        // game.Start();
+        game.Start();
 
         // TTT_Turnament.Turnament trunament = new TTT_Turnament.Turnament(myForm);
 
         // trunament.Start();
 
+        /*
         CS_MyAI.MyAI myAI = new CS_MyAI.MyAI(myForm);
 
         myAI.Start();
+        */
     }
 }
