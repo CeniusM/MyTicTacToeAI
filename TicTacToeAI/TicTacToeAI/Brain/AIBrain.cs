@@ -1,0 +1,7 @@
+namespace TicTacToeAI
+{
+    class AIBrain
+    {
+        
+    }
+}
