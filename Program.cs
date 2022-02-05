@@ -12,13 +12,19 @@ static class Program
 
         Form1 myForm = new Form1();
 
-        var gameThread = new Thread(() => GameThread(myForm));
+        TicTacToeAI.Main game = new TicTacToeAI.Main(myForm);
+
+        var gameThread = new Thread(() => GameThread(game));
 
         myForm.Shown += (s, a) =>
         {
             gameThread.Start();
         };
-        myForm.FormClosing += (s, a) => gameThread.Join();
+        myForm.FormClosing += (s, a) =>
+        {
+            game.Stop();
+            gameThread.Join();
+        };
 
 
         //-----------------
@@ -58,11 +64,14 @@ static class Program
 
         // tttAI.Testing();
     }
-    private static void GameThread(Form1 myForm)
+    private static void GameThread(TicTacToeAI.Main game)
     {
-        PlayTTT.TTTgame game = new PlayTTT.TTTgame(myForm);
-
         game.Start();
+
+
+        // PlayTTT.TTTgame game = new PlayTTT.TTTgame(myForm);
+
+        // game.Start();
 
         // TTT_Turnament.Turnament trunament = new TTT_Turnament.Turnament(myForm);
 
