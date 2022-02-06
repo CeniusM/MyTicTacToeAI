@@ -4,7 +4,8 @@ namespace TicTacToeAI
 {
     class TicTacToeAI
     {
-        public const int chance = 10;
+        public int fitness = 0;
+        public const int chance = 50;
         private Random _rnd = new Random();
         public AIBrain brain;
         public int mutability = 10;
@@ -33,6 +34,11 @@ namespace TicTacToeAI
             }
 
             float[] output = brain.RunSim(input);
+
+            for (int i = 0; i < 9; i++)
+            {
+                if (board[i] != 0) output[i] = float.MinValue;
+            }
 
             return Highest.GetHighestValue(output);
         }

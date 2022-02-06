@@ -85,19 +85,23 @@ namespace AIGUI
 
             if (value > 0)// if over 0
             {
-                Green = (int)((float)255 / range * value);
+                Green = (int)((float)254 / range * value);
                 alpha = Green;
-                // Blue = 255 - Green;
-                // Red = 255 - Green;
+                // Blue = 254 - Green;
+                // Red = 254 - Green;
             }
             else if (value < 0)
             {
                 range *= -1;
-                Red = (int)((float)255 / range * value);
+                Red = (int)((float)254 / range * value);
                 alpha = Red;
-                // Blue = 255 - Red;
-                // Green = 255 - Red;
+                // Blue = 254 - Red;
+                // Green = 254 - Red;
             }
+
+            if (Green > 254) Green = 254;
+            if (Red > 254) Red = 254;
+            if (alpha > 254) alpha = 254;
 
             return Color.FromArgb(alpha, Red, Green, Blue);
         }

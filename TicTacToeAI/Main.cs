@@ -13,7 +13,7 @@ namespace TicTacToeAI
         public Main(Form1 form)
         {
             this.form = form;
-            TTTturnament = new TTT_Turnament(100, 100, 2);
+            TTTturnament = new TTT_Turnament(300, 100000, 4);
             _networkPrinter = new NetworkPrinter(this.form);
 
             TTTturnament.genarationDone += PrintWinner;
@@ -25,11 +25,12 @@ namespace TicTacToeAI
             TTTturnament.Run();
         }
 
-        private void PrintWinner(object? sender, EventArgs e)
+        private void PrintWinner(object? sender, EventArgs e) // idk when this is called if it runs on a separete thread from the turnament,
+                                                              // but if not, make it into its own thread
         {
             if (_isPrinting) return;
             _isPrinting = true;
-            _networkPrinter.PrintBrain(TTTturnament.winners[TTTturnament.winners.Count()-1].brain);
+            _networkPrinter.PrintBrain(TTTturnament.winners[TTTturnament.winners.Count() - 1].brain);
             _isPrinting = false;
         }
 

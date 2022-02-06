@@ -15,6 +15,7 @@ namespace TicTacToeAI
             w1 = new float[9, 9];
             w2 = new float[9, 9];
             w3 = new float[9, 9];
+            Randomize(5);
         }
         public AIBrain(float[,] W1, float[,] W2, float[,] W3)
         {
@@ -31,7 +32,34 @@ namespace TicTacToeAI
 
         public void Mutate(int mutability, int chance) // mutate weights
         {
+            for (int i = 0; i < mutability; i++)
+            {
+                if (rnd.Next(0, chance + 1) != 0) continue;
 
+                int x = rnd.Next(0, 9);
+                int y = rnd.Next(0, 9);
+                int weight = rnd.Next(0, 3);
+                if (weight == 0)
+                    w1[x, y] = MutateWeight(w1[x, y]);
+                else if (weight == 1)
+                    w2[x, y] = MutateWeight(w2[x, y]);
+                else
+                    w3[x, y] = MutateWeight(w3[x, y]);
+            }
+        }
+
+        public float MutateWeight(float wValue)
+        {
+            float value = rnd.NextSingle() / 2;
+            if (rnd.Next(0, 2) == 1)
+                value *= -1;
+
+            wValue += value;
+
+            if (wValue > 1) wValue *= 0.9f;
+            if (wValue > -1) wValue *= 0.9f;
+
+            return wValue;
         }
 
         public float[] RunSim(float[] input) // needs to be optimised, alooot, maby use the grapichs card ;) with the multi kernel stuff
@@ -70,12 +98,12 @@ namespace TicTacToeAI
 
         public void Randomize(int chance)
         {
-            w1 = GetRandomWeight(chance);
-            w2 = GetRandomWeight(chance);
-            w3 = GetRandomWeight(chance);
+            w1 = GetRandomWeights(chance);
+            w2 = GetRandomWeights(chance);
+            w3 = GetRandomWeights(chance);
         }
 
-        public float[,] GetRandomWeight(int chance)
+        public float[,] GetRandomWeights(int chance)
         {
             float[,] w = new float[9, 9];
 
