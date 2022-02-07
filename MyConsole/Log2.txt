@@ -1,0 +1,4955 @@
+wins: 52259
+losses: 25157
+ties: 12584
+1/100000
+
+wins: 53715
+losses: 30789
+ties: 5496
+2/100000
+
+wins: 52503
+losses: 31521
+ties: 5976
+3/100000
+
+wins: 56793
+losses: 27529
+ties: 5678
+4/100000
+
+wins: 54742
+losses: 27790
+ties: 7468
+5/100000
+
+wins: 56352
+losses: 30714
+ties: 2934
+6/100000
+
+wins: 52133
+losses: 29938
+ties: 7929
+7/100000
+
+wins: 51819
+losses: 31840
+ties: 6341
+8/100000
+
+wins: 54429
+losses: 28335
+ties: 7236
+9/100000
+
+wins: 55009
+losses: 28453
+ties: 6538
+10/100000
+
+wins: 54981
+losses: 27956
+ties: 7063
+11/100000
+
+wins: 53661
+losses: 27773
+ties: 8566
+12/100000
+
+wins: 55496
+losses: 30014
+ties: 4490
+13/100000
+
+wins: 50918
+losses: 33502
+ties: 5580
+14/100000
+
+wins: 54985
+losses: 30013
+ties: 5002
+15/100000
+
+wins: 57210
+losses: 25070
+ties: 7720
+16/100000
+
+wins: 54030
+losses: 29625
+ties: 6345
+17/100000
+
+wins: 56758
+losses: 26963
+ties: 6279
+18/100000
+
+wins: 57468
+losses: 27170
+ties: 5362
+19/100000
+
+wins: 53010
+losses: 30908
+ties: 6082
+20/100000
+
+wins: 59434
+losses: 25927
+ties: 4639
+21/100000
+
+wins: 53350
+losses: 30042
+ties: 6608
+22/100000
+
+wins: 53143
+losses: 31091
+ties: 5766
+23/100000
+
+wins: 53682
+losses: 29784
+ties: 6534
+24/100000
+
+wins: 56170
+losses: 26256
+ties: 7574
+25/100000
+
+wins: 52949
+losses: 29640
+ties: 7411
+26/100000
+
+wins: 55104
+losses: 27772
+ties: 7124
+27/100000
+
+wins: 54414
+losses: 29504
+ties: 6082
+28/100000
+
+wins: 53854
+losses: 30990
+ties: 5156
+29/100000
+
+wins: 49574
+losses: 34293
+ties: 6133
+30/100000
+
+wins: 52109
+losses: 31622
+ties: 6269
+31/100000
+
+wins: 49688
+losses: 35217
+ties: 5095
+32/100000
+
+wins: 47502
+losses: 37098
+ties: 5400
+33/100000
+
+wins: 49192
+losses: 35499
+ties: 5309
+34/100000
+
+wins: 48741
+losses: 38374
+ties: 2885
+35/100000
+
+wins: 50138
+losses: 31358
+ties: 8504
+36/100000
+
+wins: 50420
+losses: 30825
+ties: 8755
+37/100000
+
+wins: 52173
+losses: 29351
+ties: 8476
+38/100000
+
+wins: 49751
+losses: 29892
+ties: 10357
+39/100000
+
+wins: 56277
+losses: 27580
+ties: 6143
+40/100000
+
+wins: 57828
+losses: 26660
+ties: 5512
+41/100000
+
+wins: 56384
+losses: 26646
+ties: 6970
+42/100000
+
+wins: 54547
+losses: 28983
+ties: 6470
+43/100000
+
+wins: 54720
+losses: 28098
+ties: 7182
+44/100000
+
+wins: 56830
+losses: 25950
+ties: 7220
+45/100000
+
+wins: 52512
+losses: 24853
+ties: 12635
+46/100000
+
+wins: 50518
+losses: 28392
+ties: 11090
+47/100000
+
+wins: 49446
+losses: 30131
+ties: 10423
+48/100000
+
+wins: 53277
+losses: 27816
+ties: 8907
+49/100000
+
+wins: 51759
+losses: 30230
+ties: 8011
+50/100000
+
+wins: 51632
+losses: 31176
+ties: 7192
+51/100000
+
+wins: 52417
+losses: 28139
+ties: 9444
+52/100000
+
+wins: 52884
+losses: 29402
+ties: 7714
+53/100000
+
+wins: 51813
+losses: 30517
+ties: 7670
+54/100000
+
+wins: 51261
+losses: 29594
+ties: 9145
+55/100000
+
+wins: 50199
+losses: 29263
+ties: 10538
+56/100000
+
+wins: 47907
+losses: 32215
+ties: 9878
+57/100000
+
+wins: 55057
+losses: 25799
+ties: 9144
+58/100000
+
+wins: 56511
+losses: 25215
+ties: 8274
+59/100000
+
+wins: 50704
+losses: 31430
+ties: 7866
+60/100000
+
+wins: 50866
+losses: 30269
+ties: 8865
+61/100000
+
+wins: 53630
+losses: 26753
+ties: 9617
+62/100000
+
+wins: 49839
+losses: 29215
+ties: 10946
+63/100000
+
+wins: 47912
+losses: 27091
+ties: 14997
+64/100000
+
+wins: 52159
+losses: 26719
+ties: 11122
+65/100000
+
+wins: 53637
+losses: 23717
+ties: 12646
+66/100000
+
+wins: 55514
+losses: 22723
+ties: 11763
+67/100000
+
+wins: 57515
+losses: 23297
+ties: 9188
+68/100000
+
+wins: 56560
+losses: 24238
+ties: 9202
+69/100000
+
+wins: 54647
+losses: 25443
+ties: 9910
+70/100000
+
+wins: 50656
+losses: 29053
+ties: 10291
+71/100000
+
+wins: 51461
+losses: 28706
+ties: 9833
+72/100000
+
+wins: 50057
+losses: 31849
+ties: 8094
+73/100000
+
+wins: 54630
+losses: 27934
+ties: 7436
+74/100000
+
+wins: 52529
+losses: 28349
+ties: 9122
+75/100000
+
+wins: 54706
+losses: 26664
+ties: 8630
+76/100000
+
+wins: 52171
+losses: 25981
+ties: 11848
+77/100000
+
+wins: 50132
+losses: 28774
+ties: 11094
+78/100000
+
+wins: 49971
+losses: 25695
+ties: 14334
+79/100000
+
+wins: 50194
+losses: 25644
+ties: 14162
+80/100000
+
+wins: 53669
+losses: 24063
+ties: 12268
+81/100000
+
+wins: 52253
+losses: 23718
+ties: 14029
+82/100000
+
+wins: 51635
+losses: 22779
+ties: 15586
+83/100000
+
+wins: 52915
+losses: 22502
+ties: 14583
+84/100000
+
+wins: 50525
+losses: 28316
+ties: 11159
+85/100000
+
+wins: 52238
+losses: 24538
+ties: 13224
+86/100000
+
+wins: 51989
+losses: 25073
+ties: 12938
+87/100000
+
+wins: 53739
+losses: 22440
+ties: 13821
+88/100000
+
+wins: 52511
+losses: 23534
+ties: 13955
+89/100000
+
+wins: 51456
+losses: 27923
+ties: 10621
+90/100000
+
+wins: 52335
+losses: 24639
+ties: 13026
+91/100000
+
+wins: 52737
+losses: 27175
+ties: 10088
+92/100000
+
+wins: 47725
+losses: 26522
+ties: 15753
+93/100000
+
+wins: 49610
+losses: 24893
+ties: 15497
+94/100000
+
+wins: 50708
+losses: 25969
+ties: 13323
+95/100000
+
+wins: 49269
+losses: 24297
+ties: 16434
+96/100000
+
+wins: 50971
+losses: 23304
+ties: 15725
+97/100000
+
+wins: 49787
+losses: 26230
+ties: 13983
+98/100000
+
+wins: 44609
+losses: 27328
+ties: 18063
+99/100000
+
+wins: 47649
+losses: 24760
+ties: 17591
+100/100000
+
+wins: 44183
+losses: 26163
+ties: 19654
+101/100000
+
+wins: 47416
+losses: 27649
+ties: 14935
+102/100000
+
+wins: 49558
+losses: 25961
+ties: 14481
+103/100000
+
+wins: 52377
+losses: 24601
+ties: 13022
+104/100000
+
+wins: 51451
+losses: 23786
+ties: 14763
+105/100000
+
+wins: 52626
+losses: 22062
+ties: 15312
+106/100000
+
+wins: 50004
+losses: 24135
+ties: 15861
+107/100000
+
+wins: 51288
+losses: 22543
+ties: 16169
+108/100000
+
+wins: 51041
+losses: 26223
+ties: 12736
+109/100000
+
+wins: 50879
+losses: 23664
+ties: 15457
+110/100000
+
+wins: 51215
+losses: 22537
+ties: 16248
+111/100000
+
+wins: 47265
+losses: 26088
+ties: 16647
+112/100000
+
+wins: 50176
+losses: 26716
+ties: 13108
+113/100000
+
+wins: 51980
+losses: 22854
+ties: 15166
+114/100000
+
+wins: 52393
+losses: 25883
+ties: 11724
+115/100000
+
+wins: 52112
+losses: 24981
+ties: 12907
+116/100000
+
+wins: 53224
+losses: 23744
+ties: 13032
+117/100000
+
+wins: 53136
+losses: 26208
+ties: 10656
+118/100000
+
+wins: 55142
+losses: 24210
+ties: 10648
+119/100000
+
+wins: 54066
+losses: 26520
+ties: 9414
+120/100000
+
+wins: 53944
+losses: 26338
+ties: 9718
+121/100000
+
+wins: 53735
+losses: 27214
+ties: 9051
+122/100000
+
+wins: 56088
+losses: 24134
+ties: 9778
+123/100000
+
+wins: 55841
+losses: 24683
+ties: 9476
+124/100000
+
+wins: 52298
+losses: 26708
+ties: 10994
+125/100000
+
+wins: 50452
+losses: 28867
+ties: 10681
+126/100000
+
+wins: 51687
+losses: 30263
+ties: 8050
+127/100000
+
+wins: 50889
+losses: 31275
+ties: 7836
+128/100000
+
+wins: 52615
+losses: 29778
+ties: 7607
+129/100000
+
+wins: 51700
+losses: 28820
+ties: 9480
+130/100000
+
+wins: 50151
+losses: 31450
+ties: 8399
+131/100000
+
+wins: 53930
+losses: 29661
+ties: 6409
+132/100000
+
+wins: 49661
+losses: 32846
+ties: 7493
+133/100000
+
+wins: 51451
+losses: 31345
+ties: 7204
+134/100000
+
+wins: 53936
+losses: 27157
+ties: 8907
+135/100000
+
+wins: 52774
+losses: 29946
+ties: 7280
+136/100000
+
+wins: 49178
+losses: 32567
+ties: 8255
+137/100000
+
+wins: 51515
+losses: 32108
+ties: 6377
+138/100000
+
+wins: 50896
+losses: 32940
+ties: 6164
+139/100000
+
+wins: 48906
+losses: 33276
+ties: 7818
+140/100000
+
+wins: 48307
+losses: 34551
+ties: 7142
+141/100000
+
+wins: 49810
+losses: 33568
+ties: 6622
+142/100000
+
+wins: 50274
+losses: 31426
+ties: 8300
+143/100000
+
+wins: 53130
+losses: 27373
+ties: 9497
+144/100000
+
+wins: 52056
+losses: 27471
+ties: 10473
+145/100000
+
+wins: 53091
+losses: 27233
+ties: 9676
+146/100000
+
+wins: 53601
+losses: 28275
+ties: 8124
+147/100000
+
+wins: 54085
+losses: 28802
+ties: 7113
+148/100000
+
+wins: 52861
+losses: 29396
+ties: 7743
+149/100000
+
+wins: 52632
+losses: 31154
+ties: 6214
+150/100000
+
+wins: 53574
+losses: 29954
+ties: 6472
+151/100000
+
+wins: 51370
+losses: 30786
+ties: 7844
+152/100000
+
+wins: 52172
+losses: 31219
+ties: 6609
+153/100000
+
+wins: 52581
+losses: 30712
+ties: 6707
+154/100000
+
+wins: 52913
+losses: 30299
+ties: 6788
+155/100000
+
+wins: 50143
+losses: 31650
+ties: 8207
+156/100000
+
+wins: 51788
+losses: 29754
+ties: 8458
+157/100000
+
+wins: 52818
+losses: 28975
+ties: 8207
+158/100000
+
+wins: 49304
+losses: 33739
+ties: 6957
+159/100000
+
+wins: 48580
+losses: 31785
+ties: 9635
+160/100000
+
+wins: 48900
+losses: 33083
+ties: 8017
+161/100000
+
+wins: 51781
+losses: 31733
+ties: 6486
+162/100000
+
+wins: 50066
+losses: 33375
+ties: 6559
+163/100000
+
+wins: 49980
+losses: 35144
+ties: 4876
+164/100000
+
+wins: 53975
+losses: 31243
+ties: 4782
+165/100000
+
+wins: 53440
+losses: 32213
+ties: 4347
+166/100000
+
+wins: 51857
+losses: 33044
+ties: 5099
+167/100000
+
+wins: 52321
+losses: 31840
+ties: 5839
+168/100000
+
+wins: 53301
+losses: 29695
+ties: 7004
+169/100000
+
+wins: 50954
+losses: 30378
+ties: 8668
+170/100000
+
+wins: 50403
+losses: 31735
+ties: 7862
+171/100000
+
+wins: 51220
+losses: 30913
+ties: 7867
+172/100000
+
+wins: 48455
+losses: 31656
+ties: 9889
+173/100000
+
+wins: 51225
+losses: 28555
+ties: 10220
+174/100000
+
+wins: 47290
+losses: 33628
+ties: 9082
+175/100000
+
+wins: 48569
+losses: 31300
+ties: 10131
+176/100000
+
+wins: 47916
+losses: 30926
+ties: 11158
+177/100000
+
+wins: 49954
+losses: 29601
+ties: 10445
+178/100000
+
+wins: 50921
+losses: 29684
+ties: 9395
+179/100000
+
+wins: 51701
+losses: 30161
+ties: 8138
+180/100000
+
+wins: 52579
+losses: 28451
+ties: 8970
+181/100000
+
+wins: 49707
+losses: 28996
+ties: 11297
+182/100000
+
+wins: 51091
+losses: 28423
+ties: 10486
+183/100000
+
+wins: 50861
+losses: 28978
+ties: 10161
+184/100000
+
+wins: 49658
+losses: 26985
+ties: 13357
+185/100000
+
+wins: 52683
+losses: 26518
+ties: 10799
+186/100000
+
+wins: 55235
+losses: 27571
+ties: 7194
+187/100000
+
+wins: 51575
+losses: 30811
+ties: 7614
+188/100000
+
+wins: 52662
+losses: 27028
+ties: 10310
+189/100000
+
+wins: 50833
+losses: 27049
+ties: 12118
+190/100000
+
+wins: 50403
+losses: 28494
+ties: 11103
+191/100000
+
+wins: 48295
+losses: 29092
+ties: 12613
+192/100000
+
+wins: 48936
+losses: 29518
+ties: 11546
+193/100000
+
+wins: 50532
+losses: 27950
+ties: 11518
+194/100000
+
+wins: 50661
+losses: 27937
+ties: 11402
+195/100000
+
+wins: 51384
+losses: 28918
+ties: 9698
+196/100000
+
+wins: 47171
+losses: 28262
+ties: 14567
+197/100000
+
+wins: 47025
+losses: 29992
+ties: 12983
+198/100000
+
+wins: 53476
+losses: 25247
+ties: 11277
+199/100000
+
+wins: 52165
+losses: 26382
+ties: 11453
+200/100000
+
+wins: 50747
+losses: 26991
+ties: 12262
+201/100000
+
+wins: 51613
+losses: 29597
+ties: 8790
+202/100000
+
+wins: 51418
+losses: 30148
+ties: 8434
+203/100000
+
+wins: 51108
+losses: 28349
+ties: 10543
+204/100000
+
+wins: 50022
+losses: 26540
+ties: 13438
+205/100000
+
+wins: 50975
+losses: 26793
+ties: 12232
+206/100000
+
+wins: 51388
+losses: 26396
+ties: 12216
+207/100000
+
+wins: 50915
+losses: 26345
+ties: 12740
+208/100000
+
+wins: 51625
+losses: 25856
+ties: 12519
+209/100000
+
+wins: 49321
+losses: 27551
+ties: 13128
+210/100000
+
+wins: 50645
+losses: 27720
+ties: 11635
+211/100000
+
+wins: 49324
+losses: 28272
+ties: 12404
+212/100000
+
+wins: 48025
+losses: 26788
+ties: 15187
+213/100000
+
+wins: 47829
+losses: 25933
+ties: 16238
+214/100000
+
+wins: 52682
+losses: 24922
+ties: 12396
+215/100000
+
+wins: 52252
+losses: 25298
+ties: 12450
+216/100000
+
+wins: 51768
+losses: 24569
+ties: 13663
+217/100000
+
+wins: 51596
+losses: 25912
+ties: 12492
+218/100000
+
+wins: 52419
+losses: 25364
+ties: 12217
+219/100000
+
+wins: 52111
+losses: 23671
+ties: 14218
+220/100000
+
+wins: 57027
+losses: 17701
+ties: 15272
+221/100000
+
+wins: 53159
+losses: 22705
+ties: 14136
+222/100000
+
+wins: 51371
+losses: 24630
+ties: 13999
+223/100000
+
+wins: 52730
+losses: 21940
+ties: 15330
+224/100000
+
+wins: 50986
+losses: 21805
+ties: 17209
+225/100000
+
+wins: 53152
+losses: 22196
+ties: 14652
+226/100000
+
+wins: 49940
+losses: 23094
+ties: 16966
+227/100000
+
+wins: 49804
+losses: 22767
+ties: 17429
+228/100000
+
+wins: 50338
+losses: 24514
+ties: 15148
+229/100000
+
+wins: 52409
+losses: 22347
+ties: 15244
+230/100000
+
+wins: 52424
+losses: 22274
+ties: 15302
+231/100000
+
+wins: 52308
+losses: 23374
+ties: 14318
+232/100000
+
+wins: 51221
+losses: 24834
+ties: 13945
+233/100000
+
+wins: 52186
+losses: 23891
+ties: 13923
+234/100000
+
+wins: 51340
+losses: 25076
+ties: 13584
+235/100000
+
+wins: 51818
+losses: 23038
+ties: 15144
+236/100000
+
+wins: 52209
+losses: 23507
+ties: 14284
+237/100000
+
+wins: 50954
+losses: 25034
+ties: 14012
+238/100000
+
+wins: 54186
+losses: 22051
+ties: 13763
+239/100000
+
+wins: 54755
+losses: 23174
+ties: 12071
+240/100000
+
+wins: 52522
+losses: 23250
+ties: 14228
+241/100000
+
+wins: 52674
+losses: 25275
+ties: 12051
+242/100000
+
+wins: 53208
+losses: 27220
+ties: 9572
+243/100000
+
+wins: 51907
+losses: 25072
+ties: 13021
+244/100000
+
+wins: 51388
+losses: 25715
+ties: 12897
+245/100000
+
+wins: 53264
+losses: 25346
+ties: 11390
+246/100000
+
+wins: 53705
+losses: 24407
+ties: 11888
+247/100000
+
+wins: 55342
+losses: 22855
+ties: 11803
+248/100000
+
+wins: 56938
+losses: 22777
+ties: 10285
+249/100000
+
+wins: 56877
+losses: 21645
+ties: 11478
+250/100000
+
+wins: 56609
+losses: 23433
+ties: 9958
+251/100000
+
+wins: 57547
+losses: 21810
+ties: 10643
+252/100000
+
+wins: 57567
+losses: 21297
+ties: 11136
+253/100000
+
+wins: 58234
+losses: 22298
+ties: 9468
+254/100000
+
+wins: 56126
+losses: 19716
+ties: 14158
+255/100000
+
+wins: 58145
+losses: 18638
+ties: 13217
+256/100000
+
+wins: 54068
+losses: 18287
+ties: 17645
+257/100000
+
+wins: 52878
+losses: 25230
+ties: 11892
+258/100000
+
+wins: 51180
+losses: 24081
+ties: 14739
+259/100000
+
+wins: 51706
+losses: 19708
+ties: 18586
+260/100000
+
+wins: 52894
+losses: 21608
+ties: 15498
+261/100000
+
+wins: 52585
+losses: 20964
+ties: 16451
+262/100000
+
+wins: 51450
+losses: 22141
+ties: 16409
+263/100000
+
+wins: 51108
+losses: 19417
+ties: 19475
+264/100000
+
+wins: 53166
+losses: 22134
+ties: 14700
+265/100000
+
+wins: 55302
+losses: 20117
+ties: 14581
+266/100000
+
+wins: 55401
+losses: 18769
+ties: 15830
+267/100000
+
+wins: 55621
+losses: 20704
+ties: 13675
+268/100000
+
+wins: 55489
+losses: 23875
+ties: 10636
+269/100000
+
+wins: 54042
+losses: 22452
+ties: 13506
+270/100000
+
+wins: 57508
+losses: 21975
+ties: 10517
+271/100000
+
+wins: 55151
+losses: 25368
+ties: 9481
+272/100000
+
+wins: 53226
+losses: 24557
+ties: 12217
+273/100000
+
+wins: 56174
+losses: 24284
+ties: 9542
+274/100000
+
+wins: 58011
+losses: 21772
+ties: 10217
+275/100000
+
+wins: 57669
+losses: 22534
+ties: 9797
+276/100000
+
+wins: 55142
+losses: 24809
+ties: 10049
+277/100000
+
+wins: 56780
+losses: 22383
+ties: 10837
+278/100000
+
+wins: 56065
+losses: 21477
+ties: 12458
+279/100000
+
+wins: 56163
+losses: 23055
+ties: 10782
+280/100000
+
+wins: 54432
+losses: 23957
+ties: 11611
+281/100000
+
+wins: 52936
+losses: 25292
+ties: 11772
+282/100000
+
+wins: 53631
+losses: 25055
+ties: 11314
+283/100000
+
+wins: 52000
+losses: 22739
+ties: 15261
+284/100000
+
+wins: 53332
+losses: 23277
+ties: 13391
+285/100000
+
+wins: 49742
+losses: 25482
+ties: 14776
+286/100000
+
+wins: 50908
+losses: 25253
+ties: 13839
+287/100000
+
+wins: 51206
+losses: 24311
+ties: 14483
+288/100000
+
+wins: 49464
+losses: 27741
+ties: 12795
+289/100000
+
+wins: 49878
+losses: 26663
+ties: 13459
+290/100000
+
+wins: 51341
+losses: 26971
+ties: 11688
+291/100000
+
+wins: 52350
+losses: 28366
+ties: 9284
+292/100000
+
+wins: 49844
+losses: 29543
+ties: 10613
+293/100000
+
+wins: 51810
+losses: 28205
+ties: 9985
+294/100000
+
+wins: 54664
+losses: 25038
+ties: 10298
+295/100000
+
+wins: 51846
+losses: 26819
+ties: 11335
+296/100000
+
+wins: 52873
+losses: 25679
+ties: 11448
+297/100000
+
+wins: 53705
+losses: 25630
+ties: 10665
+298/100000
+
+wins: 52396
+losses: 24779
+ties: 12825
+299/100000
+
+wins: 53257
+losses: 25491
+ties: 11252
+300/100000
+
+wins: 52524
+losses: 26762
+ties: 10714
+301/100000
+
+wins: 52523
+losses: 25156
+ties: 12321
+302/100000
+
+wins: 54227
+losses: 23342
+ties: 12431
+303/100000
+
+wins: 54143
+losses: 24762
+ties: 11095
+304/100000
+
+wins: 53883
+losses: 25936
+ties: 10181
+305/100000
+
+wins: 50560
+losses: 30740
+ties: 8700
+306/100000
+
+wins: 53023
+losses: 26693
+ties: 10284
+307/100000
+
+wins: 51976
+losses: 28756
+ties: 9268
+308/100000
+
+wins: 52071
+losses: 27820
+ties: 10109
+309/100000
+
+wins: 52602
+losses: 26387
+ties: 11011
+310/100000
+
+wins: 53333
+losses: 26315
+ties: 10352
+311/100000
+
+wins: 51023
+losses: 28841
+ties: 10136
+312/100000
+
+wins: 52831
+losses: 28707
+ties: 8462
+313/100000
+
+wins: 50892
+losses: 31243
+ties: 7865
+314/100000
+
+wins: 52903
+losses: 29191
+ties: 7906
+315/100000
+
+wins: 53837
+losses: 28937
+ties: 7226
+316/100000
+
+wins: 54116
+losses: 27582
+ties: 8302
+317/100000
+
+wins: 52704
+losses: 31073
+ties: 6223
+318/100000
+
+wins: 51955
+losses: 30865
+ties: 7180
+319/100000
+
+wins: 52338
+losses: 30977
+ties: 6685
+320/100000
+
+wins: 52457
+losses: 29324
+ties: 8219
+321/100000
+
+wins: 51856
+losses: 30010
+ties: 8134
+322/100000
+
+wins: 50266
+losses: 30925
+ties: 8809
+323/100000
+
+wins: 47568
+losses: 31616
+ties: 10816
+324/100000
+
+wins: 48822
+losses: 30633
+ties: 10545
+325/100000
+
+wins: 52388
+losses: 26756
+ties: 10856
+326/100000
+
+wins: 51649
+losses: 27769
+ties: 10582
+327/100000
+
+wins: 54025
+losses: 26966
+ties: 9009
+328/100000
+
+wins: 52273
+losses: 28459
+ties: 9268
+329/100000
+
+wins: 53552
+losses: 28646
+ties: 7802
+330/100000
+
+wins: 52856
+losses: 26582
+ties: 10562
+331/100000
+
+wins: 52242
+losses: 28062
+ties: 9696
+332/100000
+
+wins: 51211
+losses: 27524
+ties: 11265
+333/100000
+
+wins: 54407
+losses: 24828
+ties: 10765
+334/100000
+
+wins: 54727
+losses: 25374
+ties: 9899
+335/100000
+
+wins: 48036
+losses: 28852
+ties: 13112
+336/100000
+
+wins: 50202
+losses: 28745
+ties: 11053
+337/100000
+
+wins: 48785
+losses: 27466
+ties: 13749
+338/100000
+
+wins: 49208
+losses: 28824
+ties: 11968
+339/100000
+
+wins: 49388
+losses: 28377
+ties: 12235
+340/100000
+
+wins: 48458
+losses: 30746
+ties: 10796
+341/100000
+
+wins: 49917
+losses: 29969
+ties: 10114
+342/100000
+
+wins: 50739
+losses: 30830
+ties: 8431
+343/100000
+
+wins: 53273
+losses: 25211
+ties: 11516
+344/100000
+
+wins: 50935
+losses: 27994
+ties: 11071
+345/100000
+
+wins: 51711
+losses: 26002
+ties: 12287
+346/100000
+
+wins: 52056
+losses: 25127
+ties: 12817
+347/100000
+
+wins: 53710
+losses: 27262
+ties: 9028
+348/100000
+
+wins: 54088
+losses: 25294
+ties: 10618
+349/100000
+
+wins: 54661
+losses: 25752
+ties: 9587
+350/100000
+
+wins: 52770
+losses: 27406
+ties: 9824
+351/100000
+
+wins: 52695
+losses: 28055
+ties: 9250
+352/100000
+
+wins: 51787
+losses: 27567
+ties: 10646
+353/100000
+
+wins: 50629
+losses: 29633
+ties: 9738
+354/100000
+
+wins: 50366
+losses: 30891
+ties: 8743
+355/100000
+
+wins: 49184
+losses: 30676
+ties: 10140
+356/100000
+
+wins: 51282
+losses: 28637
+ties: 10081
+357/100000
+
+wins: 51172
+losses: 27905
+ties: 10923
+358/100000
+
+wins: 51657
+losses: 30950
+ties: 7393
+359/100000
+
+wins: 52029
+losses: 31112
+ties: 6859
+360/100000
+
+wins: 55494
+losses: 25461
+ties: 9045
+361/100000
+
+wins: 53088
+losses: 28236
+ties: 8676
+362/100000
+
+wins: 52965
+losses: 28288
+ties: 8747
+363/100000
+
+wins: 50123
+losses: 30404
+ties: 9473
+364/100000
+
+wins: 52838
+losses: 28343
+ties: 8819
+365/100000
+
+wins: 54077
+losses: 27335
+ties: 8588
+366/100000
+
+wins: 54071
+losses: 25651
+ties: 10278
+367/100000
+
+wins: 54130
+losses: 25891
+ties: 9979
+368/100000
+
+wins: 53403
+losses: 26833
+ties: 9764
+369/100000
+
+wins: 53036
+losses: 29511
+ties: 7453
+370/100000
+
+wins: 53577
+losses: 28349
+ties: 8074
+371/100000
+
+wins: 52091
+losses: 30600
+ties: 7309
+372/100000
+
+wins: 51490
+losses: 31016
+ties: 7494
+373/100000
+
+wins: 53669
+losses: 27040
+ties: 9291
+374/100000
+
+wins: 52908
+losses: 28319
+ties: 8773
+375/100000
+
+wins: 52361
+losses: 31499
+ties: 6140
+376/100000
+
+wins: 54838
+losses: 27040
+ties: 8122
+377/100000
+
+wins: 52816
+losses: 29559
+ties: 7625
+378/100000
+
+wins: 55118
+losses: 29285
+ties: 5597
+379/100000
+
+wins: 54493
+losses: 30091
+ties: 5416
+380/100000
+
+wins: 56344
+losses: 27547
+ties: 6109
+381/100000
+
+wins: 55578
+losses: 26467
+ties: 7955
+382/100000
+
+wins: 54015
+losses: 28416
+ties: 7569
+383/100000
+
+wins: 56506
+losses: 27723
+ties: 5771
+384/100000
+
+wins: 58233
+losses: 25449
+ties: 6318
+385/100000
+
+wins: 59978
+losses: 23823
+ties: 6199
+386/100000
+
+wins: 58853
+losses: 23987
+ties: 7160
+387/100000
+
+wins: 57477
+losses: 24599
+ties: 7924
+388/100000
+
+wins: 57662
+losses: 25023
+ties: 7315
+389/100000
+
+wins: 56215
+losses: 26672
+ties: 7113
+390/100000
+
+wins: 56854
+losses: 28482
+ties: 4664
+391/100000
+
+wins: 56915
+losses: 27019
+ties: 6066
+392/100000
+
+wins: 56261
+losses: 28157
+ties: 5582
+393/100000
+
+wins: 57222
+losses: 26507
+ties: 6271
+394/100000
+
+wins: 55210
+losses: 27754
+ties: 7036
+395/100000
+
+wins: 53586
+losses: 29561
+ties: 6853
+396/100000
+
+wins: 52922
+losses: 28894
+ties: 8184
+397/100000
+
+wins: 54533
+losses: 29442
+ties: 6025
+398/100000
+
+wins: 55888
+losses: 27750
+ties: 6362
+399/100000
+
+wins: 54400
+losses: 28162
+ties: 7438
+400/100000
+
+wins: 52294
+losses: 31548
+ties: 6158
+401/100000
+
+wins: 54589
+losses: 28117
+ties: 7294
+402/100000
+
+wins: 52233
+losses: 32561
+ties: 5206
+403/100000
+
+wins: 55536
+losses: 28590
+ties: 5874
+404/100000
+
+wins: 52545
+losses: 29791
+ties: 7664
+405/100000
+
+wins: 52824
+losses: 30668
+ties: 6508
+406/100000
+
+wins: 52429
+losses: 31555
+ties: 6016
+407/100000
+
+wins: 53543
+losses: 29113
+ties: 7344
+408/100000
+
+wins: 54375
+losses: 28752
+ties: 6873
+409/100000
+
+wins: 53868
+losses: 28725
+ties: 7407
+410/100000
+
+wins: 56448
+losses: 25621
+ties: 7931
+411/100000
+
+wins: 53564
+losses: 28496
+ties: 7940
+412/100000
+
+wins: 57477
+losses: 26419
+ties: 6104
+413/100000
+
+wins: 57963
+losses: 25444
+ties: 6593
+414/100000
+
+wins: 54952
+losses: 27522
+ties: 7526
+415/100000
+
+wins: 55177
+losses: 25145
+ties: 9678
+416/100000
+
+wins: 54066
+losses: 26903
+ties: 9031
+417/100000
+
+wins: 54466
+losses: 25390
+ties: 10144
+418/100000
+
+wins: 55244
+losses: 25076
+ties: 9680
+419/100000
+
+wins: 54663
+losses: 25388
+ties: 9949
+420/100000
+
+wins: 55030
+losses: 26257
+ties: 8713
+421/100000
+
+wins: 56227
+losses: 25105
+ties: 8668
+422/100000
+
+wins: 53901
+losses: 27166
+ties: 8933
+423/100000
+
+wins: 54899
+losses: 28381
+ties: 6720
+424/100000
+
+wins: 53825
+losses: 26868
+ties: 9307
+425/100000
+
+wins: 53328
+losses: 26145
+ties: 10527
+426/100000
+
+wins: 55774
+losses: 25028
+ties: 9198
+427/100000
+
+wins: 54954
+losses: 25972
+ties: 9074
+428/100000
+
+wins: 57574
+losses: 23308
+ties: 9118
+429/100000
+
+wins: 55867
+losses: 23431
+ties: 10702
+430/100000
+
+wins: 55161
+losses: 23662
+ties: 11177
+431/100000
+
+wins: 54837
+losses: 24587
+ties: 10576
+432/100000
+
+wins: 53996
+losses: 25640
+ties: 10364
+433/100000
+
+wins: 53293
+losses: 26468
+ties: 10239
+434/100000
+
+wins: 54159
+losses: 25873
+ties: 9968
+435/100000
+
+wins: 54632
+losses: 25438
+ties: 9930
+436/100000
+
+wins: 53171
+losses: 24598
+ties: 12231
+437/100000
+
+wins: 54038
+losses: 25794
+ties: 10168
+438/100000
+
+wins: 56375
+losses: 24862
+ties: 8763
+439/100000
+
+wins: 54467
+losses: 25550
+ties: 9983
+440/100000
+
+wins: 54469
+losses: 27130
+ties: 8401
+441/100000
+
+wins: 53858
+losses: 26994
+ties: 9148
+442/100000
+
+wins: 54026
+losses: 25669
+ties: 10305
+443/100000
+
+wins: 54136
+losses: 26346
+ties: 9518
+444/100000
+
+wins: 53693
+losses: 27607
+ties: 8700
+445/100000
+
+wins: 52307
+losses: 26682
+ties: 11011
+446/100000
+
+wins: 49718
+losses: 30719
+ties: 9563
+447/100000
+
+wins: 52237
+losses: 29712
+ties: 8051
+448/100000
+
+wins: 52237
+losses: 29456
+ties: 8307
+449/100000
+
+wins: 49800
+losses: 31044
+ties: 9156
+450/100000
+
+wins: 50841
+losses: 29643
+ties: 9516
+451/100000
+
+wins: 51176
+losses: 28083
+ties: 10741
+452/100000
+
+wins: 54381
+losses: 26223
+ties: 9396
+453/100000
+
+wins: 51451
+losses: 28502
+ties: 10047
+454/100000
+
+wins: 52021
+losses: 28567
+ties: 9412
+455/100000
+
+wins: 51589
+losses: 28406
+ties: 10005
+456/100000
+
+wins: 51576
+losses: 28635
+ties: 9789
+457/100000
+
+wins: 51959
+losses: 28661
+ties: 9380
+458/100000
+
+wins: 51456
+losses: 30009
+ties: 8535
+459/100000
+
+wins: 51532
+losses: 28639
+ties: 9829
+460/100000
+
+wins: 53537
+losses: 26940
+ties: 9523
+461/100000
+
+wins: 52710
+losses: 27240
+ties: 10050
+462/100000
+
+wins: 49992
+losses: 29632
+ties: 10376
+463/100000
+
+wins: 52322
+losses: 28287
+ties: 9391
+464/100000
+
+wins: 50347
+losses: 29051
+ties: 10602
+465/100000
+
+wins: 50584
+losses: 29365
+ties: 10051
+466/100000
+
+wins: 49904
+losses: 28341
+ties: 11755
+467/100000
+
+wins: 50868
+losses: 27437
+ties: 11695
+468/100000
+
+wins: 48820
+losses: 29981
+ties: 11199
+469/100000
+
+wins: 51234
+losses: 27664
+ties: 11102
+470/100000
+
+wins: 53163
+losses: 26770
+ties: 10067
+471/100000
+
+wins: 49132
+losses: 29685
+ties: 11183
+472/100000
+
+wins: 51631
+losses: 27582
+ties: 10787
+473/100000
+
+wins: 50413
+losses: 28762
+ties: 10825
+474/100000
+
+wins: 51618
+losses: 29514
+ties: 8868
+475/100000
+
+wins: 52682
+losses: 29314
+ties: 8004
+476/100000
+
+wins: 50331
+losses: 30309
+ties: 9360
+477/100000
+
+wins: 50978
+losses: 29160
+ties: 9862
+478/100000
+
+wins: 51602
+losses: 29216
+ties: 9182
+479/100000
+
+wins: 54606
+losses: 27769
+ties: 7625
+480/100000
+
+wins: 50072
+losses: 31346
+ties: 8582
+481/100000
+
+wins: 49294
+losses: 33041
+ties: 7665
+482/100000
+
+wins: 49795
+losses: 33432
+ties: 6773
+483/100000
+
+wins: 51666
+losses: 31198
+ties: 7136
+484/100000
+
+wins: 50776
+losses: 30966
+ties: 8258
+485/100000
+
+wins: 50683
+losses: 32984
+ties: 6333
+486/100000
+
+wins: 52328
+losses: 29262
+ties: 8410
+487/100000
+
+wins: 52505
+losses: 28077
+ties: 9418
+488/100000
+
+wins: 49443
+losses: 29950
+ties: 10607
+489/100000
+
+wins: 50881
+losses: 30562
+ties: 8557
+490/100000
+
+wins: 51767
+losses: 29512
+ties: 8721
+491/100000
+
+wins: 49758
+losses: 30348
+ties: 9894
+492/100000
+
+wins: 51425
+losses: 28497
+ties: 10078
+493/100000
+
+wins: 52480
+losses: 28966
+ties: 8554
+494/100000
+
+wins: 51180
+losses: 29517
+ties: 9303
+495/100000
+
+wins: 51354
+losses: 29974
+ties: 8672
+496/100000
+
+wins: 48747
+losses: 32323
+ties: 8930
+497/100000
+
+wins: 48488
+losses: 31580
+ties: 9932
+498/100000
+
+wins: 49903
+losses: 32135
+ties: 7962
+499/100000
+
+wins: 52554
+losses: 30737
+ties: 6709
+500/100000
+
+wins: 49952
+losses: 31895
+ties: 8153
+501/100000
+
+wins: 51293
+losses: 31834
+ties: 6873
+502/100000
+
+wins: 50435
+losses: 30677
+ties: 8888
+503/100000
+
+wins: 49922
+losses: 31824
+ties: 8254
+504/100000
+
+wins: 51185
+losses: 30669
+ties: 8146
+505/100000
+
+wins: 51321
+losses: 28895
+ties: 9784
+506/100000
+
+wins: 49944
+losses: 29955
+ties: 10101
+507/100000
+
+wins: 52278
+losses: 28080
+ties: 9642
+508/100000
+
+wins: 52741
+losses: 29974
+ties: 7285
+509/100000
+
+wins: 52075
+losses: 29710
+ties: 8215
+510/100000
+
+wins: 50534
+losses: 31106
+ties: 8360
+511/100000
+
+wins: 47461
+losses: 34110
+ties: 8429
+512/100000
+
+wins: 47340
+losses: 33683
+ties: 8977
+513/100000
+
+wins: 46514
+losses: 35856
+ties: 7630
+514/100000
+
+wins: 49011
+losses: 34059
+ties: 6930
+515/100000
+
+wins: 49587
+losses: 32792
+ties: 7621
+516/100000
+
+wins: 49079
+losses: 32953
+ties: 7968
+517/100000
+
+wins: 50179
+losses: 30930
+ties: 8891
+518/100000
+
+wins: 51061
+losses: 33162
+ties: 5777
+519/100000
+
+wins: 50159
+losses: 33524
+ties: 6317
+520/100000
+
+wins: 50823
+losses: 33615
+ties: 5562
+521/100000
+
+wins: 54152
+losses: 29455
+ties: 6393
+522/100000
+
+wins: 54699
+losses: 28592
+ties: 6709
+523/100000
+
+wins: 52073
+losses: 31491
+ties: 6436
+524/100000
+
+wins: 50529
+losses: 33024
+ties: 6447
+525/100000
+
+wins: 51017
+losses: 31410
+ties: 7573
+526/100000
+
+wins: 50729
+losses: 31722
+ties: 7549
+527/100000
+
+wins: 52212
+losses: 30296
+ties: 7492
+528/100000
+
+wins: 53431
+losses: 29507
+ties: 7062
+529/100000
+
+wins: 53428
+losses: 29319
+ties: 7253
+530/100000
+
+wins: 51677
+losses: 32590
+ties: 5733
+531/100000
+
+wins: 54572
+losses: 30232
+ties: 5196
+532/100000
+
+wins: 54087
+losses: 29768
+ties: 6145
+533/100000
+
+wins: 53597
+losses: 29566
+ties: 6837
+534/100000
+
+wins: 52446
+losses: 30558
+ties: 6996
+535/100000
+
+wins: 50162
+losses: 31112
+ties: 8726
+536/100000
+
+wins: 51948
+losses: 30151
+ties: 7901
+537/100000
+
+wins: 51316
+losses: 31239
+ties: 7445
+538/100000
+
+wins: 50489
+losses: 32185
+ties: 7326
+539/100000
+
+wins: 51232
+losses: 31402
+ties: 7366
+540/100000
+
+wins: 52950
+losses: 30263
+ties: 6787
+541/100000
+
+wins: 51815
+losses: 28627
+ties: 9558
+542/100000
+
+wins: 49268
+losses: 30635
+ties: 10097
+543/100000
+
+wins: 51425
+losses: 29224
+ties: 9351
+544/100000
+
+wins: 50018
+losses: 29917
+ties: 10065
+545/100000
+
+wins: 50722
+losses: 28736
+ties: 10542
+546/100000
+
+wins: 51158
+losses: 29980
+ties: 8862
+547/100000
+
+wins: 50144
+losses: 29414
+ties: 10442
+548/100000
+
+wins: 51112
+losses: 28609
+ties: 10279
+549/100000
+
+wins: 49190
+losses: 28277
+ties: 12533
+550/100000
+
+wins: 51365
+losses: 27874
+ties: 10761
+551/100000
+
+wins: 50317
+losses: 28824
+ties: 10859
+552/100000
+
+wins: 52364
+losses: 26226
+ties: 11410
+553/100000
+
+wins: 52438
+losses: 28039
+ties: 9523
+554/100000
+
+wins: 51966
+losses: 26764
+ties: 11270
+555/100000
+
+wins: 54153
+losses: 26256
+ties: 9591
+556/100000
+
+wins: 53296
+losses: 27759
+ties: 8945
+557/100000
+
+wins: 52569
+losses: 27754
+ties: 9677
+558/100000
+
+wins: 54682
+losses: 26565
+ties: 8753
+559/100000
+
+wins: 51671
+losses: 27753
+ties: 10576
+560/100000
+
+wins: 56235
+losses: 26081
+ties: 7684
+561/100000
+
+wins: 56170
+losses: 26039
+ties: 7791
+562/100000
+
+wins: 55762
+losses: 25599
+ties: 8639
+563/100000
+
+wins: 54740
+losses: 26370
+ties: 8890
+564/100000
+
+wins: 55076
+losses: 26000
+ties: 8924
+565/100000
+
+wins: 54985
+losses: 26154
+ties: 8861
+566/100000
+
+wins: 55884
+losses: 24002
+ties: 10114
+567/100000
+
+wins: 53232
+losses: 25458
+ties: 11310
+568/100000
+
+wins: 54681
+losses: 25919
+ties: 9400
+569/100000
+
+wins: 52722
+losses: 26722
+ties: 10556
+570/100000
+
+wins: 54392
+losses: 27476
+ties: 8132
+571/100000
+
+wins: 54668
+losses: 27207
+ties: 8125
+572/100000
+
+wins: 52674
+losses: 28197
+ties: 9129
+573/100000
+
+wins: 52045
+losses: 27725
+ties: 10230
+574/100000
+
+wins: 53180
+losses: 28249
+ties: 8571
+575/100000
+
+wins: 53559
+losses: 26159
+ties: 10282
+576/100000
+
+wins: 51652
+losses: 29329
+ties: 9019
+577/100000
+
+wins: 52057
+losses: 29267
+ties: 8676
+578/100000
+
+wins: 50652
+losses: 30078
+ties: 9270
+579/100000
+
+wins: 52123
+losses: 27594
+ties: 10283
+580/100000
+
+wins: 53998
+losses: 28435
+ties: 7567
+581/100000
+
+wins: 51898
+losses: 27581
+ties: 10521
+582/100000
+
+wins: 53228
+losses: 28092
+ties: 8680
+583/100000
+
+wins: 53898
+losses: 27602
+ties: 8500
+584/100000
+
+wins: 56561
+losses: 23970
+ties: 9469
+585/100000
+
+wins: 56191
+losses: 24837
+ties: 8972
+586/100000
+
+wins: 55535
+losses: 25613
+ties: 8852
+587/100000
+
+wins: 53274
+losses: 28522
+ties: 8204
+588/100000
+
+wins: 51579
+losses: 29867
+ties: 8554
+589/100000
+
+wins: 52623
+losses: 28715
+ties: 8662
+590/100000
+
+wins: 52802
+losses: 30242
+ties: 6956
+591/100000
+
+wins: 51502
+losses: 30167
+ties: 8331
+592/100000
+
+wins: 50859
+losses: 31156
+ties: 7985
+593/100000
+
+wins: 52406
+losses: 30064
+ties: 7530
+594/100000
+
+wins: 51895
+losses: 30970
+ties: 7135
+595/100000
+
+wins: 51784
+losses: 30338
+ties: 7878
+596/100000
+
+wins: 48378
+losses: 33688
+ties: 7934
+597/100000
+
+wins: 48264
+losses: 32672
+ties: 9064
+598/100000
+
+wins: 51801
+losses: 31773
+ties: 6426
+599/100000
+
+wins: 49054
+losses: 33720
+ties: 7226
+600/100000
+
+wins: 46921
+losses: 34073
+ties: 9006
+601/100000
+
+wins: 50907
+losses: 31368
+ties: 7725
+602/100000
+
+wins: 50432
+losses: 31815
+ties: 7753
+603/100000
+
+wins: 48939
+losses: 32263
+ties: 8798
+604/100000
+
+wins: 50242
+losses: 29894
+ties: 9864
+605/100000
+
+wins: 51023
+losses: 28423
+ties: 10554
+606/100000
+
+wins: 51638
+losses: 29964
+ties: 8398
+607/100000
+
+wins: 48551
+losses: 32427
+ties: 9022
+608/100000
+
+wins: 49386
+losses: 31250
+ties: 9364
+609/100000
+
+wins: 52386
+losses: 30578
+ties: 7036
+610/100000
+
+wins: 50818
+losses: 31981
+ties: 7201
+611/100000
+
+wins: 49620
+losses: 31594
+ties: 8786
+612/100000
+
+wins: 50559
+losses: 31016
+ties: 8425
+613/100000
+
+wins: 53055
+losses: 27590
+ties: 9355
+614/100000
+
+wins: 50959
+losses: 31085
+ties: 7956
+615/100000
+
+wins: 49503
+losses: 32569
+ties: 7928
+616/100000
+
+wins: 49481
+losses: 32197
+ties: 8322
+617/100000
+
+wins: 49611
+losses: 31743
+ties: 8646
+618/100000
+
+wins: 48844
+losses: 30651
+ties: 10505
+619/100000
+
+wins: 51189
+losses: 29269
+ties: 9542
+620/100000
+
+wins: 51008
+losses: 29852
+ties: 9140
+621/100000
+
+wins: 51969
+losses: 30079
+ties: 7952
+622/100000
+
+wins: 51731
+losses: 30513
+ties: 7756
+623/100000
+
+wins: 50048
+losses: 29547
+ties: 10405
+624/100000
+
+wins: 51029
+losses: 30299
+ties: 8672
+625/100000
+
+wins: 52874
+losses: 30184
+ties: 6942
+626/100000
+
+wins: 52309
+losses: 29163
+ties: 8528
+627/100000
+
+wins: 52645
+losses: 29759
+ties: 7596
+628/100000
+
+wins: 51199
+losses: 32427
+ties: 6374
+629/100000
+
+wins: 51001
+losses: 33452
+ties: 5547
+630/100000
+
+wins: 52595
+losses: 31836
+ties: 5569
+631/100000
+
+wins: 51607
+losses: 30554
+ties: 7839
+632/100000
+
+wins: 49632
+losses: 34102
+ties: 6266
+633/100000
+
+wins: 51674
+losses: 32293
+ties: 6033
+634/100000
+
+wins: 53701
+losses: 29790
+ties: 6509
+635/100000
+
+wins: 51307
+losses: 32694
+ties: 5999
+636/100000
+
+wins: 51128
+losses: 33489
+ties: 5383
+637/100000
+
+wins: 51632
+losses: 33240
+ties: 5128
+638/100000
+
+wins: 50050
+losses: 33127
+ties: 6823
+639/100000
+
+wins: 49998
+losses: 34990
+ties: 5012
+640/100000
+
+wins: 51924
+losses: 32557
+ties: 5519
+641/100000
+
+wins: 49590
+losses: 34581
+ties: 5829
+642/100000
+
+wins: 50460
+losses: 33103
+ties: 6437
+643/100000
+
+wins: 51579
+losses: 32662
+ties: 5759
+644/100000
+
+wins: 50047
+losses: 33872
+ties: 6081
+645/100000
+
+wins: 51972
+losses: 33153
+ties: 4875
+646/100000
+
+wins: 50622
+losses: 32554
+ties: 6824
+647/100000
+
+wins: 54316
+losses: 31830
+ties: 3854
+648/100000
+
+wins: 52592
+losses: 33183
+ties: 4225
+649/100000
+
+wins: 51511
+losses: 32996
+ties: 5493
+650/100000
+
+wins: 52466
+losses: 31911
+ties: 5623
+651/100000
+
+wins: 50950
+losses: 33865
+ties: 5185
+652/100000
+
+wins: 51754
+losses: 31738
+ties: 6508
+653/100000
+
+wins: 53664
+losses: 30365
+ties: 5971
+654/100000
+
+wins: 54003
+losses: 31145
+ties: 4852
+655/100000
+
+wins: 53891
+losses: 30809
+ties: 5300
+656/100000
+
+wins: 52624
+losses: 31978
+ties: 5398
+657/100000
+
+wins: 53635
+losses: 30152
+ties: 6213
+658/100000
+
+wins: 53097
+losses: 31310
+ties: 5593
+659/100000
+
+wins: 53009
+losses: 31872
+ties: 5119
+660/100000
+
+wins: 55824
+losses: 29059
+ties: 5117
+661/100000
+
+wins: 56632
+losses: 28486
+ties: 4882
+662/100000
+
+wins: 57452
+losses: 27430
+ties: 5118
+663/100000
+
+wins: 56859
+losses: 28356
+ties: 4785
+664/100000
+
+wins: 56953
+losses: 27293
+ties: 5754
+665/100000
+
+wins: 57163
+losses: 27142
+ties: 5695
+666/100000
+
+wins: 58389
+losses: 26782
+ties: 4829
+667/100000
+
+wins: 55588
+losses: 26130
+ties: 8282
+668/100000
+
+wins: 53377
+losses: 29778
+ties: 6845
+669/100000
+
+wins: 53091
+losses: 31369
+ties: 5540
+670/100000
+
+wins: 55549
+losses: 27822
+ties: 6629
+671/100000
+
+wins: 54865
+losses: 27961
+ties: 7174
+672/100000
+
+wins: 57180
+losses: 27105
+ties: 5715
+673/100000
+
+wins: 55887
+losses: 28694
+ties: 5419
+674/100000
+
+wins: 52881
+losses: 28916
+ties: 8203
+675/100000
+
+wins: 55487
+losses: 27986
+ties: 6527
+676/100000
+
+wins: 56881
+losses: 27178
+ties: 5941
+677/100000
+
+wins: 55277
+losses: 29217
+ties: 5506
+678/100000
+
+wins: 56954
+losses: 28470
+ties: 4576
+679/100000
+
+wins: 54319
+losses: 27851
+ties: 7830
+680/100000
+
+wins: 55366
+losses: 26854
+ties: 7780
+681/100000
+
+wins: 56656
+losses: 24787
+ties: 8557
+682/100000
+
+wins: 54935
+losses: 27635
+ties: 7430
+683/100000
+
+wins: 56535
+losses: 26764
+ties: 6701
+684/100000
+
+wins: 55337
+losses: 26398
+ties: 8265
+685/100000
+
+wins: 54897
+losses: 25346
+ties: 9757
+686/100000
+
+wins: 55412
+losses: 26014
+ties: 8574
+687/100000
+
+wins: 56244
+losses: 24979
+ties: 8777
+688/100000
+
+wins: 55327
+losses: 25920
+ties: 8753
+689/100000
+
+wins: 54844
+losses: 27389
+ties: 7767
+690/100000
+
+wins: 55703
+losses: 25808
+ties: 8489
+691/100000
+
+wins: 54659
+losses: 26952
+ties: 8389
+692/100000
+
+wins: 56566
+losses: 24387
+ties: 9047
+693/100000
+
+wins: 56534
+losses: 25279
+ties: 8187
+694/100000
+
+wins: 54425
+losses: 25820
+ties: 9755
+695/100000
+
+wins: 57100
+losses: 24058
+ties: 8842
+696/100000
+
+wins: 58752
+losses: 21449
+ties: 9799
+697/100000
+
+wins: 59366
+losses: 21631
+ties: 9003
+698/100000
+
+wins: 56846
+losses: 22939
+ties: 10215
+699/100000
+
+wins: 56432
+losses: 25051
+ties: 8517
+700/100000
+
+wins: 55818
+losses: 24111
+ties: 10071
+701/100000
+
+wins: 53181
+losses: 26866
+ties: 9953
+702/100000
+
+wins: 56939
+losses: 25893
+ties: 7168
+703/100000
+
+wins: 52487
+losses: 27760
+ties: 9753
+704/100000
+
+wins: 53721
+losses: 26047
+ties: 10232
+705/100000
+
+wins: 54015
+losses: 27376
+ties: 8609
+706/100000
+
+wins: 55016
+losses: 26082
+ties: 8902
+707/100000
+
+wins: 57142
+losses: 24824
+ties: 8034
+708/100000
+
+wins: 55598
+losses: 25646
+ties: 8756
+709/100000
+
+wins: 56416
+losses: 25842
+ties: 7742
+710/100000
+
+wins: 56013
+losses: 25442
+ties: 8545
+711/100000
+
+wins: 58185
+losses: 24705
+ties: 7110
+712/100000
+
+wins: 56843
+losses: 24972
+ties: 8185
+713/100000
+
+wins: 56653
+losses: 24285
+ties: 9062
+714/100000
+
+wins: 57607
+losses: 21972
+ties: 10421
+715/100000
+
+wins: 57263
+losses: 22509
+ties: 10228
+716/100000
+
+wins: 54872
+losses: 24767
+ties: 10361
+717/100000
+
+wins: 57377
+losses: 21224
+ties: 11399
+718/100000
+
+wins: 57225
+losses: 24327
+ties: 8448
+719/100000
+
+wins: 57228
+losses: 23243
+ties: 9529
+720/100000
+
+wins: 56817
+losses: 24198
+ties: 8985
+721/100000
+
+wins: 56449
+losses: 23558
+ties: 9993
+722/100000
+
+wins: 55725
+losses: 24588
+ties: 9687
+723/100000
+
+wins: 56999
+losses: 23568
+ties: 9433
+724/100000
+
+wins: 55828
+losses: 23176
+ties: 10996
+725/100000
+
+wins: 55985
+losses: 22974
+ties: 11041
+726/100000
+
+wins: 55416
+losses: 23285
+ties: 11299
+727/100000
+
+wins: 54794
+losses: 23210
+ties: 11996
+728/100000
+
+wins: 54286
+losses: 24612
+ties: 11102
+729/100000
+
+wins: 56033
+losses: 22084
+ties: 11883
+730/100000
+
+wins: 54649
+losses: 24235
+ties: 11116
+731/100000
+
+wins: 56010
+losses: 22476
+ties: 11514
+732/100000
+
+wins: 54442
+losses: 23603
+ties: 11955
+733/100000
+
+wins: 55496
+losses: 24017
+ties: 10487
+734/100000
+
+wins: 54925
+losses: 26263
+ties: 8812
+735/100000
+
+wins: 56403
+losses: 23889
+ties: 9708
+736/100000
+
+wins: 56446
+losses: 23333
+ties: 10221
+737/100000
+
+wins: 55174
+losses: 25341
+ties: 9485
+738/100000
+
+wins: 55192
+losses: 24844
+ties: 9964
+739/100000
+
+wins: 56361
+losses: 24223
+ties: 9416
+740/100000
+
+wins: 56316
+losses: 26630
+ties: 7054
+741/100000
+
+wins: 54053
+losses: 26726
+ties: 9221
+742/100000
+
+wins: 55934
+losses: 24926
+ties: 9140
+743/100000
+
+wins: 56411
+losses: 24869
+ties: 8720
+744/100000
+
+wins: 56059
+losses: 26122
+ties: 7819
+745/100000
+
+wins: 54300
+losses: 27599
+ties: 8101
+746/100000
+
+wins: 53450
+losses: 28073
+ties: 8477
+747/100000
+
+wins: 52767
+losses: 29634
+ties: 7599
+748/100000
+
+wins: 52646
+losses: 28750
+ties: 8604
+749/100000
+
+wins: 53179
+losses: 28110
+ties: 8711
+750/100000
+
+wins: 52457
+losses: 29129
+ties: 8414
+751/100000
+
+wins: 52267
+losses: 28989
+ties: 8744
+752/100000
+
+wins: 55393
+losses: 27435
+ties: 7172
+753/100000
+
+wins: 54452
+losses: 27793
+ties: 7755
+754/100000
+
+wins: 54392
+losses: 29393
+ties: 6215
+755/100000
+
+wins: 56170
+losses: 26485
+ties: 7345
+756/100000
+
+wins: 57053
+losses: 25893
+ties: 7054
+757/100000
+
+wins: 52330
+losses: 27788
+ties: 9882
+758/100000
+
+wins: 54605
+losses: 26793
+ties: 8602
+759/100000
+
+wins: 53498
+losses: 28204
+ties: 8298
+760/100000
+
+wins: 54790
+losses: 25819
+ties: 9391
+761/100000
+
+wins: 54033
+losses: 26762
+ties: 9205
+762/100000
+
+wins: 53471
+losses: 27694
+ties: 8835
+763/100000
+
+wins: 54012
+losses: 28003
+ties: 7985
+764/100000
+
+wins: 53237
+losses: 28023
+ties: 8740
+765/100000
+
+wins: 52755
+losses: 28484
+ties: 8761
+766/100000
+
+wins: 53352
+losses: 28332
+ties: 8316
+767/100000
+
+wins: 54626
+losses: 28176
+ties: 7198
+768/100000
+
+wins: 55056
+losses: 27400
+ties: 7544
+769/100000
+
+wins: 53887
+losses: 29735
+ties: 6378
+770/100000
+
+wins: 54288
+losses: 29315
+ties: 6397
+771/100000
+
+wins: 54230
+losses: 27637
+ties: 8133
+772/100000
+
+wins: 54003
+losses: 27986
+ties: 8011
+773/100000
+
+wins: 54279
+losses: 28341
+ties: 7380
+774/100000
+
+wins: 52347
+losses: 31346
+ties: 6307
+775/100000
+
+wins: 52320
+losses: 30769
+ties: 6911
+776/100000
+
+wins: 53653
+losses: 27211
+ties: 9136
+777/100000
+
+wins: 53300
+losses: 28079
+ties: 8621
+778/100000
+
+wins: 53857
+losses: 28012
+ties: 8131
+779/100000
+
+wins: 56660
+losses: 26460
+ties: 6880
+780/100000
+
+wins: 56888
+losses: 27745
+ties: 5367
+781/100000
+
+wins: 56311
+losses: 27163
+ties: 6526
+782/100000
+
+wins: 55376
+losses: 28513
+ties: 6111
+783/100000
+
+wins: 55302
+losses: 28303
+ties: 6395
+784/100000
+
+wins: 54226
+losses: 26478
+ties: 9296
+785/100000
+
+wins: 55660
+losses: 24746
+ties: 9594
+786/100000
+
+wins: 55803
+losses: 25842
+ties: 8355
+787/100000
+
+wins: 54810
+losses: 27106
+ties: 8084
+788/100000
+
+wins: 55097
+losses: 24693
+ties: 10210
+789/100000
+
+wins: 55512
+losses: 25869
+ties: 8619
+790/100000
+
+wins: 54746
+losses: 26481
+ties: 8773
+791/100000
+
+wins: 55560
+losses: 25695
+ties: 8745
+792/100000
+
+wins: 55736
+losses: 23230
+ties: 11034
+793/100000
+
+wins: 51834
+losses: 27888
+ties: 10278
+794/100000
+
+wins: 55578
+losses: 25240
+ties: 9182
+795/100000
+
+wins: 54721
+losses: 25582
+ties: 9697
+796/100000
+
+wins: 53553
+losses: 25368
+ties: 11079
+797/100000
+
+wins: 55129
+losses: 26535
+ties: 8336
+798/100000
+
+wins: 54579
+losses: 26927
+ties: 8494
+799/100000
+
+wins: 55897
+losses: 24508
+ties: 9595
+800/100000
+
+wins: 52849
+losses: 27128
+ties: 10023
+801/100000
+
+wins: 55509
+losses: 25615
+ties: 8876
+802/100000
+
+wins: 53059
+losses: 28378
+ties: 8563
+803/100000
+
+wins: 55113
+losses: 25884
+ties: 9003
+804/100000
+
+wins: 55603
+losses: 25423
+ties: 8974
+805/100000
+
+wins: 54908
+losses: 25101
+ties: 9991
+806/100000
+
+wins: 52450
+losses: 26486
+ties: 11064
+807/100000
+
+wins: 55262
+losses: 26442
+ties: 8296
+808/100000
+
+wins: 53281
+losses: 27983
+ties: 8736
+809/100000
+
+wins: 52312
+losses: 28829
+ties: 8859
+810/100000
+
+wins: 52412
+losses: 26724
+ties: 10864
+811/100000
+
+wins: 53203
+losses: 26870
+ties: 9927
+812/100000
+
+wins: 51155
+losses: 27480
+ties: 11365
+813/100000
+
+wins: 50721
+losses: 28022
+ties: 11257
+814/100000
+
+wins: 50373
+losses: 27781
+ties: 11846
+815/100000
+
+wins: 50899
+losses: 26497
+ties: 12604
+816/100000
+
+wins: 51584
+losses: 25358
+ties: 13058
+817/100000
+
+wins: 53502
+losses: 25519
+ties: 10979
+818/100000
+
+wins: 49608
+losses: 24723
+ties: 15669
+819/100000
+
+wins: 50861
+losses: 24787
+ties: 14352
+820/100000
+
+wins: 53158
+losses: 24420
+ties: 12422
+821/100000
+
+wins: 53531
+losses: 23978
+ties: 12491
+822/100000
+
+wins: 54592
+losses: 24684
+ties: 10724
+823/100000
+
+wins: 54692
+losses: 22955
+ties: 12353
+824/100000
+
+wins: 52874
+losses: 25200
+ties: 11926
+825/100000
+
+wins: 52816
+losses: 22257
+ties: 14927
+826/100000
+
+wins: 53155
+losses: 25466
+ties: 11379
+827/100000
+
+wins: 51974
+losses: 23931
+ties: 14095
+828/100000
+
+wins: 52450
+losses: 23033
+ties: 14517
+829/100000
+
+wins: 53243
+losses: 22578
+ties: 14179
+830/100000
+
+wins: 52097
+losses: 24550
+ties: 13353
+831/100000
+
+wins: 52527
+losses: 24783
+ties: 12690
+832/100000
+
+wins: 53119
+losses: 25100
+ties: 11781
+833/100000
+
+wins: 52056
+losses: 24951
+ties: 12993
+834/100000
+
+wins: 52135
+losses: 25207
+ties: 12658
+835/100000
+
+wins: 51876
+losses: 24814
+ties: 13310
+836/100000
+
+wins: 52811
+losses: 24244
+ties: 12945
+837/100000
+
+wins: 52113
+losses: 26168
+ties: 11719
+838/100000
+
+wins: 51038
+losses: 25786
+ties: 13176
+839/100000
+
+wins: 51019
+losses: 25444
+ties: 13537
+840/100000
+
+wins: 50831
+losses: 26639
+ties: 12530
+841/100000
+
+wins: 51437
+losses: 23737
+ties: 14826
+842/100000
+
+wins: 50866
+losses: 26596
+ties: 12538
+843/100000
+
+wins: 49776
+losses: 28972
+ties: 11252
+844/100000
+
+wins: 51864
+losses: 28426
+ties: 9710
+845/100000
+
+wins: 52107
+losses: 26655
+ties: 11238
+846/100000
+
+wins: 51631
+losses: 28004
+ties: 10365
+847/100000
+
+wins: 51952
+losses: 27910
+ties: 10138
+848/100000
+
+wins: 54175
+losses: 25407
+ties: 10418
+849/100000
+
+wins: 53049
+losses: 25622
+ties: 11329
+850/100000
+
+wins: 54255
+losses: 25817
+ties: 9928
+851/100000
+
+wins: 56414
+losses: 23395
+ties: 10191
+852/100000
+
+wins: 54764
+losses: 23137
+ties: 12099
+853/100000
+
+wins: 55984
+losses: 24787
+ties: 9229
+854/100000
+
+wins: 55377
+losses: 24365
+ties: 10258
+855/100000
+
+wins: 55602
+losses: 23958
+ties: 10440
+856/100000
+
+wins: 56946
+losses: 22217
+ties: 10837
+857/100000
+
+wins: 54682
+losses: 24767
+ties: 10551
+858/100000
+
+wins: 54827
+losses: 24275
+ties: 10898
+859/100000
+
+wins: 55073
+losses: 23682
+ties: 11245
+860/100000
+
+wins: 55930
+losses: 22826
+ties: 11244
+861/100000
+
+wins: 53461
+losses: 24075
+ties: 12464
+862/100000
+
+wins: 52583
+losses: 24455
+ties: 12962
+863/100000
+
+wins: 54087
+losses: 23973
+ties: 11940
+864/100000
+
+wins: 50913
+losses: 25235
+ties: 13852
+865/100000
+
+wins: 52747
+losses: 25268
+ties: 11985
+866/100000
+
+wins: 55917
+losses: 23661
+ties: 10422
+867/100000
+
+wins: 56329
+losses: 23397
+ties: 10274
+868/100000
+
+wins: 53844
+losses: 24719
+ties: 11437
+869/100000
+
+wins: 53472
+losses: 24674
+ties: 11854
+870/100000
+
+wins: 52052
+losses: 25863
+ties: 12085
+871/100000
+
+wins: 55016
+losses: 24596
+ties: 10388
+872/100000
+
+wins: 55610
+losses: 24089
+ties: 10301
+873/100000
+
+wins: 55477
+losses: 23740
+ties: 10783
+874/100000
+
+wins: 52255
+losses: 23252
+ties: 14493
+875/100000
+
+wins: 51973
+losses: 24060
+ties: 13967
+876/100000
+
+wins: 52995
+losses: 23615
+ties: 13390
+877/100000
+
+wins: 53750
+losses: 22753
+ties: 13497
+878/100000
+
+wins: 51823
+losses: 22880
+ties: 15297
+879/100000
+
+wins: 54560
+losses: 24103
+ties: 11337
+880/100000
+
+wins: 53022
+losses: 23752
+ties: 13226
+881/100000
+
+wins: 54523
+losses: 24087
+ties: 11390
+882/100000
+
+wins: 52996
+losses: 22457
+ties: 14547
+883/100000
+
+wins: 52755
+losses: 21260
+ties: 15985
+884/100000
+
+wins: 53349
+losses: 20015
+ties: 16636
+885/100000
+
+wins: 52327
+losses: 20655
+ties: 17018
+886/100000
+
+wins: 52355
+losses: 23486
+ties: 14159
+887/100000
+
+wins: 54312
+losses: 21254
+ties: 14434
+888/100000
+
+wins: 53282
+losses: 21090
+ties: 15628
+889/100000
+
+wins: 50842
+losses: 22698
+ties: 16460
+890/100000
+
+wins: 53627
+losses: 20922
+ties: 15451
+891/100000
+
+wins: 52274
+losses: 23262
+ties: 14464
+892/100000
+
+wins: 52462
+losses: 23743
+ties: 13795
+893/100000
+
+wins: 52352
+losses: 24511
+ties: 13137
+894/100000
+
+wins: 52918
+losses: 22866
+ties: 14216
+895/100000
+
+wins: 53945
+losses: 21770
+ties: 14285
+896/100000
+
+wins: 52671
+losses: 21340
+ties: 15989
+897/100000
+
+wins: 54062
+losses: 21549
+ties: 14389
+898/100000
+
+wins: 53820
+losses: 21307
+ties: 14873
+899/100000
+
+wins: 53597
+losses: 19856
+ties: 16547
+900/100000
+
+wins: 52497
+losses: 21149
+ties: 16354
+901/100000
+
+wins: 53222
+losses: 20412
+ties: 16366
+902/100000
+
+wins: 53408
+losses: 23114
+ties: 13478
+903/100000
+
+wins: 54777
+losses: 20558
+ties: 14665
+904/100000
+
+wins: 53869
+losses: 22389
+ties: 13742
+905/100000
+
+wins: 52445
+losses: 22826
+ties: 14729
+906/100000
+
+wins: 52755
+losses: 23083
+ties: 14162
+907/100000
+
+wins: 51289
+losses: 19672
+ties: 19039
+908/100000
+
+wins: 50160
+losses: 23334
+ties: 16506
+909/100000
+
+wins: 50519
+losses: 26487
+ties: 12994
+910/100000
+
+wins: 50193
+losses: 24588
+ties: 15219
+911/100000
+
+wins: 49115
+losses: 24063
+ties: 16822
+912/100000
+
+wins: 50287
+losses: 25102
+ties: 14611
+913/100000
+
+wins: 49197
+losses: 23932
+ties: 16871
+914/100000
+
+wins: 51672
+losses: 24718
+ties: 13610
+915/100000
+
+wins: 49383
+losses: 23804
+ties: 16813
+916/100000
+
+wins: 52000
+losses: 23732
+ties: 14268
+917/100000
+
+wins: 50463
+losses: 23569
+ties: 15968
+918/100000
+
+wins: 52396
+losses: 24487
+ties: 13117
+919/100000
+
+wins: 50644
+losses: 26863
+ties: 12493
+920/100000
+
+wins: 50563
+losses: 26750
+ties: 12687
+921/100000
+
+wins: 50341
+losses: 26699
+ties: 12960
+922/100000
+
+wins: 52054
+losses: 25945
+ties: 12001
+923/100000
+
+wins: 53376
+losses: 23159
+ties: 13465
+924/100000
+
+wins: 53963
+losses: 22437
+ties: 13600
+925/100000
+
+wins: 53326
+losses: 23876
+ties: 12798
+926/100000
+
+wins: 51475
+losses: 22477
+ties: 16048
+927/100000
+
+wins: 51532
+losses: 23655
+ties: 14813
+928/100000
+
+wins: 52598
+losses: 23709
+ties: 13693
+929/100000
+
+wins: 51189
+losses: 23992
+ties: 14819
+930/100000
+
+wins: 52936
+losses: 24631
+ties: 12433
+931/100000
+
+wins: 50401
+losses: 25502
+ties: 14097
+932/100000
+
+wins: 55323
+losses: 22954
+ties: 11723
+933/100000
+
+wins: 52778
+losses: 25084
+ties: 12138
+934/100000
+
+wins: 53450
+losses: 24445
+ties: 12105
+935/100000
+
+wins: 52813
+losses: 23344
+ties: 13843
+936/100000
+
+wins: 54657
+losses: 23349
+ties: 11994
+937/100000
+
+wins: 54460
+losses: 23744
+ties: 11796
+938/100000
+
+wins: 56506
+losses: 22841
+ties: 10653
+939/100000
+
+wins: 53949
+losses: 24850
+ties: 11201
+940/100000
+
+wins: 53780
+losses: 22728
+ties: 13492
+941/100000
+
+wins: 55236
+losses: 24080
+ties: 10684
+942/100000
+
+wins: 54961
+losses: 23201
+ties: 11838
+943/100000
+
+wins: 56176
+losses: 22116
+ties: 11708
+944/100000
+
+wins: 56669
+losses: 22507
+ties: 10824
+945/100000
+
+wins: 52734
+losses: 24740
+ties: 12526
+946/100000
+
+wins: 54401
+losses: 21119
+ties: 14480
+947/100000
+
+wins: 54722
+losses: 23833
+ties: 11445
+948/100000
+
+wins: 55090
+losses: 22088
+ties: 12822
+949/100000
+
+wins: 53170
+losses: 23654
+ties: 13176
+950/100000
+
+wins: 51065
+losses: 23531
+ties: 15404
+951/100000
+
+wins: 51299
+losses: 23759
+ties: 14942
+952/100000
+
+wins: 50978
+losses: 25215
+ties: 13807
+953/100000
+
+wins: 49519
+losses: 27355
+ties: 13126
+954/100000
+
+wins: 52354
+losses: 24754
+ties: 12892
+955/100000
+
+wins: 52214
+losses: 23544
+ties: 14242
+956/100000
+
+wins: 52776
+losses: 26068
+ties: 11156
+957/100000
+
+wins: 56085
+losses: 22921
+ties: 10994
+958/100000
+
+wins: 51815
+losses: 28042
+ties: 10143
+959/100000
+
+wins: 53067
+losses: 27510
+ties: 9423
+960/100000
+
+wins: 52328
+losses: 28828
+ties: 8844
+961/100000
+
+wins: 54516
+losses: 27102
+ties: 8382
+962/100000
+
+wins: 52264
+losses: 27096
+ties: 10640
+963/100000
+
+wins: 51983
+losses: 26171
+ties: 11846
+964/100000
+
+wins: 51882
+losses: 26789
+ties: 11329
+965/100000
+
+wins: 51406
+losses: 27291
+ties: 11303
+966/100000
+
+wins: 52961
+losses: 27252
+ties: 9787
+967/100000
+
+wins: 52806
+losses: 26261
+ties: 10933
+968/100000
+
+wins: 55952
+losses: 23907
+ties: 10141
+969/100000
+
+wins: 54694
+losses: 23387
+ties: 11919
+970/100000
+
+wins: 55544
+losses: 24397
+ties: 10059
+971/100000
+
+wins: 53658
+losses: 23621
+ties: 12721
+972/100000
+
+wins: 53236
+losses: 24466
+ties: 12298
+973/100000
+
+wins: 52588
+losses: 23962
+ties: 13450
+974/100000
+
+wins: 53391
+losses: 23609
+ties: 13000
+975/100000
+
+wins: 51392
+losses: 22962
+ties: 15646
+976/100000
+
+wins: 52580
+losses: 23504
+ties: 13916
+977/100000
+
+wins: 54946
+losses: 22786
+ties: 12268
+978/100000
+
+wins: 55242
+losses: 22591
+ties: 12167
+979/100000
+
+wins: 53125
+losses: 25458
+ties: 11417
+980/100000
+
+wins: 52360
+losses: 26114
+ties: 11526
+981/100000
+
+wins: 52940
+losses: 26059
+ties: 11001
+982/100000
+
+wins: 52840
+losses: 24767
+ties: 12393
+983/100000
+
+wins: 52417
+losses: 26249
+ties: 11334
+984/100000
+
+wins: 51088
+losses: 22764
+ties: 16148
+985/100000
+
+wins: 51055
+losses: 25287
+ties: 13658
+986/100000
+
+wins: 50031
+losses: 27564
+ties: 12405
+987/100000
+
+wins: 52007
+losses: 24440
+ties: 13553
+988/100000
+
+wins: 53450
+losses: 25282
+ties: 11268
+989/100000
+
+wins: 53701
+losses: 25275
+ties: 11024
+990/100000
+
+wins: 52810
+losses: 25455
+ties: 11735
+991/100000
+

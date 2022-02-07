@@ -1,3 +1,10 @@
+/*
+To-do List:
+
+implement multi threading
+implement a good! saving and loading sytem
+implement a good way to see the improvement of the best player
+*/
 using AIGUI;
 using winForm;
 

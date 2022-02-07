@@ -39,6 +39,8 @@ namespace TicTacToeAI
 
                 PrintStats(generationAmount - generation);
 
+                BestAIPlay();
+
                 genarationDone!.Invoke(this, EventArgs.Empty);
 
                 generation--;
@@ -63,9 +65,12 @@ namespace TicTacToeAI
                 }
             }
 
-            _players = Generations.NewGeneration(_players);
-            winners.Add(_players[_players.Count - 1]);
-            _players.Remove(_players[_players.Count - 1]);
+            winners.Add(_players[Generations.GetWinner(_players)]);
+            _players = Generations.NewGenerationV2(_players, 10); // still being teseted
+
+            // _players = Generations.NewGeneration(_players);
+            // winners.Add(_players[_players.Count - 1]);
+            // _players.Remove(_players[_players.Count - 1]);
         }
 
         public void PlayRound(TicTacToeAI AI1, TicTacToeAI AI2)
@@ -104,8 +109,59 @@ namespace TicTacToeAI
         private void PrintStats(int generation)
         {
             string Data = $"wins: {turnyStats.player1wins}\n" + $"losses: {turnyStats.player2wins}\n" + $"ties: {turnyStats.ties}\n";
-            Data += $"{(generation + 1)}/{generationAmount}\n";
+            Data += $"{(generation + 1)}/{generationAmount}";
+
+            // string Data = $"{turnyStats.ties}";
+
+            // in %
+            // int procent = (int)(((float)(float)turnyStats.ties / (float)(turnyStats.player1wins + turnyStats.player2wins + turnyStats.ties)) * 100);
+            // string Data = $"{procent}";
+
+            Data += "\n";
             turnyStats = new TurnamentStats();
+            CS_MyConsole.MyConsole.WriteLine(Data);
+        }
+
+        public void BestAIPlay()
+        {
+            int Games = 10000; // 10k, behøver nok ikke mere end like 100k
+
+            TurnamentStats gamesStats = new TurnamentStats();
+            TicTacToeAI AI = winners[winners.Count - 1].GetClone();
+
+            Random rnd = new Random();
+
+            for (int i = 0; i < Games; i++)
+            {
+                TTTGame tttGame = new TTTGame();
+                while (!tttGame.isGameOver)
+                {
+                    if (tttGame.player == 1)
+                    {
+                        tttGame.MakeMove(AI.MakeMove(tttGame.board, 1));
+                    }
+                    else
+                    {
+                        tttGame.MakeMove(rnd.Next(0, 9));
+                    }
+                }
+                if (tttGame.winner == 1)
+                {
+                    gamesStats.player1wins++;
+                }
+                else if (tttGame.winner == 2)
+                {
+                    gamesStats.player2wins++;
+                }
+                else
+                {
+                    gamesStats.ties++;
+                }
+            }
+
+
+            string Data = $"Best player stats vs random: wins: {gamesStats.player1wins}, " + $"losses: {gamesStats.player2wins}, " + $"ties: {gamesStats.ties}";
+            Data += "\n";
             CS_MyConsole.MyConsole.WriteLine(Data);
         }
         public void Start() => _isRunning = true;

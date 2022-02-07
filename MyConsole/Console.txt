@@ -1,0 +1,3458 @@
+wins: 52023
+losses: 25299
+ties: 12678
+1/100000
+
+Best player stats vs random: wins: 8603, losses: 766, ties: 631
+
+wins: 55073
+losses: 30869
+ties: 4058
+2/100000
+
+Best player stats vs random: wins: 8663, losses: 758, ties: 579
+
+wins: 53462
+losses: 32098
+ties: 4440
+3/100000
+
+Best player stats vs random: wins: 8354, losses: 1121, ties: 525
+
+wins: 56733
+losses: 28026
+ties: 5241
+4/100000
+
+Best player stats vs random: wins: 8292, losses: 1201, ties: 507
+
+wins: 58572
+losses: 26379
+ties: 5049
+5/100000
+
+Best player stats vs random: wins: 7630, losses: 1619, ties: 751
+
+wins: 57835
+losses: 26767
+ties: 5398
+6/100000
+
+Best player stats vs random: wins: 7602, losses: 1606, ties: 792
+
+wins: 54247
+losses: 30823
+ties: 4930
+7/100000
+
+Best player stats vs random: wins: 7662, losses: 1885, ties: 453
+
+wins: 56313
+losses: 28350
+ties: 5337
+8/100000
+
+Best player stats vs random: wins: 7651, losses: 1872, ties: 477
+
+wins: 55844
+losses: 28709
+ties: 5447
+9/100000
+
+Best player stats vs random: wins: 7639, losses: 1870, ties: 491
+
+wins: 53410
+losses: 31029
+ties: 5561
+10/100000
+
+Best player stats vs random: wins: 7631, losses: 1914, ties: 455
+
+wins: 56175
+losses: 28614
+ties: 5211
+11/100000
+
+Best player stats vs random: wins: 7650, losses: 1884, ties: 466
+
+wins: 56385
+losses: 27898
+ties: 5717
+12/100000
+
+Best player stats vs random: wins: 7945, losses: 1481, ties: 574
+
+wins: 57538
+losses: 21948
+ties: 10514
+13/100000
+
+Best player stats vs random: wins: 8064, losses: 1471, ties: 465
+
+wins: 60443
+losses: 22622
+ties: 6935
+14/100000
+
+Best player stats vs random: wins: 7999, losses: 1564, ties: 437
+
+wins: 61197
+losses: 22216
+ties: 6587
+15/100000
+
+Best player stats vs random: wins: 8106, losses: 1485, ties: 409
+
+wins: 58957
+losses: 24450
+ties: 6593
+16/100000
+
+Best player stats vs random: wins: 8116, losses: 1446, ties: 438
+
+wins: 51433
+losses: 31347
+ties: 7220
+17/100000
+
+Best player stats vs random: wins: 8259, losses: 1251, ties: 490
+
+wins: 52216
+losses: 30204
+ties: 7580
+18/100000
+
+Best player stats vs random: wins: 8277, losses: 1257, ties: 466
+
+wins: 51114
+losses: 29923
+ties: 8963
+19/100000
+
+Best player stats vs random: wins: 8272, losses: 1225, ties: 503
+
+wins: 51978
+losses: 29114
+ties: 8908
+20/100000
+
+Best player stats vs random: wins: 8286, losses: 1249, ties: 465
+
+wins: 53534
+losses: 27599
+ties: 8867
+21/100000
+
+Best player stats vs random: wins: 8220, losses: 1294, ties: 486
+
+wins: 50039
+losses: 30093
+ties: 9868
+22/100000
+
+Best player stats vs random: wins: 8291, losses: 1202, ties: 507
+
+wins: 47216
+losses: 32944
+ties: 9840
+23/100000
+
+Best player stats vs random: wins: 8205, losses: 1273, ties: 522
+
+wins: 52387
+losses: 27289
+ties: 10324
+24/100000
+
+Best player stats vs random: wins: 7829, losses: 1616, ties: 555
+
+wins: 53046
+losses: 27674
+ties: 9280
+25/100000
+
+Best player stats vs random: wins: 8231, losses: 1234, ties: 535
+
+wins: 55578
+losses: 24709
+ties: 9713
+26/100000
+
+Best player stats vs random: wins: 8192, losses: 1323, ties: 485
+
+wins: 56917
+losses: 26449
+ties: 6634
+27/100000
+
+Best player stats vs random: wins: 8690, losses: 853, ties: 457
+
+wins: 53757
+losses: 28051
+ties: 8192
+28/100000
+
+Best player stats vs random: wins: 8685, losses: 839, ties: 476
+
+wins: 56793
+losses: 26320
+ties: 6887
+29/100000
+
+Best player stats vs random: wins: 8632, losses: 897, ties: 471
+
+wins: 54703
+losses: 27784
+ties: 7513
+30/100000
+
+Best player stats vs random: wins: 8542, losses: 1029, ties: 429
+
+wins: 53812
+losses: 28501
+ties: 7687
+31/100000
+
+Best player stats vs random: wins: 8669, losses: 895, ties: 436
+
+wins: 56469
+losses: 26942
+ties: 6589
+32/100000
+
+Best player stats vs random: wins: 8607, losses: 870, ties: 523
+
+wins: 54656
+losses: 26526
+ties: 8818
+33/100000
+
+Best player stats vs random: wins: 8585, losses: 966, ties: 449
+
+wins: 53043
+losses: 26089
+ties: 10868
+34/100000
+
+Best player stats vs random: wins: 8446, losses: 1234, ties: 320
+
+wins: 56193
+losses: 24502
+ties: 9305
+35/100000
+
+Best player stats vs random: wins: 8285, losses: 1392, ties: 323
+
+wins: 55661
+losses: 23811
+ties: 10528
+36/100000
+
+Best player stats vs random: wins: 8319, losses: 1358, ties: 323
+
+wins: 56563
+losses: 25515
+ties: 7922
+37/100000
+
+Best player stats vs random: wins: 8128, losses: 1259, ties: 613
+
+wins: 54876
+losses: 26045
+ties: 9079
+38/100000
+
+Best player stats vs random: wins: 8236, losses: 1173, ties: 591
+
+wins: 54554
+losses: 24501
+ties: 10945
+39/100000
+
+Best player stats vs random: wins: 8235, losses: 1195, ties: 570
+
+wins: 51443
+losses: 28756
+ties: 9801
+40/100000
+
+Best player stats vs random: wins: 8239, losses: 1229, ties: 532
+
+wins: 54058
+losses: 25831
+ties: 10111
+41/100000
+
+Best player stats vs random: wins: 8196, losses: 1188, ties: 616
+
+wins: 55047
+losses: 23067
+ties: 11886
+42/100000
+
+Best player stats vs random: wins: 7724, losses: 1487, ties: 789
+
+wins: 55510
+losses: 24375
+ties: 10115
+43/100000
+
+Best player stats vs random: wins: 7688, losses: 1495, ties: 817
+
+wins: 52812
+losses: 23093
+ties: 14095
+44/100000
+
+Best player stats vs random: wins: 7684, losses: 1636, ties: 680
+
+wins: 49513
+losses: 25070
+ties: 15417
+45/100000
+
+Best player stats vs random: wins: 7710, losses: 1735, ties: 555
+
+wins: 50676
+losses: 23204
+ties: 16120
+46/100000
+
+Best player stats vs random: wins: 7795, losses: 1685, ties: 520
+
+wins: 50390
+losses: 25865
+ties: 13745
+47/100000
+
+Best player stats vs random: wins: 7772, losses: 1643, ties: 585
+
+wins: 52583
+losses: 23534
+ties: 13883
+48/100000
+
+Best player stats vs random: wins: 7716, losses: 1643, ties: 641
+
+wins: 51845
+losses: 27546
+ties: 10609
+49/100000
+
+Best player stats vs random: wins: 8235, losses: 1221, ties: 544
+
+wins: 53571
+losses: 24811
+ties: 11618
+50/100000
+
+Best player stats vs random: wins: 7690, losses: 1576, ties: 734
+
+wins: 52633
+losses: 25315
+ties: 12052
+51/100000
+
+Best player stats vs random: wins: 8170, losses: 1276, ties: 554
+
+wins: 53096
+losses: 23690
+ties: 13214
+52/100000
+
+Best player stats vs random: wins: 7765, losses: 1548, ties: 687
+
+wins: 54149
+losses: 25218
+ties: 10633
+53/100000
+
+Best player stats vs random: wins: 7767, losses: 1489, ties: 744
+
+wins: 53437
+losses: 24904
+ties: 11659
+54/100000
+
+Best player stats vs random: wins: 7692, losses: 1601, ties: 707
+
+wins: 55524
+losses: 23358
+ties: 11118
+55/100000
+
+Best player stats vs random: wins: 7673, losses: 1603, ties: 724
+
+wins: 52423
+losses: 24050
+ties: 13527
+56/100000
+
+Best player stats vs random: wins: 7474, losses: 1797, ties: 729
+
+wins: 55645
+losses: 21483
+ties: 12872
+57/100000
+
+Best player stats vs random: wins: 7479, losses: 1788, ties: 733
+
+wins: 55070
+losses: 23177
+ties: 11753
+58/100000
+
+Best player stats vs random: wins: 7411, losses: 1837, ties: 752
+
+wins: 54552
+losses: 21743
+ties: 13705
+59/100000
+
+Best player stats vs random: wins: 7408, losses: 1807, ties: 785
+
+wins: 54360
+losses: 23791
+ties: 11849
+60/100000
+
+Best player stats vs random: wins: 7411, losses: 1814, ties: 775
+
+wins: 54391
+losses: 22492
+ties: 13117
+61/100000
+
+Best player stats vs random: wins: 6716, losses: 2369, ties: 915
+
+wins: 55379
+losses: 21992
+ties: 12629
+62/100000
+
+Best player stats vs random: wins: 6757, losses: 2087, ties: 1156
+
+wins: 57046
+losses: 22738
+ties: 10216
+63/100000
+
+Best player stats vs random: wins: 6649, losses: 2218, ties: 1133
+
+wins: 55215
+losses: 25098
+ties: 9687
+64/100000
+
+Best player stats vs random: wins: 6618, losses: 2204, ties: 1178
+
+wins: 56340
+losses: 24269
+ties: 9391
+65/100000
+
+Best player stats vs random: wins: 6674, losses: 2138, ties: 1188
+
+wins: 56560
+losses: 24497
+ties: 8943
+66/100000
+
+Best player stats vs random: wins: 6725, losses: 2153, ties: 1122
+
+wins: 57019
+losses: 22941
+ties: 10040
+67/100000
+
+Best player stats vs random: wins: 6719, losses: 2159, ties: 1122
+
+wins: 57009
+losses: 22531
+ties: 10460
+68/100000
+
+Best player stats vs random: wins: 6091, losses: 2565, ties: 1344
+
+wins: 56088
+losses: 23522
+ties: 10390
+69/100000
+
+Best player stats vs random: wins: 6240, losses: 2408, ties: 1352
+
+wins: 57618
+losses: 22613
+ties: 9769
+70/100000
+
+Best player stats vs random: wins: 6036, losses: 2491, ties: 1473
+
+wins: 53750
+losses: 26410
+ties: 9840
+71/100000
+
+Best player stats vs random: wins: 5839, losses: 2771, ties: 1390
+
+wins: 54540
+losses: 25088
+ties: 10372
+72/100000
+
+Best player stats vs random: wins: 5863, losses: 2709, ties: 1428
+
+wins: 53082
+losses: 25046
+ties: 11872
+73/100000
+
+Best player stats vs random: wins: 5775, losses: 2799, ties: 1426
+
+wins: 54093
+losses: 25545
+ties: 10362
+74/100000
+
+Best player stats vs random: wins: 6447, losses: 2222, ties: 1331
+
+wins: 53589
+losses: 23060
+ties: 13351
+75/100000
+
+Best player stats vs random: wins: 5763, losses: 2617, ties: 1620
+
+wins: 52833
+losses: 25410
+ties: 11757
+76/100000
+
+Best player stats vs random: wins: 6520, losses: 2004, ties: 1476
+
+wins: 54853
+losses: 19690
+ties: 15457
+77/100000
+
+Best player stats vs random: wins: 6519, losses: 1971, ties: 1510
+
+wins: 53711
+losses: 20828
+ties: 15461
+78/100000
+
+Best player stats vs random: wins: 6404, losses: 2038, ties: 1558
+
+wins: 56161
+losses: 20378
+ties: 13461
+79/100000
+
+Best player stats vs random: wins: 5576, losses: 2085, ties: 2339
+
+wins: 55221
+losses: 21263
+ties: 13516
+80/100000
+
+Best player stats vs random: wins: 5548, losses: 2109, ties: 2343
+
+wins: 56216
+losses: 19914
+ties: 13870
+81/100000
+
+Best player stats vs random: wins: 5620, losses: 1874, ties: 2506
+
+wins: 51905
+losses: 22894
+ties: 15201
+82/100000
+
+Best player stats vs random: wins: 5548, losses: 1895, ties: 2557
+
+wins: 46874
+losses: 20724
+ties: 22402
+83/100000
+
+Best player stats vs random: wins: 5653, losses: 1912, ties: 2435
+
+wins: 47961
+losses: 20879
+ties: 21160
+84/100000
+
+Best player stats vs random: wins: 5302, losses: 2048, ties: 2650
+
+wins: 50528
+losses: 24281
+ties: 15191
+85/100000
+
+Best player stats vs random: wins: 5088, losses: 2332, ties: 2580
+
+wins: 53180
+losses: 22811
+ties: 14009
+86/100000
+
+Best player stats vs random: wins: 5247, losses: 2146, ties: 2607
+
+wins: 49788
+losses: 22792
+ties: 17420
+87/100000
+
+Best player stats vs random: wins: 5225, losses: 2086, ties: 2689
+
+wins: 50653
+losses: 25209
+ties: 14138
+88/100000
+
+Best player stats vs random: wins: 4977, losses: 2289, ties: 2734
+
+wins: 52886
+losses: 25598
+ties: 11516
+89/100000
+
+Best player stats vs random: wins: 6297, losses: 1719, ties: 1984
+
+wins: 52574
+losses: 23748
+ties: 13678
+90/100000
+
+Best player stats vs random: wins: 6402, losses: 1655, ties: 1943
+
+wins: 51801
+losses: 24426
+ties: 13773
+91/100000
+
+Best player stats vs random: wins: 6325, losses: 1680, ties: 1995
+
+wins: 54353
+losses: 23417
+ties: 12230
+92/100000
+
+Best player stats vs random: wins: 6419, losses: 1649, ties: 1932
+
+wins: 50148
+losses: 24864
+ties: 14988
+93/100000
+
+Best player stats vs random: wins: 6425, losses: 1641, ties: 1934
+
+wins: 51332
+losses: 23849
+ties: 14819
+94/100000
+
+Best player stats vs random: wins: 6257, losses: 1784, ties: 1959
+
+wins: 52326
+losses: 23590
+ties: 14084
+95/100000
+
+Best player stats vs random: wins: 6210, losses: 1872, ties: 1918
+
+wins: 50364
+losses: 24002
+ties: 15634
+96/100000
+
+Best player stats vs random: wins: 6198, losses: 1840, ties: 1962
+
+wins: 52416
+losses: 24188
+ties: 13396
+97/100000
+
+Best player stats vs random: wins: 6321, losses: 1819, ties: 1860
+
+wins: 52789
+losses: 24448
+ties: 12763
+98/100000
+
+Best player stats vs random: wins: 6356, losses: 1697, ties: 1947
+
+wins: 49603
+losses: 26938
+ties: 13459
+99/100000
+
+Best player stats vs random: wins: 6253, losses: 1860, ties: 1887
+
+wins: 51053
+losses: 23175
+ties: 15772
+100/100000
+
+Best player stats vs random: wins: 6266, losses: 1820, ties: 1914
+
+wins: 53283
+losses: 24715
+ties: 12002
+101/100000
+
+Best player stats vs random: wins: 7620, losses: 1591, ties: 789
+
+wins: 51893
+losses: 26030
+ties: 12077
+102/100000
+
+Best player stats vs random: wins: 7646, losses: 1565, ties: 789
+
+wins: 50637
+losses: 26296
+ties: 13067
+103/100000
+
+Best player stats vs random: wins: 7625, losses: 1585, ties: 790
+
+wins: 53445
+losses: 23460
+ties: 13095
+104/100000
+
+Best player stats vs random: wins: 7625, losses: 1620, ties: 755
+
+wins: 52894
+losses: 23864
+ties: 13242
+105/100000
+
+Best player stats vs random: wins: 7607, losses: 1598, ties: 795
+
+wins: 53573
+losses: 24133
+ties: 12294
+106/100000
+
+Best player stats vs random: wins: 7663, losses: 1547, ties: 790
+
+wins: 51832
+losses: 26585
+ties: 11583
+107/100000
+
+Best player stats vs random: wins: 7584, losses: 1612, ties: 804
+
+wins: 52280
+losses: 26946
+ties: 10774
+108/100000
+
+Best player stats vs random: wins: 7684, losses: 1535, ties: 781
+
+wins: 49405
+losses: 27573
+ties: 13022
+109/100000
+
+Best player stats vs random: wins: 6695, losses: 2165, ties: 1140
+
+wins: 54229
+losses: 24132
+ties: 11639
+110/100000
+
+Best player stats vs random: wins: 6867, losses: 2043, ties: 1090
+
+wins: 54583
+losses: 24630
+ties: 10787
+111/100000
+
+Best player stats vs random: wins: 7228, losses: 1908, ties: 864
+
+wins: 55310
+losses: 20146
+ties: 14544
+112/100000
+
+Best player stats vs random: wins: 7179, losses: 1885, ties: 936
+
+wins: 53427
+losses: 24058
+ties: 12515
+113/100000
+
+Best player stats vs random: wins: 7384, losses: 1597, ties: 1019
+
+wins: 53607
+losses: 21672
+ties: 14721
+114/100000
+
+Best player stats vs random: wins: 7499, losses: 1685, ties: 816
+
+wins: 50841
+losses: 23290
+ties: 15869
+115/100000
+
+Best player stats vs random: wins: 7989, losses: 1426, ties: 585
+
+wins: 53824
+losses: 24220
+ties: 11956
+116/100000
+
+Best player stats vs random: wins: 8235, losses: 1070, ties: 695
+
+wins: 53784
+losses: 22736
+ties: 13480
+117/100000
+
+Best player stats vs random: wins: 7380, losses: 1909, ties: 711
+
+wins: 53638
+losses: 23641
+ties: 12721
+118/100000
+
+Best player stats vs random: wins: 7560, losses: 1781, ties: 659
+
+wins: 52039
+losses: 23490
+ties: 14471
+119/100000
+
+Best player stats vs random: wins: 8687, losses: 894, ties: 419
+
+wins: 55940
+losses: 25135
+ties: 8925
+120/100000
+
+Best player stats vs random: wins: 8616, losses: 932, ties: 452
+
+wins: 54145
+losses: 25578
+ties: 10277
+121/100000
+
+Best player stats vs random: wins: 8600, losses: 946, ties: 454
+
+wins: 54100
+losses: 25765
+ties: 10135
+122/100000
+
+Best player stats vs random: wins: 8616, losses: 912, ties: 472
+
+wins: 54317
+losses: 24990
+ties: 10693
+123/100000
+
+Best player stats vs random: wins: 8572, losses: 920, ties: 508
+
+wins: 54733
+losses: 25128
+ties: 10139
+124/100000
+
+Best player stats vs random: wins: 8606, losses: 916, ties: 478
+
+wins: 53619
+losses: 26157
+ties: 10224
+125/100000
+
+Best player stats vs random: wins: 8606, losses: 909, ties: 485
+
+wins: 54497
+losses: 25592
+ties: 9911
+126/100000
+
+Best player stats vs random: wins: 8730, losses: 859, ties: 411
+
+wins: 53106
+losses: 26268
+ties: 10626
+127/100000
+
+Best player stats vs random: wins: 8647, losses: 889, ties: 464
+
+wins: 53334
+losses: 27339
+ties: 9327
+128/100000
+
+Best player stats vs random: wins: 8633, losses: 906, ties: 461
+
+wins: 53815
+losses: 26728
+ties: 9457
+129/100000
+
+Best player stats vs random: wins: 8564, losses: 955, ties: 481
+
+wins: 55446
+losses: 24342
+ties: 10212
+130/100000
+
+Best player stats vs random: wins: 8686, losses: 810, ties: 504
+
+wins: 54437
+losses: 27550
+ties: 8013
+131/100000
+
+Best player stats vs random: wins: 8415, losses: 1101, ties: 484
+
+wins: 53056
+losses: 28830
+ties: 8114
+132/100000
+
+Best player stats vs random: wins: 8586, losses: 962, ties: 452
+
+wins: 55498
+losses: 24115
+ties: 10387
+133/100000
+
+Best player stats vs random: wins: 7956, losses: 1550, ties: 494
+
+wins: 56216
+losses: 24845
+ties: 8939
+134/100000
+
+Best player stats vs random: wins: 7525, losses: 1866, ties: 609
+
+wins: 56824
+losses: 25182
+ties: 7994
+135/100000
+
+Best player stats vs random: wins: 7521, losses: 1898, ties: 581
+
+wins: 54414
+losses: 28649
+ties: 6937
+136/100000
+
+Best player stats vs random: wins: 7315, losses: 2014, ties: 671
+
+wins: 51214
+losses: 29686
+ties: 9100
+137/100000
+
+Best player stats vs random: wins: 7219, losses: 2172, ties: 609
+
+wins: 50562
+losses: 31660
+ties: 7778
+138/100000
+
+Best player stats vs random: wins: 7324, losses: 2054, ties: 622
+
+wins: 49623
+losses: 30772
+ties: 9605
+139/100000
+
+Best player stats vs random: wins: 6783, losses: 2449, ties: 768
+
+wins: 50681
+losses: 28937
+ties: 10382
+140/100000
+
+Best player stats vs random: wins: 6785, losses: 2366, ties: 849
+
+wins: 50689
+losses: 29767
+ties: 9544
+141/100000
+
+Best player stats vs random: wins: 7464, losses: 1677, ties: 859
+
+wins: 51931
+losses: 29054
+ties: 9015
+142/100000
+
+Best player stats vs random: wins: 7442, losses: 1596, ties: 962
+
+wins: 54047
+losses: 26160
+ties: 9793
+143/100000
+
+Best player stats vs random: wins: 7448, losses: 1614, ties: 938
+
+wins: 50388
+losses: 27827
+ties: 11785
+144/100000
+
+Best player stats vs random: wins: 7385, losses: 1662, ties: 953
+
+wins: 52475
+losses: 26106
+ties: 11419
+145/100000
+
+Best player stats vs random: wins: 7317, losses: 1695, ties: 988
+
+wins: 48446
+losses: 30190
+ties: 11364
+146/100000
+
+Best player stats vs random: wins: 6747, losses: 2119, ties: 1134
+
+wins: 47372
+losses: 31705
+ties: 10923
+147/100000
+
+Best player stats vs random: wins: 6738, losses: 2139, ties: 1123
+
+wins: 46434
+losses: 31840
+ties: 11726
+148/100000
+
+Best player stats vs random: wins: 6578, losses: 2219, ties: 1203
+
+wins: 43759
+losses: 32272
+ties: 13969
+149/100000
+
+Best player stats vs random: wins: 6695, losses: 2120, ties: 1185
+
+wins: 44650
+losses: 34052
+ties: 11298
+150/100000
+
+Best player stats vs random: wins: 6947, losses: 2030, ties: 1023
+
+wins: 51027
+losses: 28243
+ties: 10730
+151/100000
+
+Best player stats vs random: wins: 6708, losses: 2187, ties: 1105
+
+wins: 50619
+losses: 27674
+ties: 11707
+152/100000
+
+Best player stats vs random: wins: 6776, losses: 2080, ties: 1144
+
+wins: 50976
+losses: 27461
+ties: 11563
+153/100000
+
+Best player stats vs random: wins: 6770, losses: 2075, ties: 1155
+
+wins: 50071
+losses: 25699
+ties: 14230
+154/100000
+
+Best player stats vs random: wins: 6580, losses: 2162, ties: 1258
+
+wins: 48943
+losses: 25938
+ties: 15119
+155/100000
+
+Best player stats vs random: wins: 6570, losses: 2445, ties: 985
+
+wins: 47945
+losses: 27718
+ties: 14337
+156/100000
+
+Best player stats vs random: wins: 6544, losses: 2445, ties: 1011
+
+wins: 49956
+losses: 29122
+ties: 10922
+157/100000
+
+Best player stats vs random: wins: 5964, losses: 3161, ties: 875
+
+wins: 47898
+losses: 29680
+ties: 12422
+158/100000
+
+Best player stats vs random: wins: 5917, losses: 3148, ties: 935
+
+wins: 47828
+losses: 27736
+ties: 14436
+159/100000
+
+Best player stats vs random: wins: 5590, losses: 3292, ties: 1118
+
+wins: 48671
+losses: 28969
+ties: 12360
+160/100000
+
+Best player stats vs random: wins: 7070, losses: 2054, ties: 876
+
+wins: 48294
+losses: 29601
+ties: 12105
+161/100000
+
+Best player stats vs random: wins: 7035, losses: 2085, ties: 880
+
+wins: 45712
+losses: 32257
+ties: 12031
+162/100000
+
+Best player stats vs random: wins: 6712, losses: 2235, ties: 1053
+
+wins: 45829
+losses: 29077
+ties: 15094
+163/100000
+
+Best player stats vs random: wins: 6695, losses: 2370, ties: 935
+
+wins: 47914
+losses: 28108
+ties: 13978
+164/100000
+
+Best player stats vs random: wins: 6757, losses: 2255, ties: 988
+
+wins: 47013
+losses: 28512
+ties: 14475
+165/100000
+
+Best player stats vs random: wins: 6718, losses: 2315, ties: 967
+
+wins: 48590
+losses: 28902
+ties: 12508
+166/100000
+
+Best player stats vs random: wins: 7268, losses: 1878, ties: 854
+
+wins: 50735
+losses: 26227
+ties: 13038
+167/100000
+
+Best player stats vs random: wins: 7419, losses: 1792, ties: 789
+
+wins: 47991
+losses: 28722
+ties: 13287
+168/100000
+
+Best player stats vs random: wins: 7273, losses: 1932, ties: 795
+
+wins: 49296
+losses: 27218
+ties: 13486
+169/100000
+
+Best player stats vs random: wins: 7550, losses: 1703, ties: 747
+
+wins: 52033
+losses: 26504
+ties: 11463
+170/100000
+
+Best player stats vs random: wins: 7557, losses: 1610, ties: 833
+
+wins: 50304
+losses: 28102
+ties: 11594
+171/100000
+
+Best player stats vs random: wins: 7471, losses: 1721, ties: 808
+
+wins: 49545
+losses: 26378
+ties: 14077
+172/100000
+
+Best player stats vs random: wins: 7431, losses: 1762, ties: 807
+
+wins: 50086
+losses: 28717
+ties: 11197
+173/100000
+
+Best player stats vs random: wins: 7518, losses: 1637, ties: 845
+
+wins: 48285
+losses: 28577
+ties: 13138
+174/100000
+
+Best player stats vs random: wins: 7666, losses: 1533, ties: 801
+
+wins: 48129
+losses: 29734
+ties: 12137
+175/100000
+
+Best player stats vs random: wins: 8133, losses: 1268, ties: 599
+
+wins: 47611
+losses: 27300
+ties: 15089
+176/100000
+
+Best player stats vs random: wins: 8154, losses: 1213, ties: 633
+
+wins: 48740
+losses: 28599
+ties: 12661
+177/100000
+
+Best player stats vs random: wins: 8240, losses: 1151, ties: 609
+
+wins: 47095
+losses: 28993
+ties: 13912
+178/100000
+
+Best player stats vs random: wins: 8223, losses: 1194, ties: 583
+
+wins: 49026
+losses: 28498
+ties: 12476
+179/100000
+
+Best player stats vs random: wins: 8208, losses: 1216, ties: 576
+
+wins: 52223
+losses: 28068
+ties: 9709
+180/100000
+
+Best player stats vs random: wins: 8279, losses: 1148, ties: 573
+
+wins: 50815
+losses: 28496
+ties: 10689
+181/100000
+
+Best player stats vs random: wins: 8280, losses: 1134, ties: 586
+
+wins: 52549
+losses: 27138
+ties: 10313
+182/100000
+
+Best player stats vs random: wins: 8210, losses: 1182, ties: 608
+
+wins: 50182
+losses: 28890
+ties: 10928
+183/100000
+
+Best player stats vs random: wins: 8049, losses: 1342, ties: 609
+
+wins: 50966
+losses: 30723
+ties: 8311
+184/100000
+
+Best player stats vs random: wins: 8015, losses: 1364, ties: 621
+
+wins: 49021
+losses: 30625
+ties: 10354
+185/100000
+
+Best player stats vs random: wins: 8238, losses: 1213, ties: 549
+
+wins: 47459
+losses: 31766
+ties: 10775
+186/100000
+
+Best player stats vs random: wins: 8275, losses: 1164, ties: 561
+
+wins: 49055
+losses: 29790
+ties: 11155
+187/100000
+
+Best player stats vs random: wins: 8430, losses: 1039, ties: 531
+
+wins: 49642
+losses: 29726
+ties: 10632
+188/100000
+
+Best player stats vs random: wins: 8100, losses: 1270, ties: 630
+
+wins: 52505
+losses: 27414
+ties: 10081
+189/100000
+
+Best player stats vs random: wins: 8006, losses: 1281, ties: 713
+
+wins: 50815
+losses: 27974
+ties: 11211
+190/100000
+
+Best player stats vs random: wins: 8044, losses: 1340, ties: 616
+
+wins: 52197
+losses: 26496
+ties: 11307
+191/100000
+
+Best player stats vs random: wins: 8028, losses: 1309, ties: 663
+
+wins: 49085
+losses: 32773
+ties: 8142
+192/100000
+
+Best player stats vs random: wins: 8331, losses: 1047, ties: 622
+
+wins: 53636
+losses: 27373
+ties: 8991
+193/100000
+
+Best player stats vs random: wins: 8299, losses: 1073, ties: 628
+
+wins: 50952
+losses: 27683
+ties: 11365
+194/100000
+
+Best player stats vs random: wins: 8301, losses: 1060, ties: 639
+
+wins: 53037
+losses: 28715
+ties: 8248
+195/100000
+
+Best player stats vs random: wins: 8237, losses: 1076, ties: 687
+
+wins: 50578
+losses: 30438
+ties: 8984
+196/100000
+
+Best player stats vs random: wins: 8226, losses: 1118, ties: 656
+
+wins: 48181
+losses: 30991
+ties: 10828
+197/100000
+
+Best player stats vs random: wins: 8261, losses: 1145, ties: 594
+
+wins: 48698
+losses: 32259
+ties: 9043
+198/100000
+
+Best player stats vs random: wins: 8364, losses: 1052, ties: 584
+
+wins: 51088
+losses: 33082
+ties: 5830
+199/100000
+
+Best player stats vs random: wins: 8360, losses: 1116, ties: 524
+
+wins: 49593
+losses: 32774
+ties: 7633
+200/100000
+
+Best player stats vs random: wins: 8574, losses: 937, ties: 489
+
+wins: 50208
+losses: 32620
+ties: 7172
+201/100000
+
+Best player stats vs random: wins: 7902, losses: 1438, ties: 660
+
+wins: 51951
+losses: 34152
+ties: 3897
+202/100000
+
+Best player stats vs random: wins: 7909, losses: 1676, ties: 415
+
+wins: 50990
+losses: 34636
+ties: 4374
+203/100000
+
+Best player stats vs random: wins: 8349, losses: 1291, ties: 360
+
+wins: 49477
+losses: 33954
+ties: 6569
+204/100000
+
+Best player stats vs random: wins: 8366, losses: 1286, ties: 348
+
+wins: 50459
+losses: 33776
+ties: 5765
+205/100000
+
+Best player stats vs random: wins: 8131, losses: 1407, ties: 462
+
+wins: 47892
+losses: 35100
+ties: 7008
+206/100000
+
+Best player stats vs random: wins: 8312, losses: 1046, ties: 642
+
+wins: 50093
+losses: 32301
+ties: 7606
+207/100000
+
+Best player stats vs random: wins: 8306, losses: 1040, ties: 654
+
+wins: 50374
+losses: 31553
+ties: 8073
+208/100000
+
+Best player stats vs random: wins: 8500, losses: 817, ties: 683
+
+wins: 51098
+losses: 32912
+ties: 5990
+209/100000
+
+Best player stats vs random: wins: 8566, losses: 782, ties: 652
+
+wins: 50448
+losses: 33047
+ties: 6505
+210/100000
+
+Best player stats vs random: wins: 8546, losses: 799, ties: 655
+
+wins: 50200
+losses: 33754
+ties: 6046
+211/100000
+
+Best player stats vs random: wins: 8511, losses: 827, ties: 662
+
+wins: 51824
+losses: 32176
+ties: 6000
+212/100000
+
+Best player stats vs random: wins: 8541, losses: 783, ties: 676
+
+wins: 52759
+losses: 29569
+ties: 7672
+213/100000
+
+Best player stats vs random: wins: 8510, losses: 877, ties: 613
+
+wins: 53172
+losses: 28997
+ties: 7831
+214/100000
+
+Best player stats vs random: wins: 8225, losses: 1169, ties: 606
+
+wins: 53486
+losses: 29157
+ties: 7357
+215/100000
+
+Best player stats vs random: wins: 8280, losses: 1132, ties: 588
+
+wins: 53870
+losses: 30377
+ties: 5753
+216/100000
+
+Best player stats vs random: wins: 8287, losses: 1194, ties: 519
+
+wins: 54606
+losses: 30985
+ties: 4409
+217/100000
+
+Best player stats vs random: wins: 8239, losses: 1219, ties: 542
+
+wins: 53802
+losses: 31954
+ties: 4244
+218/100000
+
+Best player stats vs random: wins: 8254, losses: 1253, ties: 493
+
+wins: 53914
+losses: 31969
+ties: 4117
+219/100000
+
+Best player stats vs random: wins: 7950, losses: 1265, ties: 785
+
+wins: 50741
+losses: 32974
+ties: 6285
+220/100000
+
+Best player stats vs random: wins: 7957, losses: 1308, ties: 735
+
+wins: 51887
+losses: 32510
+ties: 5603
+221/100000
+
+Best player stats vs random: wins: 7715, losses: 1367, ties: 918
+
+wins: 52293
+losses: 30677
+ties: 7030
+222/100000
+
+Best player stats vs random: wins: 7739, losses: 1330, ties: 931
+
+wins: 48410
+losses: 35573
+ties: 6017
+223/100000
+
+Best player stats vs random: wins: 7733, losses: 1326, ties: 941
+
+wins: 50455
+losses: 33223
+ties: 6322
+224/100000
+
+Best player stats vs random: wins: 7445, losses: 1536, ties: 1019
+
+wins: 52473
+losses: 33035
+ties: 4492
+225/100000
+
+Best player stats vs random: wins: 7491, losses: 1481, ties: 1028
+
+wins: 53938
+losses: 31145
+ties: 4917
+226/100000
+
+Best player stats vs random: wins: 7368, losses: 1554, ties: 1078
+
+wins: 51845
+losses: 33598
+ties: 4557
+227/100000
+
+Best player stats vs random: wins: 7256, losses: 1707, ties: 1037
+
+wins: 54182
+losses: 30411
+ties: 5407
+228/100000
+
+Best player stats vs random: wins: 7338, losses: 1655, ties: 1007
+
+wins: 52159
+losses: 33843
+ties: 3998
+229/100000
+
+Best player stats vs random: wins: 7246, losses: 1714, ties: 1040
+
+wins: 54332
+losses: 29476
+ties: 6192
+230/100000
+
+Best player stats vs random: wins: 7165, losses: 1713, ties: 1122
+
+wins: 54494
+losses: 30262
+ties: 5244
+231/100000
+
+Best player stats vs random: wins: 7320, losses: 1628, ties: 1052
+
+wins: 54710
+losses: 30188
+ties: 5102
+232/100000
+
+Best player stats vs random: wins: 7325, losses: 1597, ties: 1078
+
+wins: 54844
+losses: 29055
+ties: 6101
+233/100000
+
+Best player stats vs random: wins: 7413, losses: 1637, ties: 950
+
+wins: 54577
+losses: 29359
+ties: 6064
+234/100000
+
+Best player stats vs random: wins: 7494, losses: 1557, ties: 949
+
+wins: 54987
+losses: 28521
+ties: 6492
+235/100000
+
+Best player stats vs random: wins: 7789, losses: 1384, ties: 827
+
+wins: 53742
+losses: 30787
+ties: 5471
+236/100000
+
+Best player stats vs random: wins: 7574, losses: 1511, ties: 915
+
+wins: 51533
+losses: 32081
+ties: 6386
+237/100000
+
+Best player stats vs random: wins: 8180, losses: 1009, ties: 811
+
+wins: 53717
+losses: 32074
+ties: 4209
+238/100000
+
+Best player stats vs random: wins: 7628, losses: 1384, ties: 988
+
+wins: 53909
+losses: 30881
+ties: 5210
+239/100000
+
+Best player stats vs random: wins: 7499, losses: 1465, ties: 1036
+
+wins: 52158
+losses: 32035
+ties: 5807
+240/100000
+
+Best player stats vs random: wins: 7480, losses: 1591, ties: 929
+
+wins: 54340
+losses: 29790
+ties: 5870
+241/100000
+
+Best player stats vs random: wins: 7069, losses: 1934, ties: 997
+
+wins: 52068
+losses: 32844
+ties: 5088
+242/100000
+
+Best player stats vs random: wins: 7177, losses: 1828, ties: 995
+
+wins: 51057
+losses: 32137
+ties: 6806
+243/100000
+
+Best player stats vs random: wins: 7192, losses: 1780, ties: 1028
+
+wins: 51303
+losses: 32995
+ties: 5702
+244/100000
+
+Best player stats vs random: wins: 7145, losses: 1819, ties: 1036
+
+wins: 51584
+losses: 31405
+ties: 7011
+245/100000
+
+Best player stats vs random: wins: 7355, losses: 1625, ties: 1020
+
+wins: 52982
+losses: 29201
+ties: 7817
+246/100000
+
+Best player stats vs random: wins: 6147, losses: 2246, ties: 1607
+
+wins: 51217
+losses: 30962
+ties: 7821
+247/100000
+
+Best player stats vs random: wins: 6132, losses: 2268, ties: 1600
+
+wins: 52846
+losses: 28607
+ties: 8547
+248/100000
+
+Best player stats vs random: wins: 5924, losses: 2404, ties: 1672
+
+wins: 51618
+losses: 28669
+ties: 9713
+249/100000
+
+Best player stats vs random: wins: 5351, losses: 2541, ties: 2108
+
+wins: 53595
+losses: 26302
+ties: 10103
+250/100000
+
+Best player stats vs random: wins: 5242, losses: 2526, ties: 2232
+
+wins: 53865
+losses: 24813
+ties: 11322
+251/100000
+
+Best player stats vs random: wins: 5421, losses: 2372, ties: 2207
+
+wins: 53643
+losses: 28129
+ties: 8228
+252/100000
+
+Best player stats vs random: wins: 5137, losses: 2426, ties: 2437
+
+wins: 53423
+losses: 27740
+ties: 8837
+253/100000
+
+Best player stats vs random: wins: 5088, losses: 2538, ties: 2374
+
+wins: 53405
+losses: 26667
+ties: 9928
+254/100000
+
+Best player stats vs random: wins: 5058, losses: 2498, ties: 2444
+
+wins: 52555
+losses: 26494
+ties: 10951
+255/100000
+
+Best player stats vs random: wins: 5094, losses: 2464, ties: 2442
+
+wins: 52892
+losses: 29346
+ties: 7762
+256/100000
+
+Best player stats vs random: wins: 5071, losses: 2492, ties: 2437
+
+wins: 53627
+losses: 28137
+ties: 8236
+257/100000
+
+Best player stats vs random: wins: 4970, losses: 2389, ties: 2641
+
+wins: 52816
+losses: 25846
+ties: 11338
+258/100000
+
+Best player stats vs random: wins: 4963, losses: 2447, ties: 2590
+
+wins: 54203
+losses: 26480
+ties: 9317
+259/100000
+
+Best player stats vs random: wins: 5108, losses: 2525, ties: 2367
+
+wins: 53686
+losses: 25604
+ties: 10710
+260/100000
+
+Best player stats vs random: wins: 5600, losses: 2174, ties: 2226
+
+wins: 55340
+losses: 26257
+ties: 8403
+261/100000
+
+Best player stats vs random: wins: 5493, losses: 2199, ties: 2308
+
+wins: 53639
+losses: 28704
+ties: 7657
+262/100000
+
+Best player stats vs random: wins: 5702, losses: 2019, ties: 2279
+
+wins: 54782
+losses: 26291
+ties: 8927
+263/100000
+
+Best player stats vs random: wins: 5426, losses: 2247, ties: 2327
+
+wins: 52429
+losses: 26413
+ties: 11158
+264/100000
+
+Best player stats vs random: wins: 5165, losses: 2158, ties: 2677
+
+wins: 51651
+losses: 28593
+ties: 9756
+265/100000
+
+Best player stats vs random: wins: 5727, losses: 1842, ties: 2431
+
+wins: 51048
+losses: 29343
+ties: 9609
+266/100000
+
+Best player stats vs random: wins: 5330, losses: 2175, ties: 2495
+
+wins: 50111
+losses: 30385
+ties: 9504
+267/100000
+
+Best player stats vs random: wins: 5261, losses: 2237, ties: 2502
+
+wins: 52389
+losses: 27547
+ties: 10064
+268/100000
+
+Best player stats vs random: wins: 5213, losses: 2295, ties: 2492
+
+wins: 54444
+losses: 26578
+ties: 8978
+269/100000
+
+Best player stats vs random: wins: 5318, losses: 2445, ties: 2237
+
+wins: 54662
+losses: 25858
+ties: 9480
+270/100000
+
+Best player stats vs random: wins: 4777, losses: 2453, ties: 2770
+
+wins: 55912
+losses: 25447
+ties: 8641
+271/100000
+
+Best player stats vs random: wins: 4945, losses: 2371, ties: 2684
+
+wins: 55423
+losses: 25604
+ties: 8973
+272/100000
+
+Best player stats vs random: wins: 4816, losses: 2290, ties: 2894
+
+wins: 54025
+losses: 26395
+ties: 9580
+273/100000
+
+Best player stats vs random: wins: 4772, losses: 2763, ties: 2465
+
+wins: 55431
+losses: 26369
+ties: 8200
+274/100000
+
+Best player stats vs random: wins: 4642, losses: 3112, ties: 2246
+
+wins: 53788
+losses: 27621
+ties: 8591
+275/100000
+
+Best player stats vs random: wins: 4671, losses: 3149, ties: 2180
+
+wins: 54169
+losses: 26196
+ties: 9635
+276/100000
+
+Best player stats vs random: wins: 4571, losses: 3222, ties: 2207
+
+wins: 55720
+losses: 25922
+ties: 8358
+277/100000
+
+Best player stats vs random: wins: 4562, losses: 3240, ties: 2198
+
+wins: 54620
+losses: 25853
+ties: 9527
+278/100000
+
+Best player stats vs random: wins: 4467, losses: 3253, ties: 2280
+
+wins: 53786
+losses: 26839
+ties: 9375
+279/100000
+
+Best player stats vs random: wins: 4442, losses: 3178, ties: 2380
+
+wins: 51609
+losses: 27823
+ties: 10568
+280/100000
+
+Best player stats vs random: wins: 4653, losses: 3170, ties: 2177
+
+wins: 52107
+losses: 27720
+ties: 10173
+281/100000
+
+Best player stats vs random: wins: 4670, losses: 3107, ties: 2223
+
+wins: 53840
+losses: 26350
+ties: 9810
+282/100000
+
+Best player stats vs random: wins: 4575, losses: 3179, ties: 2246
+
+wins: 54934
+losses: 26484
+ties: 8582
+283/100000
+
+Best player stats vs random: wins: 4739, losses: 3058, ties: 2203
+
+wins: 55317
+losses: 24754
+ties: 9929
+284/100000
+
+Best player stats vs random: wins: 5227, losses: 2738, ties: 2035
+
+wins: 54163
+losses: 23989
+ties: 11848
+285/100000
+
+Best player stats vs random: wins: 5863, losses: 2051, ties: 2086
+
+wins: 54208
+losses: 23946
+ties: 11846
+286/100000
+
+Best player stats vs random: wins: 5658, losses: 2140, ties: 2202
+
+wins: 55401
+losses: 23934
+ties: 10665
+287/100000
+
+Best player stats vs random: wins: 5674, losses: 2223, ties: 2103
+
+wins: 54622
+losses: 22834
+ties: 12544
+288/100000
+
+Best player stats vs random: wins: 5648, losses: 2256, ties: 2096
+
+wins: 52691
+losses: 23968
+ties: 13341
+289/100000
+
+Best player stats vs random: wins: 7136, losses: 2025, ties: 839
+
+wins: 55220
+losses: 24631
+ties: 10149
+290/100000
+
+Best player stats vs random: wins: 7183, losses: 1963, ties: 854
+
+wins: 55682
+losses: 25095
+ties: 9223
+291/100000
+
+Best player stats vs random: wins: 7332, losses: 1944, ties: 724
+
+wins: 52924
+losses: 27238
+ties: 9838
+292/100000
+
+Best player stats vs random: wins: 7405, losses: 1866, ties: 729
+
+wins: 51323
+losses: 29025
+ties: 9652
+293/100000
+
+Best player stats vs random: wins: 7376, losses: 1842, ties: 782
+
+wins: 51599
+losses: 28758
+ties: 9643
+294/100000
+
+Best player stats vs random: wins: 7283, losses: 1944, ties: 773
+
+wins: 51672
+losses: 27867
+ties: 10461
+295/100000
+
+Best player stats vs random: wins: 7296, losses: 1892, ties: 812
+
+wins: 52488
+losses: 28617
+ties: 8895
+296/100000
+
+Best player stats vs random: wins: 6888, losses: 2138, ties: 974
+
+wins: 53147
+losses: 27211
+ties: 9642
+297/100000
+
+Best player stats vs random: wins: 7065, losses: 1843, ties: 1092
+
+wins: 53042
+losses: 26714
+ties: 10244
+298/100000
+
+Best player stats vs random: wins: 7004, losses: 1934, ties: 1062
+
+wins: 53076
+losses: 28518
+ties: 8406
+299/100000
+
+Best player stats vs random: wins: 7046, losses: 1845, ties: 1109
+
+wins: 54288
+losses: 27599
+ties: 8113
+300/100000
+
+Best player stats vs random: wins: 6966, losses: 1835, ties: 1199
+
+wins: 52564
+losses: 29473
+ties: 7963
+301/100000
+
+Best player stats vs random: wins: 7211, losses: 1663, ties: 1126
+
+wins: 52410
+losses: 29586
+ties: 8004
+302/100000
+
+Best player stats vs random: wins: 7353, losses: 1567, ties: 1080
+
+wins: 52826
+losses: 27901
+ties: 9273
+303/100000
+
+Best player stats vs random: wins: 7233, losses: 1694, ties: 1073
+
+wins: 54138
+losses: 28616
+ties: 7246
+304/100000
+
+Best player stats vs random: wins: 7268, losses: 1577, ties: 1155
+
+wins: 56287
+losses: 26262
+ties: 7451
+305/100000
+
+Best player stats vs random: wins: 7197, losses: 1592, ties: 1211
+
+wins: 53676
+losses: 27651
+ties: 8673
+306/100000
+
+Best player stats vs random: wins: 7068, losses: 2121, ties: 811
+
+wins: 54121
+losses: 28865
+ties: 7014
+307/100000
+
+Best player stats vs random: wins: 7077, losses: 2075, ties: 848
+
+wins: 54146
+losses: 27560
+ties: 8294
+308/100000
+
+Best player stats vs random: wins: 6794, losses: 1929, ties: 1277
+
+wins: 54728
+losses: 28043
+ties: 7229
+309/100000
+
+Best player stats vs random: wins: 6625, losses: 1950, ties: 1425
+
+wins: 53172
+losses: 27621
+ties: 9207
+310/100000
+
+Best player stats vs random: wins: 7190, losses: 1870, ties: 940
+
+wins: 51226
+losses: 30312
+ties: 8462
+311/100000
+
+Best player stats vs random: wins: 7002, losses: 2167, ties: 831
+
+wins: 55187
+losses: 28439
+ties: 6374
+312/100000
+
+Best player stats vs random: wins: 6962, losses: 2230, ties: 808
+
+wins: 55868
+losses: 28136
+ties: 5996
+313/100000
+
+Best player stats vs random: wins: 6845, losses: 2268, ties: 887
+
+wins: 52569
+losses: 29269
+ties: 8162
+314/100000
+
+Best player stats vs random: wins: 6959, losses: 2185, ties: 856
+
+wins: 52256
+losses: 32292
+ties: 5452
+315/100000
+
+Best player stats vs random: wins: 6591, losses: 2452, ties: 957
+
+wins: 53326
+losses: 30065
+ties: 6609
+316/100000
+
+Best player stats vs random: wins: 6681, losses: 2409, ties: 910
+
+wins: 52002
+losses: 31544
+ties: 6454
+317/100000
+
+Best player stats vs random: wins: 6617, losses: 2456, ties: 927
+
+wins: 53373
+losses: 30057
+ties: 6570
+318/100000
+
+Best player stats vs random: wins: 6553, losses: 2535, ties: 912
+
+wins: 53520
+losses: 29184
+ties: 7296
+319/100000
+
+Best player stats vs random: wins: 5836, losses: 3128, ties: 1036
+
+wins: 54842
+losses: 27950
+ties: 7208
+320/100000
+
+Best player stats vs random: wins: 5864, losses: 2746, ties: 1390
+
+wins: 55547
+losses: 27914
+ties: 6539
+321/100000
+
+Best player stats vs random: wins: 5916, losses: 2751, ties: 1333
+
+wins: 52350
+losses: 30933
+ties: 6717
+322/100000
+
+Best player stats vs random: wins: 5792, losses: 3023, ties: 1185
+
+wins: 52178
+losses: 30361
+ties: 7461
+323/100000
+
+Best player stats vs random: wins: 5822, losses: 3065, ties: 1113
+
+wins: 52638
+losses: 28642
+ties: 8720
+324/100000
+
+Best player stats vs random: wins: 5835, losses: 2933, ties: 1232
+
+wins: 52409
+losses: 28321
+ties: 9270
+325/100000
+
+Best player stats vs random: wins: 5733, losses: 3150, ties: 1117
+
+wins: 51374
+losses: 31536
+ties: 7090
+326/100000
+
+Best player stats vs random: wins: 5770, losses: 3176, ties: 1054
+
+wins: 51738
+losses: 32843
+ties: 5419
+327/100000
+
+Best player stats vs random: wins: 6180, losses: 3001, ties: 819
+
+wins: 53545
+losses: 31543
+ties: 4912
+328/100000
+
+Best player stats vs random: wins: 6162, losses: 2822, ties: 1016
+
+wins: 51210
+losses: 31109
+ties: 7681
+329/100000
+
+Best player stats vs random: wins: 5986, losses: 2994, ties: 1020
+
+wins: 53863
+losses: 29187
+ties: 6950
+330/100000
+
+Best player stats vs random: wins: 6071, losses: 2978, ties: 951
+
+wins: 54434
+losses: 31197
+ties: 4369
+331/100000
+
+Best player stats vs random: wins: 6005, losses: 3042, ties: 953
+
+wins: 55638
+losses: 28355
+ties: 6007
+332/100000
+
+Best player stats vs random: wins: 6182, losses: 2551, ties: 1267
+
+wins: 54229
+losses: 28472
+ties: 7299
+333/100000
+
+Best player stats vs random: wins: 6463, losses: 2404, ties: 1133
+
+wins: 52150
+losses: 31584
+ties: 6266
+334/100000
+
+Best player stats vs random: wins: 6632, losses: 2278, ties: 1090
+
+wins: 49865
+losses: 32298
+ties: 7837
+335/100000
+
+Best player stats vs random: wins: 6421, losses: 2417, ties: 1162
+
+wins: 50502
+losses: 32570
+ties: 6928
+336/100000
+
+Best player stats vs random: wins: 6129, losses: 2597, ties: 1274
+
+wins: 51674
+losses: 31142
+ties: 7184
+337/100000
+
+Best player stats vs random: wins: 6036, losses: 2739, ties: 1225
+
+wins: 50918
+losses: 32649
+ties: 6433
+338/100000
+
+Best player stats vs random: wins: 6230, losses: 2512, ties: 1258
+
+wins: 49927
+losses: 32891
+ties: 7182
+339/100000
+
+Best player stats vs random: wins: 6208, losses: 2465, ties: 1327
+
+wins: 48220
+losses: 32931
+ties: 8849
+340/100000
+
+Best player stats vs random: wins: 6236, losses: 2459, ties: 1305
+
+wins: 51233
+losses: 30634
+ties: 8133
+341/100000
+
+Best player stats vs random: wins: 6262, losses: 2399, ties: 1339
+
+wins: 51910
+losses: 28960
+ties: 9130
+342/100000
+
+Best player stats vs random: wins: 6260, losses: 2511, ties: 1229
+
+wins: 53236
+losses: 26242
+ties: 10522
+343/100000
+
+Best player stats vs random: wins: 6399, losses: 2348, ties: 1253
+
+wins: 52932
+losses: 27798
+ties: 9270
+344/100000
+
+Best player stats vs random: wins: 6291, losses: 2542, ties: 1167
+
+wins: 52502
+losses: 27377
+ties: 10121
+345/100000
+
+Best player stats vs random: wins: 6341, losses: 2424, ties: 1235
+
+wins: 51680
+losses: 27266
+ties: 11054
+346/100000
+
+Best player stats vs random: wins: 6351, losses: 2464, ties: 1185
+
+wins: 51909
+losses: 26177
+ties: 11914
+347/100000
+
+Best player stats vs random: wins: 6563, losses: 2217, ties: 1220
+
+wins: 51331
+losses: 26257
+ties: 12412
+348/100000
+
+Best player stats vs random: wins: 6584, losses: 2551, ties: 865
+
+wins: 53237
+losses: 24877
+ties: 11886
+349/100000
+
+Best player stats vs random: wins: 6478, losses: 2657, ties: 865
+
+wins: 54140
+losses: 24791
+ties: 11069
+350/100000
+
+Best player stats vs random: wins: 6630, losses: 2579, ties: 791
+
+wins: 54538
+losses: 24432
+ties: 11030
+351/100000
+
+Best player stats vs random: wins: 6435, losses: 2727, ties: 838
+
+wins: 52412
+losses: 26197
+ties: 11391
+352/100000
+
+Best player stats vs random: wins: 6254, losses: 3029, ties: 717
+
+wins: 51468
+losses: 28167
+ties: 10365
+353/100000
+
+Best player stats vs random: wins: 6603, losses: 2772, ties: 625
+
+wins: 54448
+losses: 26755
+ties: 8797
+354/100000
+
+Best player stats vs random: wins: 6731, losses: 2790, ties: 479
+
+wins: 54049
+losses: 28490
+ties: 7461
+355/100000
+
+Best player stats vs random: wins: 6518, losses: 2992, ties: 490
+
+wins: 51490
+losses: 29284
+ties: 9226
+356/100000
+
+Best player stats vs random: wins: 6470, losses: 2982, ties: 548
+
+wins: 50597
+losses: 27378
+ties: 12025
+357/100000
+
+Best player stats vs random: wins: 6872, losses: 2554, ties: 574
+
+wins: 52946
+losses: 26732
+ties: 10322
+358/100000
+
+Best player stats vs random: wins: 6687, losses: 2541, ties: 772
+
+wins: 53915
+losses: 24974
+ties: 11111
+359/100000
+
+Best player stats vs random: wins: 6684, losses: 2557, ties: 759
+
+wins: 55546
+losses: 24826
+ties: 9628
+360/100000
+
+Best player stats vs random: wins: 6394, losses: 2720, ties: 886
+
+wins: 51236
+losses: 26796
+ties: 11968
+361/100000
+
+Best player stats vs random: wins: 6654, losses: 2602, ties: 744
+
+wins: 52096
+losses: 27121
+ties: 10783
+362/100000
+
+Best player stats vs random: wins: 6747, losses: 2494, ties: 759
+
+wins: 50513
+losses: 27913
+ties: 11574
+363/100000
+
+Best player stats vs random: wins: 6658, losses: 2593, ties: 749
+
+wins: 50327
+losses: 27686
+ties: 11987
+364/100000
+
+Best player stats vs random: wins: 6336, losses: 2900, ties: 764
+
+wins: 51245
+losses: 27927
+ties: 10828
+365/100000
+
+Best player stats vs random: wins: 6471, losses: 2827, ties: 702
+
+wins: 52751
+losses: 25526
+ties: 11723
+366/100000
+
+Best player stats vs random: wins: 6545, losses: 2688, ties: 767
+
+wins: 52558
+losses: 26563
+ties: 10879
+367/100000
+
+Best player stats vs random: wins: 6609, losses: 2814, ties: 577
+
+wins: 51746
+losses: 27250
+ties: 11004
+368/100000
+
+Best player stats vs random: wins: 6849, losses: 2485, ties: 666
+
+wins: 53771
+losses: 26024
+ties: 10205
+369/100000
+
+Best player stats vs random: wins: 7009, losses: 2308, ties: 683
+
+wins: 53266
+losses: 26745
+ties: 9989
+370/100000
+
+Best player stats vs random: wins: 7601, losses: 1912, ties: 487
+
+wins: 55407
+losses: 26293
+ties: 8300
+371/100000
+
+Best player stats vs random: wins: 7835, losses: 1667, ties: 498
+
+wins: 52714
+losses: 27110
+ties: 10176
+372/100000
+
+Best player stats vs random: wins: 7863, losses: 1626, ties: 511
+
+wins: 53640
+losses: 26013
+ties: 10347
+373/100000
+
+Best player stats vs random: wins: 8035, losses: 1493, ties: 472
+
+wins: 53152
+losses: 29167
+ties: 7681
+374/100000
+
+Best player stats vs random: wins: 7936, losses: 1605, ties: 459
+
+wins: 53825
+losses: 26720
+ties: 9455
+375/100000
+
+Best player stats vs random: wins: 7867, losses: 1683, ties: 450
+
+wins: 53752
+losses: 27260
+ties: 8988
+376/100000
+
+Best player stats vs random: wins: 7906, losses: 1683, ties: 411
+
+wins: 54652
+losses: 27703
+ties: 7645
+377/100000
+
+Best player stats vs random: wins: 7938, losses: 1616, ties: 446
+
+wins: 54040
+losses: 27492
+ties: 8468
+378/100000
+
+Best player stats vs random: wins: 7963, losses: 1607, ties: 430
+
+wins: 52668
+losses: 27239
+ties: 10093
+379/100000
+
+Best player stats vs random: wins: 7918, losses: 1676, ties: 406
+
+wins: 53750
+losses: 26531
+ties: 9719
+380/100000
+
+Best player stats vs random: wins: 7689, losses: 1714, ties: 597
+
+wins: 54341
+losses: 25540
+ties: 10119
+381/100000
+
+Best player stats vs random: wins: 7669, losses: 1809, ties: 522
+
+wins: 56236
+losses: 24372
+ties: 9392
+382/100000
+
+Best player stats vs random: wins: 7824, losses: 1708, ties: 468
+
+wins: 56492
+losses: 25760
+ties: 7748
+383/100000
+
+Best player stats vs random: wins: 7672, losses: 1837, ties: 491
+
+wins: 55176
+losses: 26587
+ties: 8237
+384/100000
+
+Best player stats vs random: wins: 7795, losses: 1782, ties: 423
+
+wins: 59164
+losses: 23794
+ties: 7042
+385/100000
+
+Best player stats vs random: wins: 7828, losses: 1760, ties: 412
+
+wins: 58823
+losses: 23440
+ties: 7737
+386/100000
+
+Best player stats vs random: wins: 7837, losses: 1748, ties: 415
+
+wins: 57580
+losses: 25000
+ties: 7420
+387/100000
+
+Best player stats vs random: wins: 7424, losses: 2043, ties: 533
+
+wins: 56882
+losses: 25412
+ties: 7706
+388/100000
+
+Best player stats vs random: wins: 7590, losses: 1770, ties: 640
+
+wins: 55551
+losses: 26847
+ties: 7602
+389/100000
+
+Best player stats vs random: wins: 7530, losses: 1948, ties: 522
+
+wins: 56177
+losses: 24356
+ties: 9467
+390/100000
+
+Best player stats vs random: wins: 7498, losses: 2019, ties: 483
+
+wins: 57340
+losses: 23714
+ties: 8946
+391/100000
+
+Best player stats vs random: wins: 7588, losses: 1944, ties: 468
+
+wins: 57381
+losses: 25583
+ties: 7036
+392/100000
+
+Best player stats vs random: wins: 7751, losses: 1882, ties: 367
+
+wins: 55880
+losses: 25507
+ties: 8613
+393/100000
+
+Best player stats vs random: wins: 7839, losses: 1791, ties: 370
+
+wins: 56393
+losses: 25913
+ties: 7694
+394/100000
+
+Best player stats vs random: wins: 7782, losses: 1848, ties: 370
+
+wins: 57729
+losses: 23758
+ties: 8513
+395/100000
+
+Best player stats vs random: wins: 8013, losses: 1568, ties: 419
+
+wins: 56868
+losses: 24770
+ties: 8362
+396/100000
+
+Best player stats vs random: wins: 7863, losses: 1545, ties: 592
+
+wins: 54976
+losses: 26805
+ties: 8219
+397/100000
+
+Best player stats vs random: wins: 7872, losses: 1727, ties: 401
+
+wins: 54636
+losses: 27368
+ties: 7996
+398/100000
+
+Best player stats vs random: wins: 7831, losses: 1729, ties: 440
+
+wins: 55955
+losses: 25119
+ties: 8926
+399/100000
+
+Best player stats vs random: wins: 7809, losses: 1710, ties: 481
+
+wins: 57080
+losses: 25425
+ties: 7495
+400/100000
+
+Best player stats vs random: wins: 8217, losses: 1364, ties: 419
+
+wins: 57008
+losses: 25506
+ties: 7486
+401/100000
+
+Best player stats vs random: wins: 8130, losses: 1404, ties: 466
+
+wins: 56232
+losses: 24807
+ties: 8961
+402/100000
+
+Best player stats vs random: wins: 8094, losses: 1427, ties: 479
+
+wins: 55153
+losses: 28078
+ties: 6769
+403/100000
+
+Best player stats vs random: wins: 8070, losses: 1425, ties: 505
+
+wins: 53755
+losses: 28896
+ties: 7349
+404/100000
+
+Best player stats vs random: wins: 8480, losses: 1071, ties: 449
+
+wins: 55073
+losses: 29232
+ties: 5695
+405/100000
+
+Best player stats vs random: wins: 8302, losses: 1213, ties: 485
+
+wins: 54984
+losses: 28072
+ties: 6944
+406/100000
+
+Best player stats vs random: wins: 8372, losses: 1140, ties: 488
+
+wins: 55069
+losses: 26151
+ties: 8780
+407/100000
+
+Best player stats vs random: wins: 8449, losses: 1151, ties: 400
+
+wins: 56565
+losses: 26029
+ties: 7406
+408/100000
+
+Best player stats vs random: wins: 8468, losses: 1086, ties: 446
+
+wins: 57111
+losses: 23452
+ties: 9437
+409/100000
+
+Best player stats vs random: wins: 8436, losses: 1196, ties: 368
+
+wins: 59104
+losses: 23488
+ties: 7408
+410/100000
+
+Best player stats vs random: wins: 8400, losses: 1201, ties: 399
+
+wins: 57722
+losses: 25031
+ties: 7247
+411/100000
+
+Best player stats vs random: wins: 8416, losses: 1185, ties: 399
+
+wins: 56964
+losses: 24628
+ties: 8408
+412/100000
+
+Best player stats vs random: wins: 8432, losses: 1203, ties: 365
+
+wins: 56598
+losses: 25705
+ties: 7697
+413/100000
+
+Best player stats vs random: wins: 8450, losses: 1198, ties: 352
+
+wins: 56240
+losses: 26587
+ties: 7173
+414/100000
+
+Best player stats vs random: wins: 8415, losses: 1234, ties: 351
+
+wins: 56394
+losses: 26097
+ties: 7509
+415/100000
+
+Best player stats vs random: wins: 8410, losses: 1271, ties: 319
+
+wins: 60236
+losses: 23785
+ties: 5979
+416/100000
+
+Best player stats vs random: wins: 8025, losses: 1640, ties: 335
+
+wins: 57928
+losses: 25039
+ties: 7033
+417/100000
+
+Best player stats vs random: wins: 8069, losses: 1489, ties: 442
+
+wins: 58773
+losses: 24091
+ties: 7136
+418/100000
+
+Best player stats vs random: wins: 8509, losses: 1172, ties: 319
+
+wins: 57555
+losses: 25471
+ties: 6974
+419/100000
+
+Best player stats vs random: wins: 8499, losses: 1154, ties: 347
+
+wins: 59997
+losses: 23971
+ties: 6032
+420/100000
+
+Best player stats vs random: wins: 8679, losses: 903, ties: 418
+
+wins: 56716
+losses: 27395
+ties: 5889
+421/100000
+
+Best player stats vs random: wins: 8463, losses: 1125, ties: 412
+
+wins: 57094
+losses: 26779
+ties: 6127
+422/100000
+
+Best player stats vs random: wins: 8404, losses: 1178, ties: 418
+
+wins: 56547
+losses: 27335
+ties: 6118
+423/100000
+
+Best player stats vs random: wins: 8375, losses: 1221, ties: 404
+
+wins: 53594
+losses: 29294
+ties: 7112
+424/100000
+
+Best player stats vs random: wins: 8565, losses: 1102, ties: 333
+
+wins: 54435
+losses: 28402
+ties: 7163
+425/100000
+
+Best player stats vs random: wins: 8589, losses: 910, ties: 501
+
+wins: 53527
+losses: 29546
+ties: 6927
+426/100000
+
+Best player stats vs random: wins: 8567, losses: 897, ties: 536
+
+wins: 53097
+losses: 31691
+ties: 5212
+427/100000
+
+Best player stats vs random: wins: 8511, losses: 925, ties: 564
+
+wins: 53846
+losses: 30889
+ties: 5265
+428/100000
+
+Best player stats vs random: wins: 8498, losses: 956, ties: 546
+
+wins: 52392
+losses: 31011
+ties: 6597
+429/100000
+
+Best player stats vs random: wins: 8638, losses: 774, ties: 588
+
+wins: 52568
+losses: 31364
+ties: 6068
+430/100000
+
+Best player stats vs random: wins: 8676, losses: 968, ties: 356
+
+wins: 52975
+losses: 31092
+ties: 5933
+431/100000
+
+Best player stats vs random: wins: 8580, losses: 1007, ties: 413
+
+wins: 52447
+losses: 31423
+ties: 6130
+432/100000
+
+Best player stats vs random: wins: 8551, losses: 934, ties: 515
+
+wins: 55736
+losses: 29595
+ties: 4669
+433/100000
+
+Best player stats vs random: wins: 8660, losses: 769, ties: 571
+
+wins: 56974
+losses: 29395
+ties: 3631
+434/100000
+
+Best player stats vs random: wins: 8714, losses: 771, ties: 515
+
+wins: 54645
+losses: 30647
+ties: 4708
+435/100000
+
+Best player stats vs random: wins: 8627, losses: 729, ties: 644
+
+wins: 53451
+losses: 30366
+ties: 6183
+436/100000
+
+Best player stats vs random: wins: 8670, losses: 810, ties: 520
+
+wins: 53255
+losses: 30168
+ties: 6577
+437/100000
+
+Best player stats vs random: wins: 8649, losses: 462, ties: 889
+
+wins: 53495
+losses: 28560
+ties: 7945
+438/100000
+
+Best player stats vs random: wins: 8537, losses: 594, ties: 869
+
+wins: 53558
+losses: 28246
+ties: 8196
+439/100000
+
+Best player stats vs random: wins: 8653, losses: 502, ties: 845
+
+wins: 51524
+losses: 29901
+ties: 8575
+440/100000
+
+Best player stats vs random: wins: 8519, losses: 598, ties: 883
+
+wins: 53370
+losses: 29553
+ties: 7077
+441/100000
+
+Best player stats vs random: wins: 8467, losses: 584, ties: 949
+
+wins: 53347
+losses: 30677
+ties: 5976
+442/100000
+
+Best player stats vs random: wins: 8425, losses: 644, ties: 931
+
+wins: 54780
+losses: 27600
+ties: 7620
+443/100000
+
+Best player stats vs random: wins: 8234, losses: 910, ties: 856
+
+wins: 53401
+losses: 29885
+ties: 6714
+444/100000
+
+Best player stats vs random: wins: 8398, losses: 726, ties: 876
+
+wins: 52914
+losses: 29096
+ties: 7990
+445/100000
+
+Best player stats vs random: wins: 8304, losses: 758, ties: 938
+
+wins: 53863
+losses: 28251
+ties: 7886
+446/100000
+
+Best player stats vs random: wins: 8277, losses: 710, ties: 1013
+
+wins: 53894
+losses: 26460
+ties: 9646
+447/100000
+
+Best player stats vs random: wins: 8247, losses: 729, ties: 1024
+
+wins: 52189
+losses: 28706
+ties: 9105
+448/100000
+
+Best player stats vs random: wins: 7981, losses: 1037, ties: 982
+
+wins: 53525
+losses: 29502
+ties: 6973
+449/100000
+
+Best player stats vs random: wins: 7407, losses: 1369, ties: 1224
+
+wins: 54019
+losses: 27451
+ties: 8530
+450/100000
+
+Best player stats vs random: wins: 7441, losses: 1348, ties: 1211
+
+wins: 52022
+losses: 27768
+ties: 10210
+451/100000
+
+Best player stats vs random: wins: 7026, losses: 1745, ties: 1229
+
+wins: 52437
+losses: 25716
+ties: 11847
+452/100000
+
+Best player stats vs random: wins: 7583, losses: 1157, ties: 1260
+
+wins: 51177
+losses: 25034
+ties: 13789
+453/100000
+
+Best player stats vs random: wins: 7645, losses: 1144, ties: 1211
+
+wins: 50259
+losses: 27981
+ties: 11760
+454/100000
+
+Best player stats vs random: wins: 7563, losses: 1208, ties: 1229
+
+wins: 54863
+losses: 25217
+ties: 9920
+455/100000
+
+Best player stats vs random: wins: 7841, losses: 1122, ties: 1037
+
+wins: 50392
+losses: 31902
+ties: 7706
+456/100000
+
+Best player stats vs random: wins: 7644, losses: 1208, ties: 1148
+
+wins: 53300
+losses: 28061
+ties: 8639
+457/100000
+
+Best player stats vs random: wins: 7252, losses: 1556, ties: 1192
+
+wins: 52362
+losses: 27978
+ties: 9660
+458/100000
+
+Best player stats vs random: wins: 7638, losses: 1343, ties: 1019
+
+wins: 51554
+losses: 31145
+ties: 7301
+459/100000
+
+Best player stats vs random: wins: 7230, losses: 1519, ties: 1251
+
+wins: 49370
+losses: 29100
+ties: 11530
+460/100000
+
+Best player stats vs random: wins: 7232, losses: 1522, ties: 1246
+
+wins: 49999
+losses: 28686
+ties: 11315
+461/100000
+
+Best player stats vs random: wins: 7327, losses: 1466, ties: 1207
+
+wins: 49618
+losses: 27582
+ties: 12800
+462/100000
+
+Best player stats vs random: wins: 7350, losses: 1476, ties: 1174
+
+wins: 48806
+losses: 29765
+ties: 11429
+463/100000
+
+Best player stats vs random: wins: 7877, losses: 1069, ties: 1054
+
+wins: 48360
+losses: 29569
+ties: 12071
+464/100000
+
+Best player stats vs random: wins: 7303, losses: 1311, ties: 1386
+
+wins: 49813
+losses: 29197
+ties: 10990
+465/100000
+
+Best player stats vs random: wins: 7339, losses: 1286, ties: 1375
+
+wins: 50755
+losses: 28707
+ties: 10538
+466/100000
+
+Best player stats vs random: wins: 7333, losses: 1294, ties: 1373
+
+wins: 46806
+losses: 30658
+ties: 12536
+467/100000
+
+Best player stats vs random: wins: 7302, losses: 1271, ties: 1427
+
+wins: 50676
+losses: 27931
+ties: 11393
+468/100000
+
+Best player stats vs random: wins: 7295, losses: 1291, ties: 1414
+
+wins: 48612
+losses: 28927
+ties: 12461
+469/100000
+
+Best player stats vs random: wins: 7379, losses: 1232, ties: 1389
+
+wins: 48777
+losses: 31311
+ties: 9912
+470/100000
+
+Best player stats vs random: wins: 7386, losses: 1171, ties: 1443
+
+wins: 52980
+losses: 27790
+ties: 9230
+471/100000
+
+Best player stats vs random: wins: 7355, losses: 1243, ties: 1402
+
+wins: 52436
+losses: 27616
+ties: 9948
+472/100000
+
+Best player stats vs random: wins: 7340, losses: 1228, ties: 1432
+
+wins: 52401
+losses: 26675
+ties: 10924
+473/100000
+
+Best player stats vs random: wins: 7464, losses: 1117, ties: 1419
+
+wins: 52765
+losses: 26781
+ties: 10454
+474/100000
+
+Best player stats vs random: wins: 8291, losses: 589, ties: 1120
+
+wins: 52563
+losses: 26947
+ties: 10490
+475/100000
+
+Best player stats vs random: wins: 8084, losses: 737, ties: 1179
+
+wins: 52234
+losses: 26705
+ties: 11061
+476/100000
+
+Best player stats vs random: wins: 8226, losses: 699, ties: 1075
+
+wins: 51305
+losses: 29080
+ties: 9615
+477/100000
+
+Best player stats vs random: wins: 8185, losses: 747, ties: 1068
+
+wins: 52023
+losses: 28114
+ties: 9863
+478/100000
+
+Best player stats vs random: wins: 8149, losses: 802, ties: 1049
+
+wins: 54595
+losses: 25683
+ties: 9722
+479/100000
+
+Best player stats vs random: wins: 8134, losses: 822, ties: 1044
+
+wins: 53888
+losses: 27439
+ties: 8673
+480/100000
+
+Best player stats vs random: wins: 8156, losses: 745, ties: 1099
+
+wins: 53120
+losses: 27097
+ties: 9783
+481/100000
+
+Best player stats vs random: wins: 8033, losses: 827, ties: 1140
+
+wins: 56300
+losses: 25948
+ties: 7752
+482/100000
+
+Best player stats vs random: wins: 8082, losses: 787, ties: 1131
+
+wins: 54490
+losses: 24240
+ties: 11270
+483/100000
+
+Best player stats vs random: wins: 8091, losses: 794, ties: 1115
+
+wins: 56221
+losses: 22672
+ties: 11107
+484/100000
+
+Best player stats vs random: wins: 8128, losses: 809, ties: 1063
+
+wins: 56591
+losses: 22985
+ties: 10424
+485/100000
+
+Best player stats vs random: wins: 8131, losses: 794, ties: 1075
+
+wins: 57549
+losses: 24163
+ties: 8288
+486/100000
+
+Best player stats vs random: wins: 8042, losses: 831, ties: 1127
+
+wins: 53967
+losses: 25629
+ties: 10404
+487/100000
+
+Best player stats vs random: wins: 8073, losses: 826, ties: 1101
+
+wins: 54092
+losses: 25455
+ties: 10453
+488/100000
+
+Best player stats vs random: wins: 8021, losses: 845, ties: 1134
+
+wins: 54744
+losses: 24464
+ties: 10792
+489/100000
+
+Best player stats vs random: wins: 8148, losses: 785, ties: 1067
+
+wins: 58230
+losses: 23729
+ties: 8041
+490/100000
+
+Best player stats vs random: wins: 8149, losses: 795, ties: 1056
+
+wins: 55411
+losses: 23760
+ties: 10829
+491/100000
+
+Best player stats vs random: wins: 8078, losses: 836, ties: 1086
+
+wins: 53974
+losses: 24402
+ties: 11624
+492/100000
+
+Best player stats vs random: wins: 8097, losses: 803, ties: 1100
+
+wins: 55859
+losses: 24924
+ties: 9217
+493/100000
+
+Best player stats vs random: wins: 8196, losses: 723, ties: 1081
+
+wins: 55905
+losses: 23995
+ties: 10100
+494/100000
+
+Best player stats vs random: wins: 8158, losses: 743, ties: 1099
+

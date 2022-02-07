@@ -66,7 +66,7 @@ namespace TicTacToeAI
             else
                 newMutability--;
             if (newMutability < 0) newMutability = 1;
-            if (newMutability > 20) newMutability = 20;
+            if (newMutability > 200) newMutability = 200;
 
             TicTacToeAI newAi = new TicTacToeAI(newBrain, newMutability);
             return newAi;

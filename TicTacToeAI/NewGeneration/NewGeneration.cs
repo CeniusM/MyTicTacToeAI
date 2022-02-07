@@ -73,15 +73,13 @@ namespace TicTacToeAI
 
             for (int i = 0; i < bestPlayers.Count; i++)
             {
-                
+                players.Add(bestPlayers[i]);
             }
-
-            players.Add(players[GetWinner(players)]);
 
             return players;
         }
 
-        private static int GetWinner(List<TicTacToeAI> players)
+        public static int GetWinner(List<TicTacToeAI> players)
         {
             int index = 0;
             int minValue = int.MinValue;

@@ -2,6 +2,7 @@ namespace TicTacToeAI.MyMath
 {
     class Highest
     {
+        private static Random rnd = new Random();
         public static int GetHighestValue(int[] arr) // returns the index for the heighst value
         {
             int index = 0;
@@ -20,19 +21,24 @@ namespace TicTacToeAI.MyMath
         }
         public static int GetHighestValue(float[] arr) // returns the index for the heighst value
         {
-            int index = 0;
+            List<int> index = new List<int>();
             float value = float.MinValue;
 
             for (int i = 0; i < arr.Length; i++)
             {
                 if (arr[i] > value)
                 {
-                    index = i;
+                    index = new List<int>();
+                    index.Add(i);
                     value = arr[i];
+                }
+                else if (arr[i] == value)
+                {
+                    index.Add(i);
                 }
             }
 
-            return index;
+            return index[rnd.Next(0, index.Count)];
         }
     }
 }
