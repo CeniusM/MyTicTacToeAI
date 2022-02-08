@@ -5,7 +5,7 @@ namespace TicTacToeAI
     class TicTacToeAI
     {
         public int fitness = 0;
-        public const int chance = 50;
+        public const int chance = 10;
         private Random _rnd = new Random();
         public AIBrain brain;
         public int mutability = 10;
@@ -51,7 +51,7 @@ namespace TicTacToeAI
             else
                 mutability--;
             if (mutability < 0) mutability = 1;
-            if (mutability > 20) mutability = 20;
+            if (mutability > 200) mutability = 200;
         }
 
         public TicTacToeAI GiveBirth()
@@ -65,7 +65,7 @@ namespace TicTacToeAI
                 newMutability++;
             else
                 newMutability--;
-            if (newMutability < 0) newMutability = 1;
+            if (newMutability < 1) newMutability = 1;
             if (newMutability > 200) newMutability = 200;
 
             TicTacToeAI newAi = new TicTacToeAI(newBrain, newMutability);

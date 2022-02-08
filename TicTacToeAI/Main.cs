@@ -1,7 +1,7 @@
 /*
 To-do List:
 
-implement multi threading
+implement multi threading *sorta done
 implement a good! saving and loading sytem
 implement a good way to see the improvement of the best player
 */
@@ -13,14 +13,14 @@ namespace TicTacToeAI
     class Main
     {
         public NetworkPrinter _networkPrinter;
-        public TTT_Turnament TTTturnament;
+        public TTT_TurnamentT TTTturnament;
         public bool _isRunning = false;
         private bool _isPrinting = false;
         public Form1 form;
         public Main(Form1 form)
         {
             this.form = form;
-            TTTturnament = new TTT_Turnament(300, 100000, 4);
+            TTTturnament = new TTT_TurnamentT(200, 100000, 10);
             _networkPrinter = new NetworkPrinter(this.form);
 
             TTTturnament.genarationDone += PrintWinner;
@@ -46,6 +46,15 @@ namespace TicTacToeAI
 
         }
 
-        public void Stop() { TTTturnament.Stop(); _isRunning = false; }
+        public void Stop()
+        {
+            TTTturnament.Stop(); _isRunning = false;
+
+            // save the players
+            IO.Save.SaveAI(TTTturnament.winners[TTTturnament.winners.Count-1]); // just the best player for now
+
+
+            // also make it so it takes the data from Console and gets it into a new txt called log + what ever the last one was +1
+        }
     }
 }

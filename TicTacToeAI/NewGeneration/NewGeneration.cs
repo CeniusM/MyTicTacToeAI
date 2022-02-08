@@ -35,6 +35,8 @@ namespace TicTacToeAI
 
             players.Add(Winner);
 
+            ResetFitnessValue(players);
+
             return players;
         }
 
@@ -76,7 +78,17 @@ namespace TicTacToeAI
                 players.Add(bestPlayers[i]);
             }
 
+            ResetFitnessValue(players);
+
             return players;
+        }
+
+        public static void ResetFitnessValue(List<TicTacToeAI> players)
+        {
+            foreach (TicTacToeAI player in players)
+            {
+                player.fitness = 0;
+            }
         }
 
         public static int GetWinner(List<TicTacToeAI> players)

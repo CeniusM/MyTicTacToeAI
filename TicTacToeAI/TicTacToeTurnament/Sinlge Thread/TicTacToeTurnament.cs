@@ -11,7 +11,7 @@ namespace TicTacToeAI
         public event EventHandler? genarationDone;
         private int generationAmount;
         private int playerAmount;
-        public TTT_Turnament(int players, int generations, int threads)
+        public TTT_Turnament(int players, int generations, int threads) // threads not used
         {
             generationAmount = generations;
             playerAmount = players;
@@ -20,7 +20,7 @@ namespace TicTacToeAI
                 _players.Add(new TicTacToeAI());
             }
         }
-        public TTT_Turnament(List<TicTacToeAI> players, int generations, int threads)
+        public TTT_Turnament(List<TicTacToeAI> players, int generations, int threads) // threads not used
         {
             generationAmount = generations;
             playerAmount = players.Count;

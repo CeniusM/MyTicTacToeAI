@@ -1,0 +1,22 @@
+1.
+not reseting the hiddenlayers after each simulation
+
+2.
+not reseting the fitness value for the best players after a new geneartion
+
+3.
+when ever a weight became under -1 it just got set to 1???
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+...

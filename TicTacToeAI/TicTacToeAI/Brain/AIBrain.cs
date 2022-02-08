@@ -34,7 +34,7 @@ namespace TicTacToeAI
         {
             for (int i = 0; i < mutability; i++)
             {
-                if (rnd.Next(0, chance + 1) != 0) continue;
+                // if (rnd.Next(0, chance + 1) != 0) continue; // disabled for now for faster mutations
 
                 int x = rnd.Next(0, 9);
                 int y = rnd.Next(0, 9);
@@ -56,8 +56,8 @@ namespace TicTacToeAI
 
             wValue += value;
 
-            if (wValue > 1) wValue *= 0.9f;
-            if (wValue > -1) wValue *= 0.9f;
+            if (wValue > 1) wValue = 1;
+            if (wValue < -1) wValue = -1;
 
             return wValue;
         }
@@ -65,6 +65,8 @@ namespace TicTacToeAI
         public float[] RunSim(float[] input) // needs to be optimised, alooot, maby use the grapichs card ;) with the multi kernel stuff
         {
             float[] output = new float[9];
+            h1 = new float[9];
+            h2 = new float[9];
 
             for (int i = 0; i < 9; i++) // h1
             {
@@ -111,9 +113,9 @@ namespace TicTacToeAI
             {
                 for (int j = 0; j < 9; j++)
                 {
-                    if (rnd.Next(0, chance + 1) != 0) continue;
+                    // if (rnd.Next(0, chance + 1) != 0) continue;
 
-                    float value = rnd.NextSingle();
+                    float value = rnd.NextSingle() / 2;
                     if (rnd.Next(0, 2) == 1)
                         value *= -1;
                     w[i, j] = value;

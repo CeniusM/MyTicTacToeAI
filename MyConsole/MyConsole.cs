@@ -2,7 +2,7 @@ namespace CS_MyConsole
 {
     class MyConsole
     {
-        private static string _path = @"C:\GitHub\MyTicTacToeAI\MyConsole\Console.txt";
+        private static string _path = @"MyConsole\Console.txt";
         public static void WriteLine(string text)
         {
             List<string> lines = new List<string>();
