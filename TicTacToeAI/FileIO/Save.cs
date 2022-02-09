@@ -8,9 +8,13 @@ namespace TicTacToeAI.IO
         public static void SaveAI(TicTacToeAI aI)
         {
             string newPath = SaveFolder + GetFileNameToSave();
-            var x = JsonSerializer.Serialize(aI);
+
+            var options = new JsonSerializerOptions { IncludeFields = true };
+            var x = JsonSerializer.Serialize(aI, options);
+
             List<string> lines = new List<string>();
             lines.Add(x);
+
             File.WriteAllLines(newPath, lines);
         }
 

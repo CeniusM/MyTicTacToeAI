@@ -8,7 +8,7 @@ namespace TicTacToeAI.IO
         public int mutability = 10;
 
         // the brain
-        public float[,] w1;
+        public float[,] w1; // make it into a not 2d array cause json serelizeingenwjirgbiwe dosent wanna work :(, unless you use Newtonsoft.Json, but to hard ;D
         public float[] h1 = new float[9];
         public float[,] w2;
         public float[] h2 = new float[9];
