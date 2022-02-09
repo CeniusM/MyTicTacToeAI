@@ -1,9 +1,10 @@
 /*
 To-do List:
 
-implement multi threading *sorta done
 implement a good! saving and loading sytem
 implement a good way to see the improvement of the best player
+improve the newGeneartion methods
+
 */
 using AIGUI;
 using winForm;
@@ -43,7 +44,15 @@ namespace TicTacToeAI
 
         private void KeyPress(object? sender, KeyPressEventArgs e)
         {
-
+            return; // the code dosent work :D
+            if (e.KeyChar == 'w')
+            {
+                TTTturnament.SetThreadAmout(TTTturnament.threadAmount + 1);
+            }
+            else if (e.KeyChar == 's')
+            {
+                TTTturnament.SetThreadAmout(TTTturnament.threadAmount - 1);
+            }
         }
 
         public void Stop()
@@ -51,7 +60,7 @@ namespace TicTacToeAI
             TTTturnament.Stop(); _isRunning = false;
 
             // save the players
-            IO.Save.SaveAI(TTTturnament.winners[TTTturnament.winners.Count-1]); // just the best player for now
+            IO.Save.SaveAI(TTTturnament.winners[TTTturnament.winners.Count - 1]); // just the best player for now
 
 
             // also make it so it takes the data from Console and gets it into a new txt called log + what ever the last one was +1

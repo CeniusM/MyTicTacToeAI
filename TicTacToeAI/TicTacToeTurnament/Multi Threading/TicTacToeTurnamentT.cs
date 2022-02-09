@@ -11,7 +11,7 @@ namespace TicTacToeAI
         public List<TicTacToeAI> _players = new List<TicTacToeAI>();
         private int generationAmount;
         private int playerAmount;
-        private int threadAmount;
+        public int threadAmount { get; private set; }
         public TTT_TurnamentT(int players, int generations, int threads) // the players is the amount of players per thread
         {
             generationAmount = generations;
@@ -51,10 +51,11 @@ namespace TicTacToeAI
         public void RunNewGeneration()
         {
             List<TTT_TurnamentTGame> games = new List<TTT_TurnamentTGame>();
+            int thisGameThreadAmout = threadAmount;
 
-            int playersPerGame = _players.Count / threadAmount; // isent 100% curreckt
+            int playersPerGame = _players.Count / thisGameThreadAmout; // isent 100% curreckt
 
-            for (int i = 0; i < threadAmount; i++)
+            for (int i = 0; i < thisGameThreadAmout; i++)
             {
                 List<TicTacToeAI> playerList = new List<TicTacToeAI>();
 
@@ -66,7 +67,7 @@ namespace TicTacToeAI
                 games.Add(new TTT_TurnamentTGame(playerList, turnyStats));
             }
 
-            for (int i = 0; i < threadAmount; i++)
+            for (int i = 0; i < thisGameThreadAmout; i++)
             {
                 if (!games[i].isDone)
                 {
@@ -97,6 +98,12 @@ namespace TicTacToeAI
 
             turnyStats = new TurnamentStats();
             CS_MyConsole.MyConsole.WriteLine(Data);
+        }
+        public void SetThreadAmout(int x)
+        {
+            if (x > 10) x = 10;
+            else if (x < 1) x = 1;
+            threadAmount = x;
         }
         public void Start() => _isRunning = true;
         public void Stop() => _isRunning = false;
@@ -146,11 +153,13 @@ namespace TicTacToeAI
             if (tttGame.winner == 1) // havent figured out the values
             {
                 AI1.fitness += 7;
+                AI2.fitness -= 7;
                 turnyStats.player1wins++;
             }
             else if (tttGame.winner == 2)
             {
                 AI2.fitness += 9;
+                AI1.fitness -= 9;
                 turnyStats.player2wins++;
             }
             else
