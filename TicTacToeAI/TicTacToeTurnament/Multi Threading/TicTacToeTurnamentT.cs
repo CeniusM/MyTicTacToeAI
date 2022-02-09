@@ -51,9 +51,13 @@ namespace TicTacToeAI
         public void RunNewGeneration()
         {
             List<TTT_TurnamentTGame> games = new List<TTT_TurnamentTGame>();
+
             int thisGameThreadAmout = threadAmount;
 
             int playersPerGame = _players.Count / thisGameThreadAmout; // isent 100% curreckt
+
+            //     string Data = CS_MyConsole.MyStopwatch.Measure(() =>
+            //   {
 
             for (int i = 0; i < thisGameThreadAmout; i++)
             {
@@ -66,7 +70,11 @@ namespace TicTacToeAI
 
                 games.Add(new TTT_TurnamentTGame(playerList, turnyStats));
             }
+            //   }); Data += "<-- is starting the threads \n";
 
+
+            //     Data += CS_MyConsole.MyStopwatch.Measure(() =>
+            // {
             for (int i = 0; i < thisGameThreadAmout; i++)
             {
                 if (!games[i].isDone)
@@ -75,6 +83,9 @@ namespace TicTacToeAI
                     Thread.Sleep(100); // not sure about the amount
                 }
             }
+            // }); Data += "<-- is the actul ai sim";
+
+            // CS_MyConsole.MyConsole.WriteLine(Data);
 
             winners.Add(_players[Generations.GetWinner(_players)]);
             _players = Generations.NewGenerationV2(_players, 10); // still being teseted
