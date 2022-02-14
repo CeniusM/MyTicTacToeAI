@@ -66,7 +66,8 @@ namespace TicTacToeAI
             }
 
             winners.Add(_players[Generations.GetWinner(_players)]);
-            _players = Generations.NewGenerationV2(_players, 10); // still being teseted
+            // _players = Generations.NewGenerationV2(_players, 10); // still being teseted
+            _players = Generations.NewGenerationV3(_players);
 
             // _players = Generations.NewGeneration(_players);
             // winners.Add(_players[_players.Count - 1]);

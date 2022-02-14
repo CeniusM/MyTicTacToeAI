@@ -83,6 +83,41 @@ namespace TicTacToeAI
             return players;
         }
 
+        public static List<TicTacToeAI> NewGenerationV3(List<TicTacToeAI> players)
+        {
+            int playerAmount = players.Count;
+
+            int player = playerAmount;
+
+            for (int i = 0; i < player; i++)
+            {
+                if (players[i].fitness < 0)
+                {
+                    players.RemoveAt(i);
+                    player--;
+                }
+            }
+
+            for (int i = players.Count; i < playerAmount; i++)
+            {
+                if (rnd.Next(0, 4) != 1)
+                {
+                    players.Add(players[rnd.Next(0, players.Count)].GiveBirth());
+                }
+                else
+                {
+                    players.Add(new TicTacToeAI());
+                    players[players.Count - 1].Mutate();
+                }
+            }
+
+            ResetFitnessValue(players);
+
+            // CS_MyConsole.MyConsole.WriteLine(players.Count + "/" + playerAmount);
+
+            return players;
+        }
+
         public static void ResetFitnessValue(List<TicTacToeAI> players)
         {
             foreach (TicTacToeAI player in players)

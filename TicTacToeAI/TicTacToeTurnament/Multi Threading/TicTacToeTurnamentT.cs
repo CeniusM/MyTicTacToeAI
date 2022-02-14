@@ -88,6 +88,7 @@ namespace TicTacToeAI
             // CS_MyConsole.MyConsole.WriteLine(Data);
 
             winners.Add(_players[Generations.GetWinner(_players)]);
+            // _players = Generations.NewGenerationV3(_players); // still being teseted
             _players = Generations.NewGenerationV2(_players, 10); // still being teseted
             // _players = Generations.NewGeneration(_players);
         }

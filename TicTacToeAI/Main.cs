@@ -21,7 +21,7 @@ namespace TicTacToeAI
         public Main(Form1 form)
         {
             this.form = form;
-            TTTturnament = new TTT_TurnamentT(200, 100000, 10);
+            TTTturnament = new TTT_TurnamentT(100, 1000000, 6);
             _networkPrinter = new NetworkPrinter(this.form);
 
             TTTturnament.genarationDone += PrintWinner;
