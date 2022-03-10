@@ -1,12 +1,3 @@
-/*
-To-do List:
-
-implement a good! saving and loading sytem
-implement a good way to see the improvement of the best player
-improve the newGeneartion methods
-
-*/
-using AIGUI;
 using winForm;
 
 namespace TicTacToeAI
@@ -44,15 +35,7 @@ namespace TicTacToeAI
 
         private void KeyPress(object? sender, KeyPressEventArgs e)
         {
-            return; // the code dosent work :D
-            if (e.KeyChar == 'w')
-            {
-                TTTturnament.SetThreadAmout(TTTturnament.threadAmount + 1);
-            }
-            else if (e.KeyChar == 's')
-            {
-                TTTturnament.SetThreadAmout(TTTturnament.threadAmount - 1);
-            }
+            
         }
 
         public void Stop()
